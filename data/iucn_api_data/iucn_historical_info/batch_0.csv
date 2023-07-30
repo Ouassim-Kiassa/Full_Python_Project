@@ -1,0 +1,2630 @@
+year,assess_year,code,category,taxonid_iucn
+2012,2011,CR,Critically Endangered,3
+1996,1996,DD,Data Deficient,3
+1994,1994,V,Vulnerable,3
+2012,2011,CR,Critically Endangered,198783
+2012,2011,CR,Critically Endangered,198784
+2012,2011,CR,Critically Endangered,198785
+2012,2011,CR,Critically Endangered,198786
+2012,2011,CR,Critically Endangered,198787
+2012,2011,CR,Critically Endangered,6
+1996,1996,DD,Data Deficient,6
+1994,1994,V,Vulnerable,6
+2012,2011,CR,Critically Endangered,7
+1996,1996,DD,Data Deficient,7
+1994,1994,V,Vulnerable,7
+2012,2011,CR,Critically Endangered,8
+1996,1996,DD,Data Deficient,8
+1994,1994,V,Vulnerable,8
+2011,2011,CR,Critically Endangered,9
+1996,1996,DD,Data Deficient,9
+2021,2018,CR,Critically Endangered,125160424
+2016,2016,CR,Critically Endangered,18
+2008,2008,CR,Critically Endangered,18
+1996,1996,VU,Vulnerable,18
+2013,2012,CR,Critically Endangered,203014
+2013,2012,CR,Critically Endangered,29479
+2019,2018,CR,Critically Endangered,118245249
+2014,2013,CR,Critically Endangered,60633
+2006,2006,EN,Endangered,60633
+2015,2012,CR,Critically Endangered,203404
+2014,2013,CR,Critically Endangered,19017787
+2006,2006,CR,Critically Endangered,61454
+2009,2008,CR,Critically Endangered,164562
+2006,2006,CR,Critically Endangered,61459
+2006,2006,CR,Critically Endangered,61463
+2020,2014,CR,Critically Endangered,19674914
+2014,2014,CR,Critically Endangered,19674914
+2014,2011,CR,Critically Endangered,176325
+2010,2009,DD,Data Deficient,176325
+2021,2020,CR,Critically Endangered,157702758
+1996,1996,CR,Critically Endangered,168
+1994,1994,E,Endangered,168
+1990,1990,E,Endangered,168
+1983,1983,E,Endangered,168
+1996,1996,CR,Critically Endangered,169
+1994,1994,E,Endangered,169
+1990,1990,E,Endangered,169
+1983,1983,E,Endangered,169
+1996,1996,CR,Critically Endangered,171
+1994,1994,E,Endangered,171
+1990,1990,E,Endangered,171
+1983,1983,E,Endangered,171
+1996,1996,CR,Critically Endangered,172
+1994,1994,E,Endangered,172
+1990,1990,E,Endangered,172
+1983,1983,E,Endangered,172
+1996,1996,CR,Critically Endangered,175
+1994,1994,E,Endangered,175
+1990,1990,Ex,Extinct,175
+1983,1983,E,Endangered,175
+1996,1996,CR,Critically Endangered,176
+1994,1994,E,Endangered,176
+1990,1990,E,Endangered,176
+1983,1983,E,Endangered,176
+1996,1996,CR,Critically Endangered,177
+1994,1994,E,Endangered,177
+1990,1990,E,Endangered,177
+1983,1983,E,Endangered,177
+1996,1996,CR,Critically Endangered,178
+1994,1994,E,Endangered,178
+1990,1990,E,Endangered,178
+1983,1983,E,Endangered,178
+1996,1996,CR,Critically Endangered,182
+1994,1994,E,Endangered,182
+1990,1990,E,Endangered,182
+1983,1983,E,Endangered,182
+1996,1996,CR,Critically Endangered,183
+1994,1994,E,Endangered,183
+1990,1990,E,Endangered,183
+1983,1983,E,Endangered,183
+1996,1996,CR,Critically Endangered,209
+1994,1994,E,Endangered,209
+1983,1983,E,Endangered,209
+1996,1996,CR,Critically Endangered,188
+1994,1994,E,Endangered,188
+1990,1990,E,Endangered,188
+1983,1983,E,Endangered,188
+1996,1996,CR,Critically Endangered,190
+1994,1994,E,Endangered,190
+1990,1990,E,Endangered,190
+1983,1983,E,Endangered,190
+1996,1996,CR,Critically Endangered,191
+1994,1994,E,Endangered,191
+1990,1990,E,Endangered,191
+1983,1983,E,Endangered,191
+1996,1996,CR,Critically Endangered,193
+1994,1994,E,Endangered,193
+1990,1990,Ex,Extinct,193
+1983,1983,E,Endangered,193
+1996,1996,CR,Critically Endangered,194
+1994,1994,E,Endangered,194
+1990,1990,E,Endangered,194
+1983,1983,E,Endangered,194
+1996,1996,CR,Critically Endangered,195
+1994,1994,E,Endangered,195
+1990,1990,E,Endangered,195
+1983,1983,E,Endangered,195
+1996,1996,CR,Critically Endangered,197
+1994,1994,E,Endangered,197
+1990,1990,E,Endangered,197
+1983,1983,E,Endangered,197
+1996,1996,CR,Critically Endangered,199
+1994,1994,E,Endangered,199
+1990,1990,Ex,Extinct,199
+1983,1983,E,Endangered,199
+1996,1996,CR,Critically Endangered,200
+1994,1994,E,Endangered,200
+1990,1990,E,Endangered,200
+1983,1983,E,Endangered,200
+1996,1996,CR,Critically Endangered,201
+1994,1994,E,Endangered,201
+1990,1990,E,Endangered,201
+1983,1983,E,Endangered,201
+1996,1996,CR,Critically Endangered,203
+1994,1994,E,Endangered,203
+1990,1990,E,Endangered,203
+1983,1983,E,Endangered,203
+1996,1996,CR,Critically Endangered,205
+1994,1994,E,Endangered,205
+1990,1990,Ex,Extinct,205
+1983,1983,E,Endangered,205
+1996,1996,CR,Critically Endangered,207
+1994,1994,E,Endangered,207
+1990,1990,Ex,Extinct,207
+1983,1983,E,Endangered,207
+2008,2008,CR,Critically Endangered,212
+1996,1996,EN,Endangered,212
+1994,1994,I,Indeterminate,212
+2014,2014,CR,Critically Endangered,20638495
+2014,2014,CR,Critically Endangered,20638574
+2008,2008,CR,Critically Endangered,221
+1996,1996,EN,Endangered,221
+2008,2008,CR,Critically Endangered,220
+1996,1996,CR,Critically Endangered,220
+1994,1994,E,Endangered,220
+1990,1990,E,Endangered,220
+1988,1988,E,Endangered,220
+1986,1986,E,Endangered,220
+1965,1965,,"""Very rare and believed to be decreasing in numbers""",220
+2010,2009,CR,Critically Endangered,231
+1996,1996,CR,Critically Endangered,231
+2010,2009,CR,Critically Endangered,232
+1996,1996,EN,Endangered,232
+2010,2009,CR,Critically Endangered,241
+1996,1996,EN,Endangered,241
+2011,2009,CR,Critically Endangered,224
+2010,2009,CR,Critically Endangered,224
+1996,1996,VU,Vulnerable,224
+2010,2009,CR,Critically Endangered,225
+1996,1996,EN,Endangered,225
+2010,2009,CR,Critically Endangered,235
+1996,1996,EN,Endangered,235
+2010,2009,CR,Critically Endangered,228
+1996,1996,EN,Endangered,228
+1994,1994,V,Vulnerable,228
+1990,1990,V,Vulnerable,228
+1988,1988,V,Vulnerable,228
+1986,1986,V,Vulnerable,228
+2010,2009,CR,Critically Endangered,236
+1996,1996,EN,Endangered,236
+2010,2009,CR,Critically Endangered,229
+1996,1996,EN,Endangered,229
+2010,2009,CR,Critically Endangered,230
+1996,1996,CR,Critically Endangered,230
+1994,1994,E,Endangered,230
+1990,1990,E,Endangered,230
+1988,1988,E,Endangered,230
+2004,2004,CR,Critically Endangered,44561
+2013,2012,CR,Critically Endangered,43184845
+2020,2017,CR,Critically Endangered,58077015
+2016,2014,CR,Critically Endangered,65403156
+2016,2016,CR,Critically Endangered,22714797
+2015,2015,CR,Critically Endangered,22714797
+2012,2012,CR,Critically Endangered,22714797
+2010,2010,CR,Critically Endangered,22714797
+2009,2009,CR,Critically Endangered,22714797
+2008,2008,CR,Critically Endangered,22714797
+2004,2004,CR,Critically Endangered,22714797
+2000,2000,CR,Critically Endangered,22714797
+1996,1996,VU,Vulnerable,22714797
+1994,1994,VU,Vulnerable,22714797
+1988,1988,T,Threatened,22714797
+2016,2016,CR,Critically Endangered,103780118
+2019,2019,CR,Critically Endangered,22735588
+2016,2016,CR,Critically Endangered,22735588
+2021,2020,CR,Critically Endangered,22714826
+2018,2017,CR,Critically Endangered,22714826
+2017,2016,VU,Vulnerable,22714826
+2017,2017,CR,Critically Endangered,22714826
+2016,2016,VU,Vulnerable,22714826
+2012,2012,VU,Vulnerable,22714826
+2008,2008,VU,Vulnerable,22714826
+2006,2006,VU,Vulnerable,22714826
+2004,2004,VU,Vulnerable,22714826
+2000,2000,VU,Vulnerable,22714826
+1994,1994,NR,Not Recognized,22714826
+1988,1988,NR,Not Recognized,22714826
+2010,2009,CR,Critically Endangered,156051
+2008,2008,CR,Critically Endangered,133381
+2008,2008,CR,Critically Endangered,133006
+2016,2016,CR,Critically Endangered,16896690
+2012,2012,NT,Near Threatened,16896690
+2020,2016,CR,Critically Endangered,15038553
+2016,2016,CR,Critically Endangered,15038553
+2012,2012,CR,Critically Endangered,15038553
+2017,2017,CR,Critically Endangered,161476
+2016,2008,DD,Data Deficient,161476
+2009,2008,DD,Data Deficient,161476
+2011,2010,CR,Critically Endangered,156791
+2011,2010,CR,Critically Endangered,507
+1996,1996,LR/nt,Lower Risk/near threatened,507
+1994,1994,V,Vulnerable,507
+2016,2016,CR,Critically Endangered,512
+2008,2008,CR,Critically Endangered,512
+2006,2006,CR,Critically Endangered,512
+2000,2000,CR,Critically Endangered,512
+1996,1996,EN,Endangered,512
+1994,1994,E,Endangered,512
+1990,1990,E,Endangered,512
+1988,1988,E,Endangered,512
+1986,1986,E,Endangered,512
+1965,1965,,"""Status inadequately known-survey required or data sought""",512
+1996,1996,CR,Critically Endangered,522
+2021,2021,CR,Critically Endangered,195276406
+2021,2021,CR,Critically Endangered,195276867
+2019,2018,CR,Critically Endangered,523
+1996,1996,CR,Critically Endangered,523
+1994,1994,E,Endangered,523
+1990,1990,E,Endangered,523
+1988,1988,E,Endangered,523
+2019,2018,CR,Critically Endangered,90980527
+2016,2016,CR,Critically Endangered,22689559
+2013,2013,CR,Critically Endangered,22689559
+2012,2012,CR,Critically Endangered,22689559
+2010,2010,CR,Critically Endangered,22689559
+2009,2009,CR,Critically Endangered,22689559
+2008,2008,CR,Critically Endangered,22689559
+2004,2004,CR,Critically Endangered,22689559
+2000,2000,CR,Critically Endangered,22689559
+1996,1996,EN,Endangered,22689559
+1994,1994,EN,Endangered,22689559
+1988,1988,LR/lc,Lower Risk/least concern,22689559
+2021,2021,CR,Critically Endangered,189533430
+2018,2018,CR,Critically Endangered,63761735
+2021,2020,CR,Critically Endangered,60127
+2016,2006,DD,Data Deficient,60127
+2006,2006,DD,Data Deficient,60127
+2004,2004,CR,Critically Endangered,2664
+2000,2000,EN,Endangered,2664
+1996,1996,EN,Endangered,2664
+1994,1994,K,Insufficiently Known,2664
+1990,1990,K,Insufficiently Known,2664
+1988,1988,K,Insufficiently Known,2664
+2018,2016,CR,Critically Endangered,59694
+2010,2007,VU,Vulnerable,59694
+2007,2007,VU,Vulnerable,59694
+2006,2006,EN,Endangered,59694
+2020,2019,CR,Critically Endangered,594
+2008,2008,DD,Data Deficient,594
+1996,1996,CR,Critically Endangered,594
+2020,2019,CR,Critically Endangered,592
+2008,2008,DD,Data Deficient,592
+1996,1996,CR,Critically Endangered,592
+2014,2012,CR,Critically Endangered,196533
+2020,2019,CR,Critically Endangered,55855
+2008,2008,CR,Critically Endangered,55855
+2004,2004,CR,Critically Endangered,55855
+2015,2015,CR,Critically Endangered,67367669
+2017,2017,CR,Critically Endangered,103896223
+1996,1996,CR,Critically Endangered,39312
+1994,1994,I,Indeterminate,39312
+1990,1990,I,Indeterminate,39312
+1988,1988,I,Indeterminate,39312
+1986,1986,I,Indeterminate,39312
+2021,2020,CR,Critically Endangered,188974686
+2021,2020,CR,Critically Endangered,704
+1996,1996,EX,Extinct,704
+1994,1994,Ex?,Extinct?,704
+1990,1990,Ex?,Extinct?,704
+1988,1988,Ex?,Extinct?,704
+1986,1986,Ex?,Extinct?,704
+2021,2020,CR,Critically Endangered,188987541
+2021,2020,CR,Critically Endangered,705
+1996,1996,EX,Extinct,705
+1994,1994,Ex,Extinct,705
+1990,1990,Ex,Extinct,705
+1988,1988,Ex,Extinct,705
+1986,1986,Ex,Extinct,705
+2021,2020,CR,Critically Endangered,706
+1996,1996,EX,Extinct,706
+1994,1994,Ex?,Extinct?,706
+1990,1990,Ex?,Extinct?,706
+1988,1988,Ex?,Extinct?,706
+1986,1986,Ex?,Extinct?,706
+2021,2020,CR,Critically Endangered,707
+1996,1996,EX,Extinct,707
+1994,1994,Ex,Extinct,707
+1990,1990,Ex,Extinct,707
+1988,1988,Ex,Extinct,707
+1986,1986,Ex,Extinct,707
+2021,2020,CR,Critically Endangered,188988510
+2021,2020,CR,Critically Endangered,188988592
+2021,2020,CR,Critically Endangered,708
+1996,1996,EX,Extinct,708
+1994,1994,Ex,Extinct,708
+1990,1990,Ex,Extinct,708
+1988,1988,Ex,Extinct,708
+1986,1986,Ex,Extinct,708
+2021,2020,CR,Critically Endangered,709
+1996,1996,EX,Extinct,709
+1994,1994,Ex,Extinct,709
+1990,1990,Ex,Extinct,709
+1988,1988,Ex,Extinct,709
+1986,1986,Ex,Extinct,709
+2021,2017,CR,Critically Endangered,58079814
+2021,2020,CR,Critically Endangered,61430
+2006,2006,VU,Vulnerable,61430
+2016,2015,CR,Critically Endangered,136218
+2008,2008,CR,Critically Endangered,136218
+2012,2011,CR,Critically Endangered,196322
+2020,2018,CR,Critically Endangered,772
+1996,1996,VU,Vulnerable,772
+1994,1994,V,Vulnerable,772
+1990,1990,V,Vulnerable,772
+1988,1988,V,Vulnerable,772
+1986,1986,V,Vulnerable,772
+2012,2012,CR,Critically Endangered,776
+2000,2000,CR,Critically Endangered,776
+1996,1996,CR,Critically Endangered,776
+1994,1994,I,Indeterminate,776
+1990,1990,E,Endangered,776
+1988,1988,E,Endangered,776
+1986,1986,I,Indeterminate,776
+2021,2020,CR,Critically Endangered,22717428
+2018,2018,CR,Critically Endangered,22717428
+2017,2016,CR,Critically Endangered,22717428
+2016,2016,CR,Critically Endangered,22717428
+2013,2013,CR,Critically Endangered,22717428
+2012,2012,CR,Critically Endangered,22717428
+2011,2011,CR,Critically Endangered,22717428
+2010,2010,CR,Critically Endangered,22717428
+2009,2009,CR,Critically Endangered,22717428
+2008,2008,CR,Critically Endangered,22717428
+2004,2004,CR,Critically Endangered,22717428
+2000,2000,CR,Critically Endangered,22717428
+1996,1996,EN,Endangered,22717428
+1994,1994,EN,Endangered,22717428
+1988,1988,T,Threatened,22717428
+2017,2016,CR,Critically Endangered,171612
+2017,2016,CR,Critically Endangered,171775
+2017,2016,CR,Critically Endangered,171538
+2008,2008,CR,Critically Endangered,135620
+2008,2008,CR,Critically Endangered,135598
+2014,2013,CR,Critically Endangered,19018610
+2014,2013,CR,Critically Endangered,19885345
+2008,2008,CR,Critically Endangered,135503
+2016,2016,CR,Critically Endangered,22726971
+2015,2014,CR,Critically Endangered,22726971
+2015,2015,CR,Critically Endangered,22726971
+2014,2014,CR,Critically Endangered,22726971
+2017,2016,CR,Critically Endangered,810
+2008,2008,CR,Critically Endangered,810
+1996,1996,EN,Endangered,810
+1994,1994,E,Endangered,810
+1990,1990,E,Endangered,810
+1988,1988,E,Endangered,810
+1986,1986,E,Endangered,810
+2017,2017,CR,Critically Endangered,97634472
+2018,2017,CR,Critically Endangered,56088
+2004,2004,CR,Critically Endangered,56088
+2019,2018,CR,Critically Endangered,191250
+2019,2018,CR,Critically Endangered,191251
+2016,2015,CR,Critically Endangered,44579133
+2020,2013,CR,Critically Endangered,19672436
+2013,2013,CR,Critically Endangered,19672436
+2018,2017,CR,Critically Endangered,867
+1996,1996,CR,Critically Endangered,867
+1994,1994,E,Endangered,867
+1990,1990,E,Endangered,867
+1988,1988,E,Endangered,867
+1986,1986,E,Endangered,867
+1982,1982,E,Endangered,867
+2020,2019,CR,Critically Endangered,136097
+2008,2008,DD,Data Deficient,136097
+2021,2020,CR,Critically Endangered,55066
+2010,2008,VU,Vulnerable,55066
+2004,2004,VU,Vulnerable,55066
+2020,2019,CR,Critically Endangered,55113
+2004,2004,NT,Near Threatened,55113
+2020,2018,CR,Critically Endangered,55141
+2019,2018,CR,Critically Endangered,55141
+2010,2008,EN,Endangered,55141
+2004,2004,EN,Endangered,55141
+2010,2003,CR,Critically Endangered,180563
+2019,2018,CR,Critically Endangered,191370
+2020,2019,CR,Critically Endangered,160967283
+2020,2019,CR,Critically Endangered,160969193
+2019,2018,CR,Critically Endangered,191694
+2019,2018,CR,Critically Endangered,169372
+2009,2007,CR,Critically Endangered,169372
+2019,2018,CR,Critically Endangered,881
+1996,1996,CR,Critically Endangered,881
+1994,1994,E,Endangered,881
+1990,1990,E,Endangered,881
+1988,1988,V,Vulnerable,881
+1986,1986,V,Vulnerable,881
+2019,2018,CR,Critically Endangered,191697
+2019,2018,CR,Critically Endangered,191699
+2017,2015,CR,Critically Endangered,80373309
+2020,2018,CR,Critically Endangered,892
+1996,1996,VU,Vulnerable,892
+1994,1994,R,Rare,892
+2020,2018,CR,Critically Endangered,161276036
+2018,2017,CR,Critically Endangered,22691030
+2017,2016,CR,Critically Endangered,22691030
+2017,2017,CR,Critically Endangered,22691030
+2016,2016,CR,Critically Endangered,22691030
+2015,2015,CR,Critically Endangered,22691030
+2013,2013,CR,Critically Endangered,22691030
+2012,2012,CR,Critically Endangered,22691030
+2009,2009,CR,Critically Endangered,22691030
+2008,2008,CR,Critically Endangered,22691030
+2004,2004,CR,Critically Endangered,22691030
+2000,2000,CR,Critically Endangered,22691030
+1996,1996,CR,Critically Endangered,22691030
+1994,1994,CR,Critically Endangered,22691030
+1988,1988,T,Threatened,22691030
+2019,2013,CR,Critically Endangered,44578120
+2008,2008,CR,Critically Endangered,135582
+2006,2006,CR,Critically Endangered,61393
+2020,2016,CR,Critically Endangered,39917
+2008,2008,CR,Critically Endangered,39917
+2003,2003,CR,Critically Endangered,39917
+2000,2000,CR,Critically Endangered,39917
+1996,1996,CR,Critically Endangered,39917
+1994,1994,E,Endangered,39917
+2015,2015,CR,Critically Endangered,76338143
+2019,2018,CR,Critically Endangered,56319
+2013,2012,CR,Critically Endangered,56319
+2004,2004,DD,Data Deficient,56319
+2016,2015,CR,Critically Endangered,939
+2010,2009,CR,Critically Endangered,939
+1996,1996,CR,Critically Endangered,939
+1994,1994,E,Endangered,939
+2016,2015,CR,Critically Endangered,190566
+2017,2008,CR,Critically Endangered,164598
+2017,2016,CR,Critically Endangered,47755615
+2020,2012,CR,Critically Endangered,54886
+2014,2012,CR,Critically Endangered,54886
+2004,2004,VU,Vulnerable,54886
+2011,2009,CR,Critically Endangered,155645
+2011,2009,CR,Critically Endangered,171938
+2011,2010,CR,Critically Endangered,171958
+2011,2009,CR,Critically Endangered,155894
+2010,2008,CR,Critically Endangered,984
+2006,2006,CR,Critically Endangered,984
+1996,1996,EN,Endangered,984
+1994,1994,E,Endangered,984
+1990,1990,E,Endangered,984
+1988,1988,E,Endangered,984
+1986,1986,E,Endangered,984
+1996,1996,CR,Critically Endangered,985
+1994,1994,E,Endangered,985
+1996,1996,CR,Critically Endangered,986
+1994,1994,E,Endangered,986
+1996,1996,CR,Critically Endangered,987
+1994,1994,E,Endangered,987
+1996,1996,CR,Critically Endangered,988
+1994,1994,E,Endangered,988
+2021,2020,CR,Critically Endangered,119194112
+2017,2017,CR,Critically Endangered,119194112
+2021,2021,CR,Critically Endangered,22686342
+2017,2017,EN,Endangered,22686342
+2016,2016,VU,Vulnerable,22686342
+2012,2012,VU,Vulnerable,22686342
+2009,2009,LC,Least Concern,22686342
+2008,2008,LC,Least Concern,22686342
+2004,2004,LC,Least Concern,22686342
+2000,2000,LR/lc,Lower Risk/least concern,22686342
+1994,1994,LR/lc,Lower Risk/least concern,22686342
+1988,1988,LR/lc,Lower Risk/least concern,22686342
+2021,2021,CR,Critically Endangered,22686411
+2019,2019,CR,Critically Endangered,22686411
+2016,2016,EN,Endangered,22686411
+2013,2013,EN,Endangered,22686411
+2012,2012,EN,Endangered,22686411
+2008,2008,EN,Endangered,22686411
+2004,2004,EN,Endangered,22686411
+2000,2000,EN,Endangered,22686411
+1996,1996,VU,Vulnerable,22686411
+1994,1994,VU,Vulnerable,22686411
+1988,1988,T,Threatened,22686411
+2020,2020,CR,Critically Endangered,22728296
+2018,2018,EN,Endangered,22728296
+2016,2016,EN,Endangered,22728296
+2014,2014,EN,Endangered,22728296
+2020,2020,CR,Critically Endangered,22686239
+2018,2018,CR,Critically Endangered,22686239
+2016,2016,CR,Critically Endangered,22686239
+2015,2015,CR,Critically Endangered,22686239
+2013,2013,CR,Critically Endangered,22686239
+2012,2012,CR,Critically Endangered,22686239
+2010,2010,CR,Critically Endangered,22686239
+2009,2009,CR,Critically Endangered,22686239
+2008,2008,CR,Critically Endangered,22686239
+2006,2006,CR,Critically Endangered,22686239
+2004,2004,CR,Critically Endangered,22686239
+2000,2000,CR,Critically Endangered,22686239
+1996,1996,CR,Critically Endangered,22686239
+1994,1994,CR,Critically Endangered,22686239
+1988,1988,T,Threatened,22686239
+1996,1996,CR,Critically Endangered,1076
+1994,1994,I,Indeterminate,1076
+2020,2019,CR,Critically Endangered,152330878
+2020,2019,CR,Critically Endangered,44177
+2004,2004,EN,Endangered,44177
+2020,2019,CR,Critically Endangered,44178
+2004,2004,VU,Vulnerable,44178
+2020,2019,CR,Critically Endangered,152331440
+2016,2014,CR,Critically Endangered,59050
+2008,2008,CR,Critically Endangered,59050
+2004,2004,CR,Critically Endangered,59050
+2015,2014,CR,Critically Endangered,59051
+2008,2008,CR,Critically Endangered,59051
+2004,2004,CR,Critically Endangered,59051
+2020,2015,CR,Critically Endangered,59055
+2008,2008,CR,Critically Endangered,59055
+2004,2004,CR,Critically Endangered,59055
+1994,1994,R,Rare,59055
+1990,1990,R,Rare,59055
+1988,1988,R,Rare,59055
+1986,1986,R,Rare,59055
+2020,2019,CR,Critically Endangered,59061
+2008,2008,CR,Critically Endangered,59061
+2004,2004,CR,Critically Endangered,59061
+2020,2019,CR,Critically Endangered,1095
+2010,2008,CR,Critically Endangered,1095
+2006,2006,CR,Critically Endangered,1095
+2004,2004,VU,Vulnerable,1095
+1996,1996,VU,Vulnerable,1095
+1994,1994,R,Rare,1095
+1990,1990,R,Rare,1095
+1988,1988,R,Rare,1095
+1986,1986,R,Rare,1095
+2015,2014,CR,Critically Endangered,59070
+2010,2009,CR,Critically Endangered,59070
+2008,2008,CR,Critically Endangered,59070
+2004,2004,CR,Critically Endangered,59070
+2019,2018,CR,Critically Endangered,1117
+1996,1996,EW,Extinct in the Wild,1117
+1994,1994,E,Endangered,1117
+1990,1990,E,Endangered,1117
+2019,2017,CR,Critically Endangered,29432
+2004,2004,CR,Critically Endangered,29432
+2014,2013,CR,Critically Endangered,19198593
+2019,2017,CR,Critically Endangered,122150350
+2021,2020,CR,Critically Endangered,173699164
+2020,2019,CR,Critically Endangered,150107127
+2020,2019,CR,Critically Endangered,150107133
+2020,2019,CR,Critically Endangered,150107194
+2020,2019,CR,Critically Endangered,150122729
+2020,2019,CR,Critically Endangered,150122874
+2020,2019,CR,Critically Endangered,169382
+2009,2007,CR,Critically Endangered,169382
+2016,2015,CR,Critically Endangered,74855383
+2016,2015,CR,Critically Endangered,74855790
+2016,2015,CR,Critically Endangered,74856459
+2021,2014,CR,Critically Endangered,75161540
+2009,2007,CR,Critically Endangered,166177
+2011,2011,CR,Critically Endangered,166094
+2011,2011,CR,Critically Endangered,166068
+2016,2014,CR,Critically Endangered,49830703
+2010,2009,CR,Critically Endangered,176265
+2018,2018,CR,Critically Endangered,22680203
+2016,2016,CR,Critically Endangered,22680203
+2015,2015,CR,Critically Endangered,22680203
+2013,2013,CR,Critically Endangered,22680203
+2012,2012,CR,Critically Endangered,22680203
+2010,2010,CR,Critically Endangered,22680203
+2009,2009,CR,Critically Endangered,22680203
+2008,2008,CR,Critically Endangered,22680203
+2006,2006,CR,Critically Endangered,22680203
+2004,2004,CR,Critically Endangered,22680203
+2000,2000,VU,Vulnerable,22680203
+1996,1996,VU,Vulnerable,22680203
+1994,1994,VU,Vulnerable,22680203
+1988,1988,T,Threatened,22680203
+1996,1996,CR,Critically Endangered,1261
+1994,1994,E,Endangered,1261
+1990,1990,E,Endangered,1261
+1988,1988,E,Endangered,1261
+1986,1986,E,Endangered,1261
+1983,1983,E,Endangered,1261
+2010,2008,CR,Critically Endangered,1262
+1996,1996,EN,Endangered,1262
+2014,2012,CR,Critically Endangered,196505
+2019,2016,CR,Critically Endangered,55170
+2004,2004,CR,Critically Endangered,55170
+2019,2018,CR,Critically Endangered,77318469
+2017,2016,CR,Critically Endangered,55210
+2004,2004,VU,Vulnerable,55210
+2013,2013,CR,Critically Endangered,19199315
+2017,2017,CR,Critically Endangered,103896506
+2004,2004,CR,Critically Endangered,1272
+1996,1996,DD,Data Deficient,1272
+1994,1994,I,Indeterminate,1272
+1990,1990,I,Indeterminate,1272
+1988,1988,I,Indeterminate,1272
+1986,1986,I,Indeterminate,1272
+1996,1996,CR,Critically Endangered,1290
+1994,1994,K,Insufficiently Known,1290
+1990,1990,K,Insufficiently Known,1290
+1988,1988,K,Insufficiently Known,1290
+1986,1986,K,Insufficiently Known,1290
+1983,1983,K,Insufficiently Known,1290
+2020,2018,CR,Critically Endangered,60344
+2014,2013,CR,Critically Endangered,60344
+2010,2008,CR,Critically Endangered,60344
+2008,2008,CR,Critically Endangered,60344
+2016,2015,CR,Critically Endangered,58010
+2008,2008,CR,Critically Endangered,58010
+2004,2004,CR,Critically Endangered,58010
+2018,2017,CR,Critically Endangered,102839222
+2013,2013,CR,Critically Endangered,19672459
+2021,2020,CR,Critically Endangered,200030437
+2010,2007,CR,Critically Endangered,184637
+2010,2007,CR,Critically Endangered,184606
+2016,2016,CR,Critically Endangered,190943
+2011,2011,DD,Data Deficient,190943
+2020,2016,CR,Critically Endangered,190944
+2016,2016,CR,Critically Endangered,190944
+2012,2011,CR,Critically Endangered,190944
+2019,2019,CR,Critically Endangered,22685527
+2016,2016,CR,Critically Endangered,22685527
+2015,2015,CR,Critically Endangered,22685527
+2013,2012,CR,Critically Endangered,22685527
+2012,2012,CR,Critically Endangered,22685527
+2010,2010,CR,Critically Endangered,22685527
+2009,2009,CR,Critically Endangered,22685527
+2008,2008,CR,Critically Endangered,22685527
+2004,2004,CR,Critically Endangered,22685527
+2000,2000,CR,Critically Endangered,22685527
+1996,1996,EX,Extinct,22685527
+1994,1994,EX,Extinct,22685527
+1988,1988,T,Threatened,22685527
+2020,2015,CR,Critically Endangered,74994414
+2020,2016,CR,Critically Endangered,178363
+2011,2009,EN,Endangered,178363
+2021,2012,CR,Critically Endangered,203080
+2021,2012,CR,Critically Endangered,178272
+2011,2009,EN,Endangered,178272
+2020,2015,CR,Critically Endangered,74994974
+2021,2020,CR,Critically Endangered,74995219
+2020,2015,CR,Critically Endangered,74995297
+2020,2016,CR,Critically Endangered,178278
+2011,2009,CR,Critically Endangered,178278
+2020,2015,CR,Critically Endangered,178592
+2010,2009,EN,Endangered,178592
+2020,2012,CR,Critically Endangered,203101
+2021,2012,CR,Critically Endangered,203108
+2021,2012,CR,Critically Endangered,203109
+2020,2012,CR,Critically Endangered,178478
+2011,2009,VU,Vulnerable,178478
+2021,2020,CR,Critically Endangered,74995991
+2020,2019,CR,Critically Endangered,178336
+2011,2009,LC,Least Concern,178336
+2020,2015,CR,Critically Endangered,75085311
+2020,2015,CR,Critically Endangered,1319
+2011,2009,CR,Critically Endangered,1319
+1996,1996,CR,Critically Endangered,1319
+1994,1994,E,Endangered,1319
+1990,1990,E,Endangered,1319
+1988,1988,E,Endangered,1319
+1986,1986,E,Endangered,1319
+2021,2019,CR,Critically Endangered,75086730
+2021,2012,CR,Critically Endangered,203674
+2020,2012,CR,Critically Endangered,203127
+2019,2014,CR,Critically Endangered,50950423
+2020,2012,CR,Critically Endangered,203128
+2019,2018,CR,Critically Endangered,125200843
+2019,2018,CR,Critically Endangered,125200559
+2016,2015,CR,Critically Endangered,47709755
+2018,2018,CR,Critically Endangered,54468
+2004,2004,EN,Endangered,54468
+2021,2018,CR,Critically Endangered,121383673
+2020,2018,CR,Critically Endangered,78901981
+2018,2018,CR,Critically Endangered,78901981
+2020,2019,CR,Critically Endangered,65880793
+2018,2018,CR,Critically Endangered,22704415
+2016,2016,CR,Critically Endangered,22704415
+2015,2015,CR,Critically Endangered,22704415
+2013,2013,CR,Critically Endangered,22704415
+2012,2012,CR,Critically Endangered,22704415
+2008,2008,EN,Endangered,22704415
+2007,2007,EN,Endangered,22704415
+2004,2004,EN,Endangered,22704415
+2000,2000,EN,Endangered,22704415
+1996,1996,EN,Endangered,22704415
+1994,1994,EN,Endangered,22704415
+1988,1988,T,Threatened,22704415
+2020,2020,CR,Critically Endangered,22682447
+2018,2016,CR,Critically Endangered,22682447
+2016,2016,CR,Critically Endangered,22682447
+2013,2013,CR,Critically Endangered,22682447
+2012,2012,CR,Critically Endangered,22682447
+2010,2010,CR,Critically Endangered,22682447
+2009,2009,CR,Critically Endangered,22682447
+2008,2008,CR,Critically Endangered,22682447
+2006,2006,CR,Critically Endangered,22682447
+2004,2004,CR,Critically Endangered,22682447
+2000,2000,CR,Critically Endangered,22682447
+1996,1996,CR,Critically Endangered,22682447
+1994,1994,CR,Critically Endangered,22682447
+1988,1988,T,Threatened,22682447
+2018,2018,CR,Critically Endangered,22728410
+2016,2016,CR,Critically Endangered,22728410
+2015,2015,CR,Critically Endangered,22728410
+2012,2012,CR,Critically Endangered,22728410
+2011,2011,CR,Critically Endangered,22728410
+2010,2010,CR,Critically Endangered,22728410
+2009,2009,CR,Critically Endangered,22728410
+2008,2008,CR,Critically Endangered,22728410
+2004,2004,CR,Critically Endangered,22728410
+2000,2000,CR,Critically Endangered,22728410
+1994,1994,NR,Not Recognized,22728410
+1988,1988,NR,Not Recognized,22728410
+2012,2007,CR,Critically Endangered,199526
+1996,1996,CR,Critically Endangered,1784
+2021,2020,CR,Critically Endangered,22713719
+2018,2018,CR,Critically Endangered,22713719
+2017,2016,CR,Critically Endangered,22713719
+2016,2016,CR,Critically Endangered,22713719
+2015,2015,CR,Critically Endangered,22713719
+2012,2012,CR,Critically Endangered,22713719
+2011,2011,CR,Critically Endangered,22713719
+2010,2010,CR,Critically Endangered,22713719
+2009,2009,CR,Critically Endangered,22713719
+2008,2008,CR,Critically Endangered,22713719
+2004,2004,CR,Critically Endangered,22713719
+2000,2000,CR,Critically Endangered,22713719
+1996,1996,CR,Critically Endangered,22713719
+1994,1994,CR,Critically Endangered,22713719
+1988,1988,NR,Not Recognized,22713719
+2016,1996,CR,Critically Endangered,1820
+1996,1996,CR,Critically Endangered,1820
+2008,2008,CR,Critically Endangered,135600
+2014,2013,CR,Critically Endangered,19483002
+2014,2013,CR,Critically Endangered,60411
+2006,2006,CR,Critically Endangered,60411
+2014,2013,CR,Critically Endangered,1850
+1996,1996,CR,Critically Endangered,1850
+2017,2015,CR,Critically Endangered,80351408
+2018,2016,CR,Critically Endangered,22702156
+2016,2016,CR,Critically Endangered,22702156
+2015,2015,CR,Critically Endangered,22702156
+2012,2012,CR,Critically Endangered,22702156
+2010,2010,CR,Critically Endangered,22702156
+2009,2009,CR,Critically Endangered,22702156
+2008,2008,CR,Critically Endangered,22702156
+2005,2005,CR,Critically Endangered,22702156
+2004,2004,VU,Vulnerable,22702156
+2000,2000,VU,Vulnerable,22702156
+1996,1996,VU,Vulnerable,22702156
+1994,1994,VU,Vulnerable,22702156
+1988,1988,T,Threatened,22702156
+2021,2020,CR,Critically Endangered,169518528
+2006,2006,CR,Critically Endangered,60325
+2016,2016,CR,Critically Endangered,22710490
+2012,2012,CR,Critically Endangered,22710490
+2011,2011,CR,Critically Endangered,22710490
+2010,2010,CR,Critically Endangered,22710490
+2009,2009,CR,Critically Endangered,22710490
+2008,2008,CR,Critically Endangered,22710490
+2004,2004,CR,Critically Endangered,22710490
+2000,2000,CR,Critically Endangered,22710490
+1996,1996,CR,Critically Endangered,22710490
+1994,1994,CR,Critically Endangered,22710490
+1988,1988,T,Threatened,22710490
+2014,2012,CR,Critically Endangered,196153
+2017,2016,CR,Critically Endangered,103186194
+2020,2012,CR,Critically Endangered,15157465
+2016,2014,CR,Critically Endangered,49830106
+2010,2007,CR,Critically Endangered,182964
+2016,2016,CR,Critically Endangered,1933
+2008,2008,CR,Critically Endangered,1933
+1996,1996,CR,Critically Endangered,1933
+1994,1994,E,Endangered,1933
+1990,1990,K,Insufficiently Known,1933
+1988,1988,K,Insufficiently Known,1933
+1996,1996,CR,Critically Endangered,1950
+2016,2016,CR,Critically Endangered,59391
+2010,2009,CR,Critically Endangered,59391
+2008,2008,CR,Critically Endangered,59391
+2004,2004,CR,Critically Endangered,59391
+2016,2016,CR,Critically Endangered,61911
+2008,2008,DD,Data Deficient,61911
+2006,2006,DD,Data Deficient,61911
+2020,2020,CR,Critically Endangered,22685553
+2016,2016,EN,Endangered,22685553
+2013,2013,EN,Endangered,22685553
+2012,2012,EN,Endangered,22685553
+2008,2008,EN,Endangered,22685553
+2005,2005,EN,Endangered,22685553
+2004,2004,VU,Vulnerable,22685553
+2000,2000,VU,Vulnerable,22685553
+1994,1994,LR/lc,Lower Risk/least concern,22685553
+1988,1988,LR/lc,Lower Risk/least concern,22685553
+2019,2018,CR,Critically Endangered,199560
+2012,2007,CR,Critically Endangered,199560
+2021,2021,CR,Critically Endangered,22685542
+2018,2018,CR,Critically Endangered,22685542
+2016,2016,CR,Critically Endangered,22685542
+2015,2015,CR,Critically Endangered,22685542
+2014,2014,CR,Critically Endangered,22685542
+2013,2013,CR,Critically Endangered,22685542
+2012,2012,CR,Critically Endangered,22685542
+2011,2011,CR,Critically Endangered,22685542
+2010,2010,CR,Critically Endangered,22685542
+2009,2009,CR,Critically Endangered,22685542
+2008,2008,CR,Critically Endangered,22685542
+2004,2004,CR,Critically Endangered,22685542
+2000,2000,CR,Critically Endangered,22685542
+1996,1996,EN,Endangered,22685542
+1994,1994,EN,Endangered,22685542
+1988,1988,T,Threatened,22685542
+2021,2021,CR,Critically Endangered,22685572
+2018,2018,CR,Critically Endangered,22685572
+2016,2016,EN,Endangered,22685572
+2013,2013,EN,Endangered,22685572
+2012,2012,EN,Endangered,22685572
+2008,2008,EN,Endangered,22685572
+2004,2004,EN,Endangered,22685572
+2000,2000,EN,Endangered,22685572
+1996,1996,EN,Endangered,22685572
+1994,1994,EN,Endangered,22685572
+1988,1988,T,Threatened,22685572
+2021,2020,CR,Critically Endangered,177897213
+2020,2010,CR,Critically Endangered,167424
+2011,2010,CR,Critically Endangered,167424
+2018,2018,CR,Critically Endangered,22697021
+2017,2016,CR,Critically Endangered,22697021
+2016,2016,CR,Critically Endangered,22697021
+2015,2015,CR,Critically Endangered,22697021
+2013,2013,CR,Critically Endangered,22697021
+2012,2012,CR,Critically Endangered,22697021
+2011,2011,CR,Critically Endangered,22697021
+2010,2010,CR,Critically Endangered,22697021
+2009,2009,CR,Critically Endangered,22697021
+2008,2008,CR,Critically Endangered,22697021
+2007,2007,CR,Critically Endangered,22697021
+2004,2004,EN,Endangered,22697021
+2000,2000,EN,Endangered,22697021
+1996,1996,EN,Endangered,22697021
+1994,1994,EN,Endangered,22697021
+1988,1988,T,Threatened,22697021
+2018,2018,CR,Critically Endangered,22691932
+2017,2016,CR,Critically Endangered,22691932
+2017,2017,CR,Critically Endangered,22691932
+2016,2016,CR,Critically Endangered,22691932
+2015,2015,CR,Critically Endangered,22691932
+2013,2013,CR,Critically Endangered,22691932
+2012,2012,CR,Critically Endangered,22691932
+2011,2011,CR,Critically Endangered,22691932
+2008,2008,EN,Endangered,22691932
+2004,2004,EN,Endangered,22691932
+2000,2000,EN,Endangered,22691932
+1996,1996,EN,Endangered,22691932
+1994,1994,EN,Endangered,22691932
+1988,1988,T,Threatened,22691932
+2018,2017,CR,Critically Endangered,65880800
+2018,2017,CR,Critically Endangered,65545215
+2021,2019,CR,Critically Endangered,125252765
+2014,2012,CR,Critically Endangered,196745
+2004,2004,CR,Critically Endangered,44632
+2004,2004,CR,Critically Endangered,44636
+2004,2004,CR,Critically Endangered,44635
+2004,2004,CR,Critically Endangered,44634
+2017,2016,CR,Critically Endangered,95947515
+2017,2016,CR,Critically Endangered,203171
+2016,2016,CR,Critically Endangered,44461
+2004,2004,EN,Endangered,44461
+2016,2016,CR,Critically Endangered,44462
+2004,2004,EN,Endangered,44462
+1996,1996,CR,Critically Endangered,2116
+1994,1994,E,Endangered,2116
+2014,2014,CR,Critically Endangered,20639917
+2020,2016,CR,Critically Endangered,55253
+2010,2008,EN,Endangered,55253
+2004,2004,EN,Endangered,55253
+2020,2020,CR,Critically Endangered,77342583
+2020,2020,CR,Critically Endangered,55254
+2004,2004,EN,Endangered,55254
+2020,2020,CR,Critically Endangered,55255
+2004,2004,EN,Endangered,55255
+2020,2020,CR,Critically Endangered,55104
+2010,2008,CR,Critically Endangered,55104
+2004,2004,CR,Critically Endangered,55104
+2020,2020,CR,Critically Endangered,55257
+2004,2004,CR,Critically Endangered,55257
+2020,2020,CR,Critically Endangered,55258
+2010,2008,EN,Endangered,55258
+2004,2004,EN,Endangered,55258
+2020,2020,CR,Critically Endangered,55040
+2010,2006,CR,Critically Endangered,55040
+2004,2004,CR,Critically Endangered,55040
+2020,2020,CR,Critically Endangered,55259
+2010,2008,EN,Endangered,55259
+2004,2004,EN,Endangered,55259
+2020,2020,CR,Critically Endangered,55260
+2004,2004,EN,Endangered,55260
+2020,2020,CR,Critically Endangered,77342769
+2020,2020,CR,Critically Endangered,77342836
+2016,2016,CR,Critically Endangered,174664
+2010,2009,CR,Critically Endangered,174664
+2016,2016,CR,Critically Endangered,61860
+2011,2010,EN,Endangered,61860
+2006,2006,DD,Data Deficient,61860
+2016,2015,CR,Critically Endangered,2119
+2004,2004,CR,Critically Endangered,2119
+1996,1996,EX,Extinct,2119
+1994,1994,Ex?,Extinct?,2119
+2011,2011,CR,Critically Endangered,175360
+2019,2018,CR,Critically Endangered,174591
+2015,2012,NT,Near Threatened,174591
+2010,2010,EN,Endangered,174591
+2013,2012,CR,Critically Endangered,16770720
+2014,2012,CR,Critically Endangered,54377
+2004,2004,EN,Endangered,54377
+2016,2016,CR,Critically Endangered,54389
+2014,2013,CR,Critically Endangered,54389
+2004,2004,CR,Critically Endangered,54389
+2017,2016,CR,Critically Endangered,103771879
+2016,2016,CR,Critically Endangered,103771879
+2020,2014,CR,Critically Endangered,20659685
+2014,2014,CR,Critically Endangered,20659685
+2021,2018,CR,Critically Endangered,125056608
+2017,2016,CR,Critically Endangered,44265
+2016,2016,CR,Critically Endangered,44265
+2010,2004,VU,Vulnerable,44265
+2004,2004,VU,Vulnerable,44265
+2021,2019,CR,Critically Endangered,197195
+2021,2019,CR,Critically Endangered,145974379
+2021,2019,CR,Critically Endangered,145974011
+2011,2010,CR,Critically Endangered,156656
+2016,2014,CR,Critically Endangered,49829728
+2016,2014,CR,Critically Endangered,46862
+2004,2004,CR,Critically Endangered,46862
+2008,2008,CR,Critically Endangered,9014
+1996,1996,VU,Vulnerable,9014
+1994,1994,V,Vulnerable,9014
+1990,1990,V,Vulnerable,9014
+1988,1988,V,Vulnerable,9014
+1986,1986,V,Vulnerable,9014
+1982,1982,V,Vulnerable,9014
+2008,2008,CR,Critically Endangered,9016
+1996,1996,EN,Endangered,9016
+1994,1994,E,Endangered,9016
+1990,1990,E,Endangered,9016
+1988,1988,E,Endangered,9016
+1986,1986,E,Endangered,9016
+1982,1982,E,Endangered,9016
+2021,2018,CR,Critically Endangered,134691713
+2020,2020,CR,Critically Endangered,149118918
+2019,2018,CR,Critically Endangered,132629372
+2019,2016,CR,Critically Endangered,54420
+2004,2004,CR,Critically Endangered,54420
+2020,2020,CR,Critically Endangered,39922
+2008,2008,CR,Critically Endangered,39922
+2000,2000,CR,Critically Endangered,39922
+1996,1996,CR,Critically Endangered,39922
+1994,1994,V,Vulnerable,39922
+1990,1990,V,Vulnerable,39922
+1988,1988,I,Indeterminate,39922
+1986,1986,I,Indeterminate,39922
+1982,1982,I,Indeterminate,39922
+2020,2020,CR,Critically Endangered,2286
+2008,2008,CR,Critically Endangered,2286
+2000,2000,CR,Critically Endangered,2286
+1996,1996,CR,Critically Endangered,2286
+2020,2020,CR,Critically Endangered,43901
+2008,2008,CR,Critically Endangered,43901
+1996,1996,LR/lc,Lower Risk/least concern,43901
+2020,2020,CR,Critically Endangered,39961
+2008,2008,CR,Critically Endangered,39961
+2003,2003,CR,Critically Endangered,39961
+2000,2000,EN,Endangered,39961
+2019,2018,CR,Critically Endangered,56323
+2010,2008,EN,Endangered,56323
+2004,2004,EN,Endangered,56323
+2019,2016,CR,Critically Endangered,54488
+2004,2004,CR,Critically Endangered,54488
+2017,2016,CR,Critically Endangered,18435521
+2013,2012,CR,Critically Endangered,18435521
+2017,2016,CR,Critically Endangered,54489
+2004,2004,CR,Critically Endangered,54489
+2004,2004,CR,Critically Endangered,54490
+2018,2016,CR,Critically Endangered,54491
+2004,2004,CR,Critically Endangered,54491
+2019,2016,CR,Critically Endangered,54492
+2004,2004,CR,Critically Endangered,54492
+2004,2004,CR,Critically Endangered,54493
+2020,2020,CR,Critically Endangered,54495
+2010,2004,CR,Critically Endangered,54495
+2004,2004,CR,Critically Endangered,54495
+2019,2018,CR,Critically Endangered,54497
+2004,2004,EN,Endangered,54497
+2017,2016,CR,Critically Endangered,54499
+2004,2004,CR,Critically Endangered,54499
+2020,2020,CR,Critically Endangered,54500
+2004,2004,CR,Critically Endangered,54500
+2004,2004,CR,Critically Endangered,54501
+2020,2019,CR,Critically Endangered,54502
+2004,2004,CR,Critically Endangered,54502
+2017,2017,CR,Critically Endangered,81646342
+2018,2017,CR,Critically Endangered,54506
+2004,2004,CR,Critically Endangered,54506
+2017,2016,CR,Critically Endangered,54507
+2004,2004,CR,Critically Endangered,54507
+2018,2018,CR,Critically Endangered,158466
+2011,2010,CR,Critically Endangered,158466
+2017,2016,CR,Critically Endangered,54509
+2010,2009,CR,Critically Endangered,54509
+2006,2006,CR,Critically Endangered,54509
+2004,2004,CR,Critically Endangered,54509
+2017,2016,CR,Critically Endangered,54510
+2004,2004,CR,Critically Endangered,54510
+2017,2016,CR,Critically Endangered,18435526
+2013,2012,CR,Critically Endangered,18435526
+2019,2018,CR,Critically Endangered,54514
+2004,2004,CR,Critically Endangered,54514
+2018,2016,CR,Critically Endangered,54515
+2004,2004,CR,Critically Endangered,54515
+2018,2016,CR,Critically Endangered,54517
+2006,2006,CR,Critically Endangered,54517
+2004,2004,CR,Critically Endangered,54517
+2018,2016,CR,Critically Endangered,54518
+2004,2004,EX,Extinct,54518
+2019,2018,CR,Critically Endangered,54520
+2004,2004,EN,Endangered,54520
+2018,2016,CR,Critically Endangered,54524
+2004,2004,CR,Critically Endangered,54524
+2018,2016,CR,Critically Endangered,54526
+2004,2004,CR,Critically Endangered,54526
+2017,2016,CR,Critically Endangered,54527
+2004,2004,CR,Critically Endangered,54527
+2021,2016,CR,Critically Endangered,54528
+2017,2016,CR,Critically Endangered,54528
+2004,2004,CR,Critically Endangered,54528
+2020,2020,CR,Critically Endangered,54529
+2010,2006,CR,Critically Endangered,54529
+2004,2006,CR,Critically Endangered,54529
+2020,2020,CR,Critically Endangered,54530
+2017,2016,EN,Endangered,54530
+2004,2004,CR,Critically Endangered,54530
+2018,2016,CR,Critically Endangered,54532
+2004,2004,CR,Critically Endangered,54532
+2017,2016,CR,Critically Endangered,54534
+2004,2004,CR,Critically Endangered,54534
+2017,2016,CR,Critically Endangered,21567292
+2018,2016,CR,Critically Endangered,136173
+2008,2008,CR,Critically Endangered,136173
+2018,2016,CR,Critically Endangered,18435530
+2013,2012,CR,Critically Endangered,18435530
+2020,2020,CR,Critically Endangered,54535
+2010,2004,CR,Critically Endangered,54535
+2004,2004,CR,Critically Endangered,54535
+2019,2018,CR,Critically Endangered,54536
+2008,2008,CR,Critically Endangered,54536
+2004,2004,CR,Critically Endangered,54536
+2018,2016,CR,Critically Endangered,54537
+2004,2004,DD,Data Deficient,54537
+2018,2016,CR,Critically Endangered,18435537
+2013,2012,CR,Critically Endangered,18435537
+2013,2013,CR,Critically Endangered,158467
+2011,2010,CR,Critically Endangered,158467
+2017,2016,CR,Critically Endangered,54538
+2004,2004,CR,Critically Endangered,54538
+2018,2018,CR,Critically Endangered,54539
+2006,2006,CR,Critically Endangered,54539
+2004,2004,CR,Critically Endangered,54539
+2008,2008,CR,Critically Endangered,136038
+2017,2016,CR,Critically Endangered,54540
+2004,2004,CR,Critically Endangered,54540
+2021,2016,CR,Critically Endangered,54541
+2017,2016,CR,Critically Endangered,54541
+2004,2004,CR,Critically Endangered,54541
+2020,2020,CR,Critically Endangered,54542
+2004,2004,CR,Critically Endangered,54542
+2018,2016,CR,Critically Endangered,54543
+2004,2004,CR,Critically Endangered,54543
+2018,2018,CR,Critically Endangered,18435550
+2013,2012,CR,Critically Endangered,18435550
+2019,2018,CR,Critically Endangered,135890
+2008,2008,CR,Critically Endangered,135890
+2017,2016,CR,Critically Endangered,54545
+2004,2004,CR,Critically Endangered,54545
+2019,2019,CR,Critically Endangered,54547
+2004,2004,DD,Data Deficient,54547
+2017,2016,CR,Critically Endangered,54550
+2004,2004,CR,Critically Endangered,54550
+2015,2014,CR,Critically Endangered,54551
+2004,2004,CR,Critically Endangered,54551
+2017,2016,CR,Critically Endangered,54553
+2010,2008,CR,Critically Endangered,54553
+2004,2004,CR,Critically Endangered,54553
+2020,2020,CR,Critically Endangered,54554
+2010,2004,CR,Critically Endangered,54554
+2004,2004,CR,Critically Endangered,54554
+2017,2016,CR,Critically Endangered,54557
+2004,2004,CR,Critically Endangered,54557
+2020,2020,CR,Critically Endangered,54558
+2004,2004,CR,Critically Endangered,54558
+2020,2020,CR,Critically Endangered,54559
+2004,2004,VU,Vulnerable,54559
+2020,2019,CR,Critically Endangered,54560
+2010,2008,CR,Critically Endangered,54560
+2004,2004,CR,Critically Endangered,54560
+2019,2018,CR,Critically Endangered,54563
+2010,2008,CR,Critically Endangered,54563
+2006,2006,CR,Critically Endangered,54563
+2004,2004,CR,Critically Endangered,54563
+2009,2007,CR,Critically Endangered,169392
+2019,2014,CR,Critically Endangered,44980158
+2017,2017,CR,Critically Endangered,97180194
+2017,2017,CR,Critically Endangered,97633244
+2018,2017,CR,Critically Endangered,97295365
+1996,1996,CR,Critically Endangered,2355
+2017,2016,CR,Critically Endangered,107353425
+2017,2016,CR,Critically Endangered,6739
+1996,1996,DD,Data Deficient,6739
+1994,1994,R,Rare,6739
+2017,2016,CR,Critically Endangered,171139
+2017,2016,CR,Critically Endangered,6735
+2011,2010,CR,Critically Endangered,6735
+2000,2000,CR,Critically Endangered,6735
+2000,2000,EN,Endangered,6735
+1996,1996,EX,Extinct,6735
+1994,1994,Ex?,Extinct?,6735
+1990,1990,V,Vulnerable,6735
+1988,1988,V,Vulnerable,6735
+1986,1986,V,Vulnerable,6735
+1983,1983,V,Vulnerable,6735
+2020,2016,CR,Critically Endangered,171057
+2017,2016,CR,Critically Endangered,171057
+2020,2019,CR,Critically Endangered,55915
+2004,2004,EN,Endangered,55915
+2020,2019,CR,Critically Endangered,44575
+2004,2004,EN,Endangered,44575
+2021,2021,CR,Critically Endangered,22735460
+2019,2019,CR,Critically Endangered,22735460
+2016,2016,CR,Critically Endangered,22735460
+2015,2015,CR,Critically Endangered,22735460
+2013,2013,CR,Critically Endangered,22735460
+2012,2012,CR,Critically Endangered,22735460
+2010,2010,CR,Critically Endangered,22735460
+2009,2009,CR,Critically Endangered,22735460
+2008,2008,NR,Not Recognized,22735460
+2004,2004,NR,Not Recognized,22735460
+2000,2000,NR,Not Recognized,22735460
+1994,1994,NR,Not Recognized,22735460
+1988,1988,NR,Not Recognized,22735460
+2017,2016,CR,Critically Endangered,56326
+2004,2004,CR,Critically Endangered,56326
+2021,2020,CR,Critically Endangered,46104013
+2021,2013,CR,Critically Endangered,44580253
+2020,2012,CR,Critically Endangered,96102258
+2019,2014,CR,Critically Endangered,67610740
+2021,2020,CR,Critically Endangered,139119297
+1996,1996,CR,Critically Endangered,2376
+1994,1994,V,Vulnerable,2376
+1990,1990,V,Vulnerable,2376
+1988,1988,V,Vulnerable,2376
+1986,1986,V,Vulnerable,2376
+1985,1985,V,Vulnerable,2376
+2010,2007,CR,Critically Endangered,184655
+2013,2012,CR,Critically Endangered,197803
+2018,2018,CR,Critically Endangered,61057
+2006,2006,LC,Least Concern,61057
+2018,2018,CR,Critically Endangered,61068
+2006,2006,VU,Vulnerable,61068
+2018,2018,CR,Critically Endangered,61067
+2006,2006,VU,Vulnerable,61067
+2021,2021,CR,Critically Endangered,80337495
+2021,2021,CR,Critically Endangered,80340731
+2020,2014,CR,Critically Endangered,20644114
+2014,2014,CR,Critically Endangered,20644114
+2014,2013,CR,Critically Endangered,2425
+1996,1996,EX,Extinct,2425
+1994,1994,Ex?,Extinct?,2425
+2021,2020,CR,Critically Endangered,173823810
+2007,2007,CR,Critically Endangered,63099
+2021,2020,CR,Critically Endangered,173823851
+2021,2020,CR,Critically Endangered,173823877
+2020,2018,CR,Critically Endangered,136335
+2014,2012,EN,Endangered,136335
+2008,2008,EN,Endangered,136335
+2020,2018,CR,Critically Endangered,41579
+2014,2012,EN,Endangered,41579
+2008,2008,DD,Data Deficient,41579
+2015,2014,CR,Critically Endangered,2447
+2013,2008,CR,Critically Endangered,2447
+2008,2008,CR,Critically Endangered,2447
+1996,1996,EN,Endangered,2447
+1994,1994,E,Endangered,2447
+1990,1990,R,Rare,2447
+1988,1988,R,Rare,2447
+1986,1986,R,Rare,2447
+2019,2019,CR,Critically Endangered,22680384
+2017,2017,CR,Critically Endangered,22680384
+2016,2016,CR,Critically Endangered,22680384
+2015,2015,CR,Critically Endangered,22680384
+2013,2013,CR,Critically Endangered,22680384
+2012,2012,CR,Critically Endangered,22680384
+2008,2008,EN,Endangered,22680384
+2004,2004,VU,Vulnerable,22680384
+2000,2000,VU,Vulnerable,22680384
+1996,1996,VU,Vulnerable,22680384
+1994,1994,VU,Vulnerable,22680384
+1988,1988,T,Threatened,22680384
+2018,2016,CR,Critically Endangered,22680380
+2016,2016,CR,Critically Endangered,22680380
+2015,2015,CR,Critically Endangered,22680380
+2013,2013,CR,Critically Endangered,22680380
+2012,2012,CR,Critically Endangered,22680380
+2011,2011,CR,Critically Endangered,22680380
+2010,2010,CR,Critically Endangered,22680380
+2009,2009,CR,Critically Endangered,22680380
+2008,2008,CR,Critically Endangered,22680380
+2007,2007,CR,Critically Endangered,22680380
+2006,2006,CR,Critically Endangered,22680380
+2004,2004,CR,Critically Endangered,22680380
+2000,2000,CR,Critically Endangered,22680380
+1996,1996,CR,Critically Endangered,22680380
+1994,1994,CR,Critically Endangered,22680380
+1988,1988,T,Threatened,22680380
+2010,2008,CR,Critically Endangered,184017
+2021,2013,CR,Critically Endangered,48280087
+2019,2018,CR,Critically Endangered,60856
+2018,2018,CR,Critically Endangered,60856
+2006,2006,LC,Least Concern,60856
+2020,2019,CR,Critically Endangered,61334
+2006,2006,CR,Critically Endangered,61334
+2017,2017,CR,Critically Endangered,117636167
+2018,2018,CR,Critically Endangered,41713
+2008,2008,CR,Critically Endangered,41713
+1996,1996,EN,Endangered,41713
+2011,2011,CR,Critically Endangered,180665
+2013,2012,CR,Critically Endangered,57703
+2004,2004,EN,Endangered,57703
+2012,2007,CR,Critically Endangered,199489
+2011,2011,CR,Critically Endangered,166033
+2006,2006,CR,Critically Endangered,61244
+2021,2020,CR,Critically Endangered,18885
+1996,1996,DD,Data Deficient,18885
+1994,1994,V,Vulnerable,18885
+1990,1990,V,Vulnerable,18885
+2021,2020,CR,Critically Endangered,70033622
+2020,2019,CR,Critically Endangered,18903
+1996,1996,VU,Vulnerable,18903
+1994,1994,R,Rare,18903
+1990,1990,R,Rare,18903
+2021,2020,CR,Critically Endangered,18907
+1996,1996,VU,Vulnerable,18907
+2020,2019,CR,Critically Endangered,18898
+1996,1996,VU,Vulnerable,18898
+1994,1994,R,Rare,18898
+1990,1990,R,Rare,18898
+2011,2010,CR,Critically Endangered,172429
+2019,2019,CR,Critically Endangered,90997858
+1996,1996,CR,Critically Endangered,2559
+2006,2006,CR,Critically Endangered,2576
+1996,1996,CR,Critically Endangered,2576
+1994,1994,E,Endangered,2576
+2007,2007,CR,Critically Endangered,63385
+2020,2011,CR,Critically Endangered,2593
+2014,2011,CR,Critically Endangered,2593
+2010,2009,DD,Data Deficient,2593
+1996,1996,DD,Data Deficient,2593
+1994,1994,R,Rare,2593
+1990,1990,R,Rare,2593
+2019,2018,CR,Critically Endangered,170501
+2016,2016,CR,Critically Endangered,170501
+2019,2018,CR,Critically Endangered,97358453
+2021,2018,CR,Critically Endangered,163458
+2000,2000,CR,Critically Endangered,163458
+1996,1996,CR,Critically Endangered,163458
+1994,1994,E,Endangered,163458
+1990,1990,E,Endangered,163458
+1988,1988,E,Endangered,163458
+1986,1986,V,Vulnerable,163458
+1982,1982,V,Vulnerable,163458
+2019,2018,CR,Critically Endangered,10953
+2000,2000,EN,Endangered,10953
+1996,1996,LR/nt,Lower Risk/near threatened,10953
+2019,2018,CR,Critically Endangered,10949
+2000,2000,CR,Critically Endangered,10949
+1996,1996,EN,Endangered,10949
+1994,1994,I,Indeterminate,10949
+1990,1990,I,Indeterminate,10949
+1988,1988,I,Indeterminate,10949
+2019,2018,CR,Critically Endangered,10952
+2000,2000,EN,Endangered,10952
+1996,1996,EN,Endangered,10952
+1994,1994,K,Insufficiently Known,10952
+1990,1990,K,Insufficiently Known,10952
+1988,1988,K,Insufficiently Known,10952
+2021,2017,CR,Critically Endangered,29452
+2010,2009,EN,Endangered,29452
+2021,2017,CR,Critically Endangered,176214
+2011,2010,EN,Endangered,176214
+2017,2016,CR,Critically Endangered,6234
+2008,2008,CR,Critically Endangered,6234
+2007,2007,CR,Critically Endangered,6234
+1996,1996,CR,Critically Endangered,6234
+1994,1994,E,Endangered,6234
+1990,1990,V,Vulnerable,6234
+1988,1988,R,Rare,6234
+1986,1986,R,Rare,6234
+1965,1965,,"""Less rare but believed to be threatened-requires watching""",6234
+2011,2011,CR,Critically Endangered,2713
+1996,1996,EX,Extinct,2713
+1994,1994,E,Endangered,2713
+2004,2004,CR,Critically Endangered,44471
+2004,2004,CR,Critically Endangered,44474
+2004,2004,CR,Critically Endangered,44477
+2016,2016,CR,Critically Endangered,2722
+2004,2004,CR,Critically Endangered,2722
+1996,1996,LR/lc,Lower Risk/least concern,2722
+2011,2011,CR,Critically Endangered,194492
+2010,2009,CR,Critically Endangered,156090
+2010,2009,CR,Critically Endangered,155705
+2010,2009,CR,Critically Endangered,155668
+2010,2009,CR,Critically Endangered,2725
+1996,1996,CR,Critically Endangered,2725
+1994,1994,E,Endangered,2725
+2010,2009,CR,Critically Endangered,172032
+2010,2010,CR,Critically Endangered,155972
+2014,2013,CR,Critically Endangered,20593189
+2010,2009,CR,Critically Endangered,2732
+1996,1996,CR,Critically Endangered,2732
+2010,2010,CR,Critically Endangered,155661
+2010,2010,CR,Critically Endangered,2734
+1996,1996,CR,Critically Endangered,2734
+2010,2009,CR,Critically Endangered,156174
+2010,2009,CR,Critically Endangered,2728
+1996,1996,CR,Critically Endangered,2728
+1994,1994,E,Endangered,2728
+2010,2009,CR,Critically Endangered,2735
+1996,1996,CR,Critically Endangered,2735
+2010,2009,CR,Critically Endangered,2729
+1996,1996,CR,Critically Endangered,2729
+1994,1994,E,Endangered,2729
+2018,2017,CR,Critically Endangered,2742
+2010,2004,DD,Data Deficient,2742
+2004,2004,DD,Data Deficient,2742
+1996,1996,EN,Endangered,2742
+2018,2017,CR,Critically Endangered,2743
+2010,2004,DD,Data Deficient,2743
+2004,2004,DD,Data Deficient,2743
+1996,1996,EN,Endangered,2743
+2020,2019,CR,Critically Endangered,2746
+2009,2006,CR,Critically Endangered,2746
+1996,1996,CR,Critically Endangered,2746
+2010,2008,CR,Critically Endangered,2748
+1996,1996,EN,Endangered,2748
+2010,2008,CR,Critically Endangered,2749
+1996,1996,EN,Endangered,2749
+2017,2015,CR,Critically Endangered,2750
+2016,2015,CR,Critically Endangered,2750
+2010,2004,EN,Endangered,2750
+1996,1996,EN,Endangered,2750
+2018,2017,CR,Critically Endangered,2751
+1996,1996,EN,Endangered,2751
+2018,2017,CR,Critically Endangered,47155317
+2017,2016,CR,Critically Endangered,97633856
+2014,2012,CR,Critically Endangered,196781
+2019,2017,CR,Critically Endangered,65881182
+1996,1996,CR,Critically Endangered,2765
+1996,1996,CR,Critically Endangered,2766
+2014,2013,CR,Critically Endangered,21247820
+2019,2019,CR,Critically Endangered,2772
+1996,1996,VU,Vulnerable,2772
+2019,2019,CR,Critically Endangered,2773
+1996,1996,VU,Vulnerable,2773
+2019,2019,CR,Critically Endangered,91309381
+2019,2019,CR,Critically Endangered,180971
+2019,2019,CR,Critically Endangered,91309930
+2019,2018,CR,Critically Endangered,2780
+1996,1996,CR,Critically Endangered,2780
+2019,2019,CR,Critically Endangered,143587355
+2019,2019,CR,Critically Endangered,91310332
+2019,2018,CR,Critically Endangered,169568
+2009,2007,VU,Vulnerable,169568
+2019,2019,CR,Critically Endangered,91310650
+2011,2011,CR,Critically Endangered,2777
+1996,1996,VU,Vulnerable,2777
+2016,2012,CR,Critically Endangered,2785
+2008,2008,CR,Critically Endangered,2785
+1996,1996,LR/cd,Lower Risk/conservation dependent,2785
+1994,1994,E,Endangered,2785
+1990,1990,E,Endangered,2785
+1988,1988,E,Endangered,2785
+1986,1986,E,Endangered,2785
+1982,1982,E,Endangered,2785
+2014,2012,CR,Critically Endangered,196756
+2016,2016,CR,Critically Endangered,2816
+2008,2008,CR,Critically Endangered,2816
+2000,2000,CR,Critically Endangered,2816
+1996,1996,CR,Critically Endangered,2816
+2011,2011,CR,Critically Endangered,164879
+2004,2004,CR,Critically Endangered,55461
+2017,2016,CR,Critically Endangered,2845
+1996,1996,VU,Vulnerable,2845
+1994,1994,R,Rare,2845
+1996,1996,CR,Critically Endangered,2847
+2004,2004,CR,Critically Endangered,10355
+1996,1996,DD,Data Deficient,10355
+1994,1994,K,Insufficiently Known,10355
+2017,2016,CR,Critically Endangered,59142
+2004,2004,CR,Critically Endangered,59142
+2019,2019,CR,Critically Endangered,59143
+2008,2008,CR,Critically Endangered,59143
+2004,2004,CR,Critically Endangered,59143
+2019,2019,CR,Critically Endangered,77345717
+2020,2019,CR,Critically Endangered,170622240
+2021,2019,CR,Critically Endangered,194312
+2020,2019,CR,Critically Endangered,194312
+2020,2019,CR,Critically Endangered,77345748
+2020,2019,CR,Critically Endangered,61896
+2006,2006,DD,Data Deficient,61896
+2019,2019,CR,Critically Endangered,59152
+2008,2008,CR,Critically Endangered,59152
+2004,2004,CR,Critically Endangered,59152
+2020,2019,CR,Critically Endangered,194315
+2020,2019,CR,Critically Endangered,18435631
+2013,2012,VU,Vulnerable,18435631
+2020,2019,CR,Critically Endangered,59171
+2008,2008,DD,Data Deficient,59171
+2004,2004,DD,Data Deficient,59171
+2021,2020,CR,Critically Endangered,77347451
+2019,2019,CR,Critically Endangered,59174
+2008,2008,CR,Critically Endangered,59174
+2004,2004,CR,Critically Endangered,59174
+2020,2019,CR,Critically Endangered,194318
+2020,2019,CR,Critically Endangered,194319
+2019,2019,CR,Critically Endangered,61900
+2006,2006,CR,Critically Endangered,61900
+2020,2019,CR,Critically Endangered,194323
+2012,2011,DD,Data Deficient,194323
+2020,2019,CR,Critically Endangered,59213
+2010,2009,CR,Critically Endangered,59213
+2008,2008,CR,Critically Endangered,59213
+2004,2004,CR,Critically Endangered,59213
+2020,2019,CR,Critically Endangered,194324
+2015,2014,CR,Critically Endangered,44937399
+2008,2008,CR,Critically Endangered,135295
+2016,2012,CR,Critically Endangered,21215134
+2015,2014,CR,Critically Endangered,44937699
+2016,2014,CR,Critically Endangered,21215168
+2019,2017,CR,Critically Endangered,65881343
+1996,1996,CR,Critically Endangered,2882
+1994,1994,R,Rare,2882
+2016,2015,CR,Critically Endangered,68568328
+2015,2014,CR,Critically Endangered,164889
+2016,2015,CR,Critically Endangered,57409
+2008,2008,DD,Data Deficient,57409
+2004,2004,DD,Data Deficient,57409
+2015,2014,CR,Critically Endangered,49546770
+2016,2015,CR,Critically Endangered,57435
+2008,2008,CR,Critically Endangered,57435
+2004,2004,CR,Critically Endangered,57435
+2016,2015,CR,Critically Endangered,40791
+1996,1996,EX,Extinct,40791
+1994,1994,Ex,Extinct,40791
+2021,2020,CR,Critically Endangered,2884
+1996,1996,VU,Vulnerable,2884
+2016,2016,CR,Critically Endangered,2890
+2008,2008,CR,Critically Endangered,2890
+2000,2000,CR,Critically Endangered,2890
+1996,1996,CR,Critically Endangered,2890
+1994,1994,E,Endangered,2890
+1990,1990,E,Endangered,2890
+1988,1988,E,Endangered,2890
+1986,1986,E,Endangered,2890
+1965,1965,,"""Very rare and believed to be decreasing in numbers""",2890
+2021,2020,CR,Critically Endangered,22697478
+2018,2018,CR,Critically Endangered,22697478
+2017,2016,CR,Critically Endangered,22697478
+2016,2016,CR,Critically Endangered,22697478
+2015,2015,CR,Critically Endangered,22697478
+2013,2013,CR,Critically Endangered,22697478
+2012,2012,CR,Critically Endangered,22697478
+2011,2011,CR,Critically Endangered,22697478
+2010,2010,CR,Critically Endangered,22697478
+2009,2009,CR,Critically Endangered,22697478
+2008,2008,CR,Critically Endangered,22697478
+2007,2007,CR,Critically Endangered,22697478
+2004,2004,CR,Critically Endangered,22697478
+2000,2000,CR,Critically Endangered,22697478
+1996,1996,CR,Critically Endangered,22697478
+1994,1994,CR,Critically Endangered,22697478
+1988,1988,T,Threatened,22697478
+2021,2012,CR,Critically Endangered,2917
+2004,2004,CR,Critically Endangered,2917
+2000,2000,CR,Critically Endangered,2917
+1996,1996,CR,Critically Endangered,2917
+1994,1994,I,Indeterminate,2917
+1990,1990,I,Indeterminate,2917
+1988,1988,R,Rare,2917
+1986,1986,K,Insufficiently Known,2917
+2021,2012,CR,Critically Endangered,50957317
+2021,2019,CR,Critically Endangered,50957350
+2000,2000,CR,Critically Endangered,40074
+2000,2000,CR,Critically Endangered,40070
+2000,2000,CR,Critically Endangered,40069
+2021,2020,CR,Critically Endangered,209039855
+2021,2019,CR,Critically Endangered,121385062
+2020,2018,CR,Critically Endangered,2958
+1996,1996,CR,Critically Endangered,2958
+2020,2018,CR,Critically Endangered,123423098
+2012,2012,CR,Critically Endangered,2965
+1996,1996,CR,Critically Endangered,2965
+1994,1994,V,Vulnerable,2965
+1990,1990,V,Vulnerable,2965
+1988,1988,V,Vulnerable,2965
+2009,2007,CR,Critically Endangered,169811
+2021,2020,CR,Critically Endangered,149165628
+2019,2019,CR,Critically Endangered,2993
+2008,2008,EN,Endangered,2993
+2003,2003,EN,Endangered,2993
+2000,2000,CR,Critically Endangered,2993
+1996,1996,EN,Endangered,2993
+1994,1994,E,Endangered,2993
+1990,1990,E,Endangered,2993
+1988,1988,E,Endangered,2993
+1986,1986,E,Endangered,2993
+1982,1982,E,Endangered,2993
+2021,2019,CR,Critically Endangered,2994
+2019,2019,CR,Critically Endangered,2994
+2008,2008,CR,Critically Endangered,2994
+2003,2003,CR,Critically Endangered,2994
+2000,2000,CR,Critically Endangered,2994
+1996,1996,EN,Endangered,2994
+1988,1988,E,Endangered,2994
+2016,2015,CR,Critically Endangered,44710621
+2014,2013,CR,Critically Endangered,61925
+2011,2010,CR,Critically Endangered,61925
+2008,2008,CR,Critically Endangered,61925
+2006,2006,CR,Critically Endangered,61925
+2000,2000,CR,Critically Endangered,3043
+1996,1996,EN,Endangered,3043
+1996,1996,CR,Critically Endangered,3044
+1996,1996,CR,Critically Endangered,3055
+2011,2011,CR,Critically Endangered,172878
+2014,2014,CR,Critically Endangered,42686901
+2019,2019,CR,Critically Endangered,145337921
+2016,2016,CR,Critically Endangered,3127
+2013,2008,CR,Critically Endangered,3127
+2008,2008,CR,Critically Endangered,3127
+2007,2007,CR,Critically Endangered,3127
+2000,2000,CR,Critically Endangered,3127
+1996,1996,EN,Endangered,3127
+1994,1994,E,Endangered,3127
+1990,1990,E,Endangered,3127
+1988,1988,E,Endangered,3127
+1986,1986,E,Endangered,3127
+1965,1965,,"""Status inadequately known-survey required or data sought""",3127
+2020,2019,CR,Critically Endangered,49328174
+2020,2019,CR,Critically Endangered,82462705
+2003,2003,CR,Critically Endangered,43983
+2003,2003,CR,Critically Endangered,3282
+1996,1996,DD,Data Deficient,3282
+1994,1994,E,Endangered,3282
+1990,1990,E,Endangered,3282
+2003,2003,CR,Critically Endangered,43990
+2003,2003,CR,Critically Endangered,43992
+2003,2003,CR,Critically Endangered,43998
+2003,2003,CR,Critically Endangered,43999
+2003,2003,CR,Critically Endangered,44000
+2003,2003,CR,Critically Endangered,3290
+1996,1996,VU,Vulnerable,3290
+1994,1994,E,Endangered,3290
+1990,1990,E,Endangered,3290
+2003,2003,CR,Critically Endangered,3291
+1996,1996,VU,Vulnerable,3291
+1994,1994,E,Endangered,3291
+1990,1990,E,Endangered,3291
+2003,2003,CR,Critically Endangered,44002
+2003,2003,CR,Critically Endangered,44003
+2003,2003,CR,Critically Endangered,3292
+1996,1996,VU,Vulnerable,3292
+1994,1994,E,Endangered,3292
+1990,1990,E,Endangered,3292
+2003,2003,CR,Critically Endangered,44012
+2003,2003,CR,Critically Endangered,3293
+1996,1996,VU,Vulnerable,3293
+1994,1994,E,Endangered,3293
+1990,1990,E,Endangered,3293
+2003,2003,CR,Critically Endangered,3294
+1996,1996,VU,Vulnerable,3294
+1994,1994,E,Endangered,3294
+1990,1990,E,Endangered,3294
+2003,2003,CR,Critically Endangered,3297
+1996,1996,VU,Vulnerable,3297
+1994,1994,E,Endangered,3297
+1990,1990,E,Endangered,3297
+2003,2003,CR,Critically Endangered,3298
+1996,1996,VU,Vulnerable,3298
+1994,1994,E,Endangered,3298
+1990,1990,E,Endangered,3298
+2003,2003,CR,Critically Endangered,3300
+2000,2000,VU,Vulnerable,3300
+1996,1996,VU,Vulnerable,3300
+1994,1994,E,Endangered,3300
+1990,1990,E,Endangered,3300
+2003,2003,CR,Critically Endangered,3301
+1996,1996,VU,Vulnerable,3301
+1994,1994,E,Endangered,3301
+1990,1990,E,Endangered,3301
+2003,2003,CR,Critically Endangered,44014
+2003,2003,CR,Critically Endangered,44015
+2003,2003,CR,Critically Endangered,44016
+2003,2003,CR,Critically Endangered,44031
+2003,2003,CR,Critically Endangered,44032
+2003,2003,CR,Critically Endangered,3307
+1996,1996,VU,Vulnerable,3307
+1994,1994,E,Endangered,3307
+1990,1990,E,Endangered,3307
+2003,2003,CR,Critically Endangered,3310
+2000,2000,VU,Vulnerable,3310
+1996,1996,VU,Vulnerable,3310
+1994,1994,E,Endangered,3310
+1990,1990,E,Endangered,3310
+2019,2016,CR,Critically Endangered,3326
+2013,2008,CR,Critically Endangered,3326
+2008,2008,CR,Critically Endangered,3326
+2003,2003,CR,Critically Endangered,3326
+1996,1996,EN,Endangered,3326
+1994,1994,E,Endangered,3326
+1990,1990,E,Endangered,3326
+1988,1988,E,Endangered,3326
+1986,1986,E,Endangered,3326
+2008,2008,CR,Critically Endangered,3339
+1996,1996,EN,Endangered,3339
+1994,1994,E,Endangered,3339
+2013,2013,CR,Critically Endangered,19672480
+2020,2020,CR,Critically Endangered,22695886
+2018,2018,CR,Critically Endangered,22695886
+2016,2016,CR,Critically Endangered,22695886
+2015,2015,CR,Critically Endangered,22695886
+2013,2013,CR,Critically Endangered,22695886
+2012,2012,CR,Critically Endangered,22695886
+2010,2010,CR,Critically Endangered,22695886
+2009,2009,CR,Critically Endangered,22695886
+2008,2008,CR,Critically Endangered,22695886
+2004,2004,CR,Critically Endangered,22695886
+2000,2000,CR,Critically Endangered,22695886
+1996,1996,EN,Endangered,22695886
+1994,1994,EN,Endangered,22695886
+1988,1988,T,Threatened,22695886
+2010,2010,CR,Critically Endangered,3393
+1996,1996,VU,Vulnerable,3393
+1994,1994,R,Rare,3393
+2010,2009,CR,Critically Endangered,155832
+2010,2009,CR,Critically Endangered,172035
+2010,2010,CR,Critically Endangered,171967
+2010,2009,CR,Critically Endangered,172039
+2014,2013,CR,Critically Endangered,164869
+2011,2009,CR,Critically Endangered,164869
+2010,2010,CR,Critically Endangered,3403
+1996,1996,CR,Critically Endangered,3403
+1994,1994,E,Endangered,3403
+2010,2008,CR,Critically Endangered,155810
+2011,2010,CR,Critically Endangered,156152
+2011,2009,CR,Critically Endangered,155650
+2011,2010,CR,Critically Endangered,155957
+2010,2010,CR,Critically Endangered,3410
+1996,1996,EN,Endangered,3410
+1994,1994,Ex,Extinct,3410
+2011,2010,CR,Critically Endangered,155847
+2010,2010,CR,Critically Endangered,3411
+1996,1996,EN,Endangered,3411
+1994,1994,Ex?,Extinct?,3411
+2011,2011,CR,Critically Endangered,155984
+2010,2010,CR,Critically Endangered,164845
+2021,2021,CR,Critically Endangered,200296433
+2017,2017,CR,Critically Endangered,22684795
+2016,2016,CR,Critically Endangered,22684795
+2015,2015,CR,Critically Endangered,22684795
+2013,2013,CR,Critically Endangered,22684795
+2012,2012,CR,Critically Endangered,22684795
+2009,2009,CR,Critically Endangered,22684795
+2008,2008,CR,Critically Endangered,22684795
+2004,2004,CR,Critically Endangered,22684795
+2000,2000,CR,Critically Endangered,22684795
+1996,1996,CR,Critically Endangered,22684795
+1994,1994,CR,Critically Endangered,22684795
+1988,1988,T,Threatened,22684795
+2021,2021,CR,Critically Endangered,200296187
+2014,2013,CR,Critically Endangered,3450
+1996,1996,VU,Vulnerable,3450
+1994,1994,R,Rare,3450
+1990,1990,R,Rare,3450
+2021,2020,CR,Critically Endangered,162160400
+2019,2019,CR,Critically Endangered,129041926
+2017,2016,CR,Critically Endangered,97157927
+2021,2019,CR,Critically Endangered,104836850
+2012,2011,CR,Critically Endangered,176626
+2010,2009,EN,Endangered,176626
+2021,2019,CR,Critically Endangered,104837478
+2012,2011,CR,Critically Endangered,192198
+2017,2016,CR,Critically Endangered,97102905
+2017,2016,CR,Critically Endangered,97110409
+2014,2014,CR,Critically Endangered,189805
+2021,2017,CR,Critically Endangered,122893519
+2021,2021,CR,Critically Endangered,22693452
+2018,2018,CR,Critically Endangered,22693452
+2017,2016,CR,Critically Endangered,22693452
+2016,2016,CR,Critically Endangered,22693452
+2015,2015,CR,Critically Endangered,22693452
+2013,2013,CR,Critically Endangered,22693452
+2012,2012,CR,Critically Endangered,22693452
+2011,2011,CR,Critically Endangered,22693452
+2010,2010,CR,Critically Endangered,22693452
+2009,2009,CR,Critically Endangered,22693452
+2008,2008,CR,Critically Endangered,22693452
+2004,2004,EN,Endangered,22693452
+2000,2000,VU,Vulnerable,22693452
+1996,1996,VU,Vulnerable,22693452
+1994,1994,VU,Vulnerable,22693452
+1988,1988,T,Threatened,22693452
+2019,2019,CR,Critically Endangered,103730380
+2018,2018,CR,Critically Endangered,103730380
+2017,2016,CR,Critically Endangered,103730380
+2016,2016,CR,Critically Endangered,103730380
+2020,2015,CR,Critically Endangered,39929
+2008,2008,CR,Critically Endangered,39929
+2003,2003,CR,Critically Endangered,39929
+2000,2000,CR,Critically Endangered,39929
+1996,1996,CR,Critically Endangered,39929
+1994,1994,E,Endangered,39929
+2011,2010,CR,Critically Endangered,6725
+1996,1996,EN,Endangered,6725
+1994,1994,V,Vulnerable,6725
+1996,1996,CR,Critically Endangered,3565
+2021,2019,CR,Critically Endangered,3571
+2020,2019,CR,Critically Endangered,3571
+2008,2008,EN,Endangered,3571
+2003,2003,EN,Endangered,3571
+2000,2000,EN,Endangered,3571
+1996,1996,EN,Endangered,3571
+1994,1994,E,Endangered,3571
+1990,1990,E,Endangered,3571
+1988,1988,E,Endangered,3571
+1986,1986,E,Endangered,3571
+1982,1982,E,Endangered,3571
+2020,2019,CR,Critically Endangered,182181
+2010,2006,VU,Vulnerable,182181
+2014,2014,CR,Critically Endangered,175363
+2012,2011,CR,Critically Endangered,193425
+2012,2011,CR,Critically Endangered,193426
+2012,2011,CR,Critically Endangered,193427
+2013,2012,CR,Critically Endangered,202410
+2012,2011,CR,Critically Endangered,193428
+2020,2011,CR,Critically Endangered,193429
+2012,2011,CR,Critically Endangered,193429
+2021,2019,CR,Critically Endangered,197250
+2009,2008,CR,Critically Endangered,136131
+2008,2008,CR,Critically Endangered,136131
+2011,2011,CR,Critically Endangered,172796
+2011,2011,CR,Critically Endangered,193482
+2016,2016,CR,Critically Endangered,22700827
+2015,2015,CR,Critically Endangered,22700827
+2013,2013,CR,Critically Endangered,22700827
+2012,2012,CR,Critically Endangered,22700827
+2010,2010,CR,Critically Endangered,22700827
+2009,2009,CR,Critically Endangered,22700827
+2008,2008,CR,Critically Endangered,22700827
+2004,2004,CR,Critically Endangered,22700827
+2000,2000,CR,Critically Endangered,22700827
+1996,1996,CR,Critically Endangered,22700827
+1994,1994,CR,Critically Endangered,22700827
+1988,1988,T,Threatened,22700827
+2021,2017,CR,Critically Endangered,103869628
+2010,2010,CR,Critically Endangered,153712
+2010,2010,CR,Critically Endangered,153714
+2010,2010,CR,Critically Endangered,3688
+1996,1996,EN,Endangered,3688
+2010,2010,CR,Critically Endangered,164914
+2010,2010,CR,Critically Endangered,3677
+1996,1996,VU,Vulnerable,3677
+1994,1994,I,Indeterminate,3677
+1990,1990,I,Indeterminate,3677
+1988,1988,I,Indeterminate,3677
+1986,1986,I,Indeterminate,3677
+2010,2010,CR,Critically Endangered,3682
+1996,1996,EN,Endangered,3682
+2010,2010,CR,Critically Endangered,3683
+1996,1996,CR,Critically Endangered,3683
+2010,2010,CR,Critically Endangered,153812
+2010,2010,CR,Critically Endangered,3678
+1996,1996,CR,Critically Endangered,3678
+1994,1994,E,Endangered,3678
+1990,1990,E,Endangered,3678
+1988,1988,E,Endangered,3678
+1986,1986,E,Endangered,3678
+2008,2008,CR,Critically Endangered,63543
+2007,2007,CR,Critically Endangered,63543
+2002,2002,CR,Critically Endangered,63543
+1996,1996,EN,Endangered,63543
+1994,1994,V,Vulnerable,63543
+1990,1990,V,Vulnerable,63543
+1988,1988,V,Vulnerable,63543
+1986,1986,V,Vulnerable,63543
+1965,1965,,"""Very rare but believed to be stable or increasing""",63543
+2020,2020,CR,Critically Endangered,22681417
+2016,2016,CR,Critically Endangered,22681417
+2015,2015,CR,Critically Endangered,22681417
+2013,2013,CR,Critically Endangered,22681417
+2012,2012,CR,Critically Endangered,22681417
+2010,2010,CR,Critically Endangered,22681417
+2009,2009,CR,Critically Endangered,22681417
+2008,2008,CR,Critically Endangered,22681417
+2004,2004,CR,Critically Endangered,22681417
+2000,2000,CR,Critically Endangered,22681417
+1996,1996,CR,Critically Endangered,22681417
+1994,1994,CR,Critically Endangered,22681417
+1988,1988,T,Threatened,22681417
+2020,2020,CR,Critically Endangered,22681425
+2016,2016,CR,Critically Endangered,22681425
+2015,2015,CR,Critically Endangered,22681425
+2013,2013,CR,Critically Endangered,22681425
+2012,2012,CR,Critically Endangered,22681425
+2010,2010,CR,Critically Endangered,22681425
+2009,2009,CR,Critically Endangered,22681425
+2008,2008,CR,Critically Endangered,22681425
+2005,2005,CR,Critically Endangered,22681425
+2004,2004,CR,Critically Endangered,22681425
+2000,2000,CR,Critically Endangered,22681425
+1996,1996,EX,Extinct,22681425
+1994,1994,EX,Extinct,22681425
+1988,1988,T,Threatened,22681425
+2020,2020,CR,Critically Endangered,22687086
+2016,2016,EN,Endangered,22687086
+2012,2012,EN,Endangered,22687086
+2008,2008,EN,Endangered,22687086
+2004,2004,EN,Endangered,22687086
+2000,2000,EN,Endangered,22687086
+1994,1994,LR/nt,Lower Risk/near threatened,22687086
+1988,1988,NT,Near Threatened,22687086
+2011,2010,CR,Critically Endangered,172011
+2011,2011,CR,Critically Endangered,156833
+2020,2017,CR,Critically Endangered,58063163
+2021,2017,CR,Critically Endangered,58063699
+2018,2018,CR,Critically Endangered,3747
+2008,2008,CR,Critically Endangered,3747
+2004,2004,CR,Critically Endangered,3747
+1996,1996,CR,Critically Endangered,3747
+1994,1994,E,Endangered,3747
+1990,1990,E,Endangered,3747
+1988,1988,E,Endangered,3747
+1986,1986,E,Endangered,3747
+1982,1982,E,Endangered,3747
+2021,2021,CR,Critically Endangered,195277242
+2017,2016,CR,Critically Endangered,112716154
+2016,2015,CR,Critically Endangered,47102670
+2016,2015,CR,Critically Endangered,47102682
+2013,2013,CR,Critically Endangered,47102699
+2014,2013,CR,Critically Endangered,3785
+2006,2006,CR,Critically Endangered,3785
+1996,1996,LR/nt,Lower Risk/near threatened,3785
+2020,2018,CR,Critically Endangered,3844
+1996,1996,VU,Vulnerable,3844
+1994,1994,R,Rare,3844
+1990,1990,E,Endangered,3844
+1988,1988,E,Endangered,3844
+1986,1986,E,Endangered,3844
+2012,2007,CR,Critically Endangered,199567
+2021,2020,CR,Critically Endangered,39367
+2009,2005,EN,Endangered,39367
+2000,2000,EN,Endangered,39367
+2020,2019,CR,Critically Endangered,144137478
+2021,2020,CR,Critically Endangered,39369
+2003,2003,CR,Critically Endangered,39369
+2000,2000,VU,Vulnerable,39369
+2019,2018,CR,Critically Endangered,39374
+2015,2006,VU,Vulnerable,39374
+2006,2006,VU,Vulnerable,39374
+2000,2000,LR/nt,Lower Risk/near threatened,39374
+2020,2020,CR,Critically Endangered,115696622
+2020,2019,CR,Critically Endangered,144136822
+2021,2020,CR,Critically Endangered,3854
+2009,2005,VU,Vulnerable,3854
+2000,2000,VU,Vulnerable,3854
+1996,1996,EN,Endangered,3854
+2003,2003,CR,Critically Endangered,44070
+2007,2007,CR,Critically Endangered,63163
+2015,2012,CR,Critically Endangered,16854228
+2014,2012,CR,Critically Endangered,54410
+2004,2004,CR,Critically Endangered,54410
+2015,2015,CR,Critically Endangered,84126444
+2015,2015,CR,Critically Endangered,84127873
+2015,2015,CR,Critically Endangered,84156809
+2013,2011,CR,Critically Endangered,198214
+2018,2018,CR,Critically Endangered,198055
+2013,2012,EN,Endangered,198055
+2019,2018,CR,Critically Endangered,198079
+2018,2018,EN,Endangered,198079
+2013,2011,EN,Endangered,198079
+2019,2018,CR,Critically Endangered,197603
+2018,2018,EN,Endangered,197603
+2013,2011,EN,Endangered,197603
+2020,2011,CR,Critically Endangered,198228
+2013,2011,CR,Critically Endangered,198228
+2019,2018,CR,Critically Endangered,198221
+2018,2018,EN,Endangered,198221
+2013,2011,EN,Endangered,198221
+2019,2018,CR,Critically Endangered,197729
+2018,2018,EN,Endangered,197729
+2013,2011,EN,Endangered,197729
+2019,2018,CR,Critically Endangered,198099
+2018,2018,EN,Endangered,198099
+2013,2011,EN,Endangered,198099
+2019,2018,CR,Critically Endangered,198206
+2018,2018,EN,Endangered,198206
+2013,2011,EN,Endangered,198206
+2019,2018,CR,Critically Endangered,197653
+2018,2018,CR,Critically Endangered,197653
+2013,2011,EN,Endangered,197653
+2019,2018,CR,Critically Endangered,197754
+2018,2018,EN,Endangered,197754
+2013,2011,EN,Endangered,197754
+2018,2018,CR,Critically Endangered,198253
+2013,2011,EN,Endangered,198253
+2019,2018,CR,Critically Endangered,197975
+2018,2018,EN,Endangered,197975
+2013,2011,EN,Endangered,197975
+2013,2012,CR,Critically Endangered,198245
+2019,2018,CR,Critically Endangered,197778
+2018,2018,EN,Endangered,197778
+2013,2011,EN,Endangered,197778
+2013,2011,CR,Critically Endangered,198139
+2019,2018,CR,Critically Endangered,197697
+2018,2018,EN,Endangered,197697
+2013,2011,EN,Endangered,197697
+2013,2012,CR,Critically Endangered,197695
+2017,2016,CR,Critically Endangered,171705
+2016,2016,CR,Critically Endangered,22724459
+2012,2012,CR,Critically Endangered,22724459
+2010,2010,CR,Critically Endangered,22724459
+2009,2009,CR,Critically Endangered,22724459
+2008,2008,CR,Critically Endangered,22724459
+2004,2004,CR,Critically Endangered,22724459
+2000,2000,CR,Critically Endangered,22724459
+1994,1994,NR,Not Recognized,22724459
+1988,1988,NR,Not Recognized,22724459
+2011,2010,CR,Critically Endangered,3998
+2000,2000,CR,Critically Endangered,3998
+1996,1996,VU,Vulnerable,3998
+1994,1994,V,Vulnerable,3998
+2006,2006,CR,Critically Endangered,61198
+1996,1996,VU,Vulnerable,61198
+2011,2011,CR,Critically Endangered,180662
+2017,2017,CR,Critically Endangered,97170461
+2018,2016,CR,Critically Endangered,97159182
+2016,2016,CR,Critically Endangered,136520
+2008,2008,CR,Critically Endangered,136520
+2020,2015,CR,Critically Endangered,4081
+2015,2008,CR,Critically Endangered,4081
+2008,2008,CR,Critically Endangered,4081
+2003,2003,NT,Near Threatened,4081
+2000,2000,DD,Data Deficient,4081
+1996,1996,DD,Data Deficient,4081
+2020,2015,CR,Critically Endangered,40019
+2019,2015,CR,Critically Endangered,40019
+2008,2008,CR,Critically Endangered,40019
+2000,2000,VU,Vulnerable,40019
+1996,1996,VU,Vulnerable,40019
+1994,1994,E,Endangered,40019
+2021,2021,CR,Critically Endangered,4085
+2008,2008,CR,Critically Endangered,4085
+2000,2000,CR,Critically Endangered,4085
+1996,1996,CR,Critically Endangered,4085
+2017,2016,CR,Critically Endangered,4091
+2000,2000,CR,Critically Endangered,4091
+1996,1996,CR,Critically Endangered,4091
+1994,1994,Ex?,Extinct?,4091
+2017,2016,CR,Critically Endangered,171106
+2014,2013,CR,Critically Endangered,171106
+2014,2014,CR,Critically Endangered,20641422
+2016,2015,CR,Critically Endangered,39258
+2004,2004,CR,Critically Endangered,39258
+1996,1996,CR,Critically Endangered,39258
+1994,1994,E,Endangered,39258
+2017,2015,CR,Critically Endangered,4094
+1996,1996,DD,Data Deficient,4094
+1994,1994,I,Indeterminate,4094
+2016,2015,CR,Critically Endangered,4096
+1996,1996,DD,Data Deficient,4096
+1994,1994,I,Indeterminate,4096
+2020,2015,CR,Critically Endangered,4097
+2017,2015,CR,Critically Endangered,4097
+1996,1996,EX,Extinct,4097
+1994,1994,Ex?,Extinct?,4097
+2019,2016,CR,Critically Endangered,54911
+2004,2004,VU,Vulnerable,54911
+2004,2004,CR,Critically Endangered,54912
+2019,2016,CR,Critically Endangered,54933
+2004,2004,EN,Endangered,54933
+2018,2018,CR,Critically Endangered,57979781
+2018,2018,CR,Critically Endangered,57979794
+2020,2019,CR,Critically Endangered,161384
+2009,2008,DD,Data Deficient,161384
+2003,2003,CR,Critically Endangered,42831
+2016,2016,CR,Critically Endangered,22684225
+2012,2012,CR,Critically Endangered,22684225
+2009,2009,CR,Critically Endangered,22684225
+2008,2008,CR,Critically Endangered,22684225
+2006,2006,CR,Critically Endangered,22684225
+2004,2004,CR,Critically Endangered,22684225
+2000,2000,CR,Critically Endangered,22684225
+1996,1996,CR,Critically Endangered,22684225
+1994,1994,CR,Critically Endangered,22684225
+1988,1988,T,Threatened,22684225
+2020,2015,CR,Critically Endangered,39764
+2008,2008,CR,Critically Endangered,39764
+2000,2000,DD,Data Deficient,39764
+2013,2008,CR,Critically Endangered,39427
+2000,2000,CR,Critically Endangered,39427
+2000,2008,CR,Critically Endangered,39427
+2019,2018,CR,Critically Endangered,42706
+2011,2010,NT,Near Threatened,42706
+2003,2003,NT,Near Threatened,42706
+2020,2019,CR,Critically Endangered,162207827
+2021,2020,CR,Critically Endangered,161380
+2009,2008,DD,Data Deficient,161380
+2020,2019,CR,Critically Endangered,161591
+2009,2008,DD,Data Deficient,161591
+2011,2011,CR,Critically Endangered,180645
+2017,2016,CR,Critically Endangered,184516
+2016,2016,CR,Critically Endangered,184516
+2010,2004,EN,Endangered,184516
+2016,2016,CR,Critically Endangered,184625
+2010,2004,DD,Data Deficient,184625
+2021,2019,CR,Critically Endangered,197247
+2021,2019,CR,Critically Endangered,197246
+2016,2016,CR,Critically Endangered,89695701
+2020,2020,CR,Critically Endangered,4183
+2011,2011,CR,Critically Endangered,4183
+2008,2008,CR,Critically Endangered,4183
+2003,2003,CR,Critically Endangered,4183
+2002,2002,CR,Critically Endangered,4183
+1996,1996,CR,Critically Endangered,4183
+1994,1994,E,Endangered,4183
+1990,1990,E,Endangered,4183
+1988,1988,E,Endangered,4183
+1986,1986,E,Endangered,4183
+2020,2019,CR,Critically Endangered,4200
+2008,2008,EN,Endangered,4200
+2000,2000,CR,Critically Endangered,4200
+1996,1996,EN,Endangered,4200
+1994,1994,E,Endangered,4200
+1990,1990,E,Endangered,4200
+1988,1988,E,Endangered,4200
+1986,1986,E,Endangered,4200
+1965,1965,,"""Status inadequately known-survey required or data sought""",4200
+2018,2016,CR,Critically Endangered,22701686
+2016,2016,CR,Critically Endangered,22701686
+2012,2012,CR,Critically Endangered,22701686
+2008,2008,NT,Near Threatened,22701686
+2004,2004,VU,Vulnerable,22701686
+2000,2000,VU,Vulnerable,22701686
+1996,1996,VU,Vulnerable,22701686
+1994,1994,VU,Vulnerable,22701686
+1988,1988,T,Threatened,22701686
+2020,2016,CR,Critically Endangered,40003
+2008,2008,EN,Endangered,40003
+2000,2000,EN,Endangered,40003
+2020,2018,CR,Critically Endangered,136925
+2008,2008,CR,Critically Endangered,136925
+1996,1996,DD,Data Deficient,136925
+2019,2019,CR,Critically Endangered,4232
+2016,2008,EN,Endangered,4232
+2008,2008,EN,Endangered,4232
+2000,2000,CR,Critically Endangered,4232
+1996,1996,EN,Endangered,4232
+1994,1994,E,Endangered,4232
+1996,1996,CR,Critically Endangered,4251
+2011,2011,CR,Critically Endangered,156442
+2011,2011,CR,Critically Endangered,157166
+2017,2016,CR,Critically Endangered,113259123
+2021,2020,CR,Critically Endangered,141758289
+2021,2020,CR,Critically Endangered,141759311
+2021,2020,CR,Critically Endangered,141760092
+2021,2020,CR,Critically Endangered,141760305
+2021,2020,CR,Critically Endangered,141760565
+2021,2020,CR,Critically Endangered,197110
+2021,2020,CR,Critically Endangered,141765151
+2008,2008,CR,Critically Endangered,61692
+2006,2006,CR,Critically Endangered,61692
+2008,2008,CR,Critically Endangered,61695
+2006,2006,CR,Critically Endangered,61695
+2008,2008,CR,Critically Endangered,61697
+2006,2006,CR,Critically Endangered,61697
+2008,2008,CR,Critically Endangered,61730
+2008,2008,CR,Critically Endangered,61698
+2006,2006,CR,Critically Endangered,61698
+2008,2008,CR,Critically Endangered,61699
+2006,2006,CR,Critically Endangered,61699
+2008,2008,CR,Critically Endangered,61703
+2006,2006,CR,Critically Endangered,61703
+2008,2008,CR,Critically Endangered,61701
+2006,2006,CR,Critically Endangered,61701
+2018,2018,CR,Critically Endangered,45355856
+2017,2016,CR,Critically Endangered,45355856
+2016,2016,CR,Critically Endangered,45355856
+2015,2015,CR,Critically Endangered,45355856
+2014,2014,CR,Critically Endangered,45355856
+2012,2007,CR,Critically Endangered,199535
+2012,2007,CR,Critically Endangered,199536
+2006,2006,CR,Critically Endangered,61475
+2021,2020,CR,Critically Endangered,4425
+2008,2008,VU,Vulnerable,4425
+2000,2000,VU,Vulnerable,4425
+1996,1996,LR/nt,Lower Risk/near threatened,4425
+2016,2016,CR,Critically Endangered,102149361
+2016,2016,CR,Critically Endangered,102149327
+2019,2018,CR,Critically Endangered,191705
+2021,2021,CR,Critically Endangered,199574799
+2021,2018,CR,Critically Endangered,187027
+2019,2018,CR,Critically Endangered,4531
+1996,1996,EN,Endangered,4531
+1994,1994,E,Endangered,4531
+1990,1990,E,Endangered,4531
+1988,1988,V,Vulnerable,4531
+1986,1986,V,Vulnerable,4531
+2018,2017,CR,Critically Endangered,62290750
+2017,2017,CR,Critically Endangered,62290750
+2016,2016,EN,Endangered,62290750
+2014,2014,EN,Endangered,62290750
+2018,2016,CR,Critically Endangered,22684693
+2016,2016,CR,Critically Endangered,22684693
+2015,2015,CR,Critically Endangered,22684693
+2012,2012,CR,Critically Endangered,22684693
+2010,2010,CR,Critically Endangered,22684693
+2009,2009,CR,Critically Endangered,22684693
+2008,2008,CR,Critically Endangered,22684693
+2006,2006,CR,Critically Endangered,22684693
+2004,2004,EN,Endangered,22684693
+2000,2000,EN,Endangered,22684693
+1996,1996,VU,Vulnerable,22684693
+1994,1994,VU,Vulnerable,22684693
+1988,1988,LR/lc,Lower Risk/least concern,22684693
+2019,2019,CR,Critically Endangered,22684689
+2018,2018,CR,Critically Endangered,22684689
+2016,2016,CR,Critically Endangered,22684689
+2013,2013,CR,Critically Endangered,22684689
+2012,2012,CR,Critically Endangered,22684689
+2010,2010,CR,Critically Endangered,22684689
+2009,2009,CR,Critically Endangered,22684689
+2008,2008,CR,Critically Endangered,22684689
+2004,2004,CR,Critically Endangered,22684689
+2000,2000,CR,Critically Endangered,22684689
+1996,1996,EN,Endangered,22684689
+1994,1994,EN,Endangered,22684689
+1988,1988,T,Threatened,22684689
+2017,2016,CR,Critically Endangered,22684671
+2016,2016,CR,Critically Endangered,22684671
+2015,2015,CR,Critically Endangered,22684671
+2013,2013,CR,Critically Endangered,22684671
+2012,2012,CR,Critically Endangered,22684671
+2010,2010,CR,Critically Endangered,22684671
+2009,2009,CR,Critically Endangered,22684671
+2008,2008,CR,Critically Endangered,22684671
+2004,2004,CR,Critically Endangered,22684671
+2000,2000,CR,Critically Endangered,22684671
+1996,1996,VU,Vulnerable,22684671
+1994,1994,VU,Vulnerable,22684671
+1988,1988,T,Threatened,22684671
+2014,2014,CR,Critically Endangered,64835554
+2017,2016,CR,Critically Endangered,171745
+2017,2016,CR,Critically Endangered,171595
+2017,2016,CR,Critically Endangered,170841
+2013,2011,CR,Critically Endangered,62197
+2021,2020,CR,Critically Endangered,149164123
+2021,2020,CR,Critically Endangered,149163538
+2021,2017,CR,Critically Endangered,58082390
+2020,2018,CR,Critically Endangered,41576
+2014,2012,CR,Critically Endangered,41576
+2008,2008,DD,Data Deficient,41576
+2019,2018,CR,Critically Endangered,123814489
+2016,2015,CR,Critically Endangered,9020
+1996,1996,EN,Endangered,9020
+2017,2016,CR,Critically Endangered,90377132
+2018,2015,CR,Critically Endangered,9022
+1996,1996,EN,Endangered,9022
+2017,2015,CR,Critically Endangered,9024
+2016,1996,CR,Critically Endangered,9024
+1996,1996,CR,Critically Endangered,9024
+2017,2015,CR,Critically Endangered,170517
+2017,2016,CR,Critically Endangered,9026
+2016,1996,EN,Endangered,9026
+1996,1996,EN,Endangered,9026
+2010,2009,CR,Critically Endangered,184424
+2010,2010,CR,Critically Endangered,4618
+1996,1996,VU,Vulnerable,4618
+1994,1994,I,Indeterminate,4618
+2021,2020,CR,Critically Endangered,169975882
+2021,2020,CR,Critically Endangered,169976609
+2017,2017,CR,Critically Endangered,118470875
+2020,2019,CR,Critically Endangered,4631
+1996,1996,CR,Critically Endangered,4631
+1994,1994,R,Rare,4631
+2017,2016,CR,Critically Endangered,4632
+2007,2007,EN,Endangered,4632
+1996,1996,CR,Critically Endangered,4632
+1994,1994,V,Vulnerable,4632
+1990,1990,V,Vulnerable,4632
+1988,1988,V,Vulnerable,4632
+2006,2006,CR,Critically Endangered,60804
+2011,2011,CR,Critically Endangered,157039
+2011,2010,CR,Critically Endangered,156887
+2018,2018,CR,Critically Endangered,61175
+2017,2006,VU,Vulnerable,61175
+2006,2006,VU,Vulnerable,61175
+2016,2015,CR,Critically Endangered,4672
+1996,1996,CR,Critically Endangered,4672
+1994,1994,R,Rare,4672
+2016,2014,CR,Critically Endangered,59221
+2008,2008,CR,Critically Endangered,59221
+2004,2004,DD,Data Deficient,59221
+2020,2019,CR,Critically Endangered,150088930
+2021,2020,CR,Critically Endangered,182502187
+2021,2020,CR,Critically Endangered,182502456
+2020,2019,CR,Critically Endangered,59222
+2008,2008,CR,Critically Endangered,59222
+2004,2004,DD,Data Deficient,59222
+2016,2014,CR,Critically Endangered,59226
+2008,2008,CR,Critically Endangered,59226
+2006,2006,CR,Critically Endangered,59226
+2004,2004,DD,Data Deficient,59226
+2016,2014,CR,Critically Endangered,59228
+2008,2008,DD,Data Deficient,59228
+2004,2004,CR,Critically Endangered,59228
+2020,2019,CR,Critically Endangered,150088962
+2021,2020,CR,Critically Endangered,182503798
+2020,2019,CR,Critically Endangered,59232
+2010,2008,CR,Critically Endangered,59232
+2008,2008,CR,Critically Endangered,59232
+2004,2004,DD,Data Deficient,59232
+2021,2020,CR,Critically Endangered,182502901
+2019,2018,CR,Critically Endangered,191129
+2019,2018,CR,Critically Endangered,4689
+1996,1996,VU,Vulnerable,4689
+1994,1994,K,Insufficiently Known,4689
+1990,1990,K,Insufficiently Known,4689
+2019,2018,CR,Critically Endangered,191131
+2019,2018,CR,Critically Endangered,191168
+2019,2018,CR,Critically Endangered,191181
+2019,2018,CR,Critically Endangered,191187
+2020,2018,CR,Critically Endangered,124929713
+2019,2018,CR,Critically Endangered,4695
+2000,2000,CR,Critically Endangered,4695
+1996,1996,CR,Critically Endangered,4695
+2021,2018,CR,Critically Endangered,170525
+2019,2019,CR,Critically Endangered,4700
+1996,1996,VU,Vulnerable,4700
+1994,1994,R,Rare,4700
+2019,2019,CR,Critically Endangered,4699
+1996,1996,CR,Critically Endangered,4699
+1994,1994,K,Insufficiently Known,4699
+2018,2017,CR,Critically Endangered,65699412
+2020,2016,CR,Critically Endangered,84379630
+2017,2016,CR,Critically Endangered,84379630
+2018,2015,CR,Critically Endangered,169203
+2010,2006,CR,Critically Endangered,169203
+2009,2006,CR,Critically Endangered,169203
+1996,1996,CR,Critically Endangered,4729
+1994,1994,R,Rare,4729
+2020,2019,CR,Critically Endangered,61844
+2006,2006,DD,Data Deficient,61844
+2020,2019,CR,Critically Endangered,57668
+2004,2004,CR,Critically Endangered,57668
+2020,2020,CR,Critically Endangered,22728485
+2016,2016,CR,Critically Endangered,22728485
+2013,2013,CR,Critically Endangered,22728485
+2012,2012,CR,Critically Endangered,22728485
+2010,2010,CR,Critically Endangered,22728485
+2009,2009,CR,Critically Endangered,22728485
+2008,2008,CR,Critically Endangered,22728485
+2004,2004,CR,Critically Endangered,22728485
+2000,2000,CR,Critically Endangered,22728485
+1994,1994,NR,Not Recognized,22728485
+1988,1988,NR,Not Recognized,22728485
+2016,2015,CR,Critically Endangered,4799
+1996,1996,VU,Vulnerable,4799
+1994,1994,R,Rare,4799
+2014,2014,CR,Critically Endangered,16757663
+2012,2012,CR,Critically Endangered,16757669
+2014,2014,CR,Critically Endangered,16757666
+2016,2015,CR,Critically Endangered,14870997
+2012,2012,CR,Critically Endangered,14870997
+2010,2009,CR,Critically Endangered,183124
+2020,2014,CR,Critically Endangered,19673922
+2014,2014,CR,Critically Endangered,19673922
+2014,2014,CR,Critically Endangered,19674013
+2014,2009,CR,Critically Endangered,170183
+2016,2015,CR,Critically Endangered,16084395
+2014,2014,VU,Vulnerable,16084395
+1996,1996,CR,Critically Endangered,4825
+1994,1994,E,Endangered,4825
+1990,1990,I,Indeterminate,4825
+1988,1988,I,Indeterminate,4825
+1986,1986,I,Indeterminate,4825
+2020,2018,CR,Critically Endangered,15767
+1996,1996,EN,Endangered,15767
+1994,1994,V,Vulnerable,15767
+1990,1990,E,Endangered,15767
+1988,1988,E,Endangered,15767
+1986,1986,E,Endangered,15767
+2015,2013,CR,Critically Endangered,54802
+2004,2004,CR,Critically Endangered,54802
+2014,2014,CR,Critically Endangered,64174124
+2012,2012,CR,Critically Endangered,188986
+2018,2016,CR,Critically Endangered,22724402
+2017,2016,CR,Critically Endangered,22724402
+2016,2016,CR,Critically Endangered,22724402
+2015,2015,CR,Critically Endangered,22724402
+2013,2013,CR,Critically Endangered,22724402
+2012,2012,CR,Critically Endangered,22724402
+2011,2011,CR,Critically Endangered,22724402
+2010,2010,CR,Critically Endangered,22724402
+2009,2009,CR,Critically Endangered,22724402
+2008,2008,CR,Critically Endangered,22724402
+2004,2004,CR,Critically Endangered,22724402
+2000,2000,CR,Critically Endangered,22724402
+1996,1996,CR,Critically Endangered,22724402
+1994,1994,CR,Critically Endangered,22724402
+1988,1988,T,Threatened,22724402
+2021,2021,CR,Critically Endangered,22702117
+2018,2018,CR,Critically Endangered,22702117
+2016,2016,CR,Critically Endangered,22702117
+2012,2012,CR,Critically Endangered,22702117
+2010,2010,CR,Critically Endangered,22702117
+2008,2008,EN,Endangered,22702117
+2004,2004,EN,Endangered,22702117
+2000,2000,VU,Vulnerable,22702117
+1996,1996,VU,Vulnerable,22702117
+1994,1994,VU,Vulnerable,22702117
+1988,1988,T,Threatened,22702117
+2021,2020,CR,Critically Endangered,22724821
+2018,2018,CR,Critically Endangered,22724821
+2016,2016,CR,Critically Endangered,22724821
+2015,2015,CR,Critically Endangered,22724821
+2013,2013,CR,Critically Endangered,22724821
+2012,2012,CR,Critically Endangered,22724821
+2018,2017,CR,Critically Endangered,97218908
+2019,2019,CR,Critically Endangered,180855
+2007,2007,CR,Critically Endangered,63363
+1996,1996,CR,Critically Endangered,63363
+1994,1994,E,Endangered,63363
+1990,1990,E,Endangered,63363
+1988,1988,E,Endangered,63363
+1986,1986,E,Endangered,63363
+2010,2009,CR,Critically Endangered,4958
+1996,1996,CR,Critically Endangered,4958
+2019,2018,CR,Critically Endangered,91226668
+2021,2021,CR,Critically Endangered,195277464
+2016,2016,CR,Critically Endangered,44270
+2010,2004,VU,Vulnerable,44270
+2004,2004,VU,Vulnerable,44270
+2008,2008,CR,Critically Endangered,61706
+2006,2006,CR,Critically Endangered,61706
+2021,2020,CR,Critically Endangered,162160049
+2008,2008,CR,Critically Endangered,4985
+1996,1996,DD,Data Deficient,4985
+2021,2019,CR,Critically Endangered,104681288
+2021,2019,CR,Critically Endangered,178566
+2010,2009,CR,Critically Endangered,178566
+2021,2019,CR,Critically Endangered,157678393
+2021,2019,CR,Critically Endangered,152267192
+2021,2019,CR,Critically Endangered,157677493
+2021,2019,CR,Critically Endangered,157678188
+2021,2019,CR,Critically Endangered,149323391
+2021,2019,CR,Critically Endangered,157678025
+2021,2019,CR,Critically Endangered,127938529
+2021,2019,CR,Critically Endangered,197235
+2021,2019,CR,Critically Endangered,197234
+2021,2019,CR,Critically Endangered,115604801
+2021,2016,CR,Critically Endangered,157676992
+2021,2019,CR,Critically Endangered,149323623
+2019,2017,CR,Critically Endangered,99943296
+2021,2019,CR,Critically Endangered,197231
+2021,2019,CR,Critically Endangered,127938699
+2021,2019,CR,Critically Endangered,127938795
+2021,2019,CR,Critically Endangered,197228
+2021,2019,CR,Critically Endangered,197227
+2021,2019,CR,Critically Endangered,197226
+2021,2019,CR,Critically Endangered,153293497
+2018,2017,CR,Critically Endangered,99943609
+2021,2019,CR,Critically Endangered,153293524
+2021,2009,CR,Critically Endangered,178508
+2010,2009,DD,Data Deficient,178508
+2016,2015,CR,Critically Endangered,4997
+1996,1996,VU,Vulnerable,4997
+1994,1994,V,Vulnerable,4997
+1996,1996,CR,Critically Endangered,5026
+1994,1994,V,Vulnerable,5026
+1990,1990,V,Vulnerable,5026
+1988,1988,V,Vulnerable,5026
+1986,1986,V,Vulnerable,5026
+1983,1983,V,Vulnerable,5026
+2008,2008,CR,Critically Endangered,135712
+2011,2010,CR,Critically Endangered,184439
+2014,2013,CR,Critically Endangered,19085174
+2014,2013,CR,Critically Endangered,19085854
+2006,2006,CR,Critically Endangered,5030
+1996,1996,DD,Data Deficient,5030
+1994,1994,V,Vulnerable,5030
+2019,2017,CR,Critically Endangered,122055219
+2008,2008,CR,Critically Endangered,135581
+2018,2018,CR,Critically Endangered,54959
+2004,2004,DD,Data Deficient,54959
+1996,1996,CR,Critically Endangered,5055
+2020,2019,CR,Critically Endangered,147658654
+2020,2019,CR,Critically Endangered,184642
+2010,2008,VU,Vulnerable,184642
+2016,2016,CR,Critically Endangered,98179041
+2017,2016,CR,Critically Endangered,5112
+2008,2008,CR,Critically Endangered,5112
+2004,2004,CR,Critically Endangered,5112
+1996,1996,CR,Critically Endangered,5112
+1994,1994,E,Endangered,5112
+1990,1990,E,Endangered,5112
+1988,1988,E,Endangered,5112
+2020,2016,CR,Critically Endangered,40008
+2008,2008,EN,Endangered,40008
+2000,2000,EN,Endangered,40008
+2020,2020,CR,Critically Endangered,5146
+2019,2019,CR,Critically Endangered,5146
+2008,2008,VU,Vulnerable,5146
+2000,2000,VU,Vulnerable,5146
+1996,1996,VU,Vulnerable,5146
+1994,1994,V,Vulnerable,5146
+1988,1988,nt,Not Threatened,5146
+1996,1996,CR,Critically Endangered,5155
+1996,1996,CR,Critically Endangered,5153
+1996,1996,CR,Critically Endangered,5154
+1996,1996,CR,Critically Endangered,5152
+2017,2015,CR,Critically Endangered,80378461
+2017,2015,CR,Critically Endangered,80378518
+2017,2015,CR,Critically Endangered,80378855
+2020,2016,CR,Critically Endangered,55098
+2004,2004,CR,Critically Endangered,55098
+2020,2019,CR,Critically Endangered,55102
+2004,2004,DD,Data Deficient,55102
+2019,2019,CR,Critically Endangered,22690195
+2016,2016,CR,Critically Endangered,22690195
+2015,2015,CR,Critically Endangered,22690195
+2013,2013,CR,Critically Endangered,22690195
+2012,2012,CR,Critically Endangered,22690195
+2011,2011,CR,Critically Endangered,22690195
+2010,2010,CR,Critically Endangered,22690195
+2009,2009,CR,Critically Endangered,22690195
+2008,2008,CR,Critically Endangered,22690195
+2004,2004,CR,Critically Endangered,22690195
+2000,2000,CR,Critically Endangered,22690195
+1996,1996,VU,Vulnerable,22690195
+1994,1994,VU,Vulnerable,22690195
+1988,1988,T,Threatened,22690195
+2019,2019,CR,Critically Endangered,22690804
+2016,2016,CR,Critically Endangered,22690804
+2015,2015,CR,Critically Endangered,22690804
+2012,2012,CR,Critically Endangered,22690804
+2010,2010,CR,Critically Endangered,22690804
+2009,2009,CR,Critically Endangered,22690804
+2008,2008,CR,Critically Endangered,22690804
+2004,2004,CR,Critically Endangered,22690804
+2000,2000,CR,Critically Endangered,22690804
+1996,1996,CR,Critically Endangered,22690804
+1994,1994,CR,Critically Endangered,22690804
+1988,1988,T,Threatened,22690804
+2011,2011,CR,Critically Endangered,172911
+2012,2011,CR,Critically Endangered,199618
+2016,2016,CR,Critically Endangered,136343
+2008,2008,CR,Critically Endangered,136343
+2019,2013,CR,Critically Endangered,203467
+2012,2012,CR,Critically Endangered,174472
+2014,2012,CR,Critically Endangered,196124
+2020,2020,CR,Critically Endangered,58253
+2004,2004,CR,Critically Endangered,58253
+2021,2021,CR,Critically Endangered,204501027
+2009,2006,CR,Critically Endangered,168141
+2012,2011,CR,Critically Endangered,192286
+2012,2011,CR,Critically Endangered,192626
+2012,2011,CR,Critically Endangered,192602
+2000,2000,CR,Critically Endangered,40716
+1996,1996,CR,Critically Endangered,40716
+1994,1994,E,Endangered,40716
+2018,2018,CR,Critically Endangered,61030
+2006,2006,VU,Vulnerable,61030
+2021,2020,CR,Critically Endangered,184535176
+2021,2020,CR,Critically Endangered,184535337
+2004,2004,CR,Critically Endangered,41118
+2002,2002,LC,Least Concern,41118
+2020,2019,CR,Critically Endangered,135992
+2008,2008,DD,Data Deficient,135992
+2020,2019,CR,Critically Endangered,135730
+2008,2008,DD,Data Deficient,135730
+2021,2019,CR,Critically Endangered,169677
+2009,2008,CR,Critically Endangered,169677
+2020,2015,CR,Critically Endangered,78535878
+2016,2015,CR,Critically Endangered,78535878
+2016,2015,CR,Critically Endangered,79788927
+2016,2015,CR,Critically Endangered,79789021
+2020,2019,CR,Critically Endangered,181946
+2010,2006,CR,Critically Endangered,181946
+2012,2007,CR,Critically Endangered,199552
+2016,2015,CR,Critically Endangered,44710836
+2021,2020,CR,Critically Endangered,22724568
+2018,2018,CR,Critically Endangered,22724568
+2016,2016,CR,Critically Endangered,22724568
+2015,2015,CR,Critically Endangered,22724568
+2012,2012,CR,Critically Endangered,22724568
+2010,2010,CR,Critically Endangered,22724568
+2009,2009,CR,Critically Endangered,22724568
+2008,2008,CR,Critically Endangered,22724568
+2004,2004,CR,Critically Endangered,22724568
+2000,2000,CR,Critically Endangered,22724568
+1994,1994,NR,Not Recognized,22724568
+1988,1988,NR,Not Recognized,22724568
+2020,2019,CR,Critically Endangered,63227
+2010,2009,CR,Critically Endangered,63227
+2007,2007,CR,Critically Endangered,63227
+2008,2008,CR,Critically Endangered,135698
+2008,2008,CR,Critically Endangered,135529
+2017,2015,CR,Critically Endangered,5379
+1996,1996,VU,Vulnerable,5379
+1994,1994,E,Endangered,5379
+1990,1990,E,Endangered,5379
+1988,1988,E,Endangered,5379
+1986,1986,E,Endangered,5379
+2008,2008,CR,Critically Endangered,135518
+1996,1996,CR,Critically Endangered,5376
+1994,1994,E,Endangered,5376
+1990,1990,E,Endangered,5376
+1988,1988,V,Vulnerable,5376
+1986,1986,V,Vulnerable,5376
+2008,2008,CR,Critically Endangered,5383
+1996,1996,DD,Data Deficient,5383
+2018,2018,CR,Critically Endangered,60887
+2006,2006,LC,Least Concern,60887
+2018,2016,CR,Critically Endangered,78735202
+2021,2017,CR,Critically Endangered,122894804
+2021,2020,CR,Critically Endangered,173824969
+2018,2018,CR,Critically Endangered,22705959
+2016,2016,CR,Critically Endangered,22705959
+2015,2015,CR,Critically Endangered,22705959
+2013,2013,CR,Critically Endangered,22705959
+2012,2012,CR,Critically Endangered,22705959
+2010,2010,CR,Critically Endangered,22705959
+2009,2009,CR,Critically Endangered,22705959
+2008,2008,CR,Critically Endangered,22705959
+2004,2004,EN,Endangered,22705959
+2000,2000,EN,Endangered,22705959
+1996,1996,CR,Critically Endangered,22705959
+1994,1994,CR,Critically Endangered,22705959
+1988,1988,T,Threatened,22705959
+2017,2016,CR,Critically Endangered,22705953
+2016,2016,CR,Critically Endangered,22705953
+2012,2012,CR,Critically Endangered,22705953
+2011,2011,CR,Critically Endangered,22705953
+2010,2010,CR,Critically Endangered,22705953
+2009,2009,CR,Critically Endangered,22705953
+2008,2008,CR,Critically Endangered,22705953
+2007,2007,CR,Critically Endangered,22705953
+2005,2005,CR,Critically Endangered,22705953
+2004,2004,EN,Endangered,22705953
+2000,2000,EN,Endangered,22705953
+1996,1996,VU,Vulnerable,22705953
+1994,1994,VU,Vulnerable,22705953
+1988,1988,T,Threatened,22705953
+2015,2012,CR,Critically Endangered,15522149
+2019,2019,CR,Critically Endangered,22700886
+2017,2016,EN,Endangered,22700886
+2016,2016,EN,Endangered,22700886
+2012,2012,EN,Endangered,22700886
+2008,2008,EN,Endangered,22700886
+2004,2004,EN,Endangered,22700886
+2000,2000,EN,Endangered,22700886
+1996,1996,EN,Endangered,22700886
+1994,1994,EN,Endangered,22700886
+1988,1988,T,Threatened,22700886
+2013,2011,CR,Critically Endangered,5443
+1996,1996,CR,Critically Endangered,5443
+1994,1994,E,Endangered,5443
+1990,1990,E,Endangered,5443
+1988,1988,V,Vulnerable,5443
+1986,1986,V,Vulnerable,5443
+2008,2008,CR,Critically Endangered,135648
+2011,2010,CR,Critically Endangered,9053
+1996,1996,CR,Critically Endangered,9053
+1994,1994,Ex?,Extinct?,9053
+2019,2019,CR,Critically Endangered,5489
+1996,1996,VU,Vulnerable,5489
+1994,1994,R,Rare,5489
+2019,2019,CR,Critically Endangered,40692
+1996,1996,EN,Endangered,40692
+1994,1994,V,Vulnerable,40692
+2020,2020,CR,Critically Endangered,5493
+1996,1996,LR/lc,Lower Risk/least concern,5493
+1994,1994,R,Rare,5493
+2020,2019,CR,Critically Endangered,56396
+2004,2004,DD,Data Deficient,56396
+2020,2019,CR,Critically Endangered,56414
+2008,2008,CR,Critically Endangered,56414
+2004,2004,CR,Critically Endangered,56414
+2020,2019,CR,Critically Endangered,56418
+2008,2008,CR,Critically Endangered,56418
+2004,2004,CR,Critically Endangered,56418

@@ -1,0 +1,1934 @@
+code,habitat,suitability,season,majorimportance,taxonid_iucn
+14.1,Artificial/Terrestrial - Arable Land,Marginal,,,18267
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,18267
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Suitable,,Yes,18267
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,199542
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,103899231
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,196234
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,Yes,9674
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,9674
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,9674
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,18360
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,18360
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,18355
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Marginal,Resident,,18355
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,18356
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Marginal,Resident,,18356
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,18357
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,18358
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,18358
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,18361
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,18361
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,No,18352
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,18352
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,18352
+2.1,Savanna - Dry,Marginal,Passage,,18352
+3.5,Shrubland - Subtropical/Tropical Dry,Marginal,Passage,,18352
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,18354
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,18354
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,18354
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,60002
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,60002
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,,60002
+1.4,Forest - Temperate,Suitable,,,157773
+14.5,Artificial/Terrestrial - Urban Areas,Suitable,,,157773
+17,Other,Suitable,,Yes,157773
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,Yes,157773
+12.2,"Marine Intertidal - Sandy Shoreline and/or Beaches, Sand Bars, Spits, Etc",Marginal,Resident,,15968
+12.7,Marine Intertidal - Mangrove Submerged Roots,Marginal,Resident,,15968
+13.1,Marine Coastal/Supratidal - Sea Cliffs and Rocky Offshore Islands,Suitable,Resident,,15968
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,,55072
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,55072
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,Resident,,55072
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,177448
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,135488
+1.4,Forest - Temperate,Unknown,,,163937
+1.5,Forest - Subtropical/Tropical Dry,Unknown,,,163937
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,163937
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,169304
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,169304
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,163892
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,163892
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,173721301
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,173721301
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,173721301
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157781173
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157783266
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,18398
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,18428
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,No,18428
+9.10,Marine Neritic - Estuaries,Suitable,,,18428
+18,Unknown,Suitable,,,169211
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,,83129633
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,,184538
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,,184498
+1.4,Forest - Temperate,Suitable,Resident,Yes,97117836
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,169980360
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Non-Breeding Season,No,22697531
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22697531
+4.6,Grassland - Subtropical/Tropical Seasonally Wet/Flooded,Suitable,Resident,Yes,22697531
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,22697531
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,22697531
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,22697531
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,Yes,172834
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,107649398
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,2564
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,107662143
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,41064
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,41064
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,41064
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,41064
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,195005
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,171962
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,164823
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,164885
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,119450611
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,22697896
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,22697896
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Breeding Season,Yes,22697896
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Non-Breeding Season,Yes,22697896
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Breeding Season,Yes,22697896
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,22697896
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,22697896
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Breeding Season,No,22697896
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Non-Breeding Season,No,22697896
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Breeding Season,No,22697896
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Non-Breeding Season,No,22697896
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Breeding Season,No,22697896
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Non-Breeding Season,No,22697896
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Breeding Season,No,22697896
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Non-Breeding Season,No,22697896
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Breeding Season,No,22697896
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Non-Breeding Season,No,22697896
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Breeding Season,No,22697896
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Non-Breeding Season,No,22697896
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,22697913
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,22697913
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Breeding Season,Yes,22697913
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Non-Breeding Season,Yes,22697913
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Breeding Season,Yes,22697913
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,22697913
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,22697913
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Breeding Season,No,22697913
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Non-Breeding Season,No,22697913
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Breeding Season,No,22697913
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Non-Breeding Season,No,22697913
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Breeding Season,No,22697913
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Non-Breeding Season,No,22697913
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Breeding Season,No,22697913
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Non-Breeding Season,No,22697913
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Breeding Season,No,22697913
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Non-Breeding Season,No,22697913
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Breeding Season,No,22697913
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Non-Breeding Season,No,22697913
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,22697935
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,22697935
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Breeding Season,Yes,22697935
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Non-Breeding Season,Yes,22697935
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Breeding Season,Yes,22697935
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,22697935
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,22697935
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Breeding Season,No,22697935
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Non-Breeding Season,No,22697935
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Breeding Season,No,22697935
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Non-Breeding Season,No,22697935
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Breeding Season,No,22697935
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Non-Breeding Season,No,22697935
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Breeding Season,No,22697935
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Non-Breeding Season,No,22697935
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Breeding Season,No,22697935
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Non-Breeding Season,No,22697935
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Breeding Season,No,22697935
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Non-Breeding Season,No,22697935
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,99941632
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,99941794
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,160595
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,18492
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,184587
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,165404
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,68974289
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59365
+1.4,Forest - Temperate,Suitable,Resident,Yes,59368
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,59368
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59369
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,59369
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59370
+1.4,Forest - Temperate,Suitable,,Yes,59372
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59372
+1.4,Forest - Temperate,Suitable,Resident,Yes,59381
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59381
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,,78576297
+1.4,Forest - Temperate,Suitable,Resident,Yes,59387
+14.4,Artificial/Terrestrial - Rural Gardens,Unknown,Resident,,61909
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Unknown,Resident,,61909
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,,61909
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59393
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59395
+1.4,Forest - Temperate,Suitable,Resident,Yes,59397
+1.4,Forest - Temperate,Suitable,Resident,Yes,59398
+1.4,Forest - Temperate,Suitable,Resident,Yes,59399
+1.4,Forest - Temperate,Suitable,Resident,Yes,59400
+1.4,Forest - Temperate,Suitable,Resident,Yes,59401
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,184533
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,184722
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,44617
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,44617
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,44617
+9.8,Marine Neritic - Coral Reef,Suitable,Resident,Yes,44617
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,135870
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,135870
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,135870
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59110
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,59110
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,136191
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,136191
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,136191
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,136191
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Breeding Season,Yes,136191
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,155933
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,67368866
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,18547
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,161077487
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22720753
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,18577
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,,,58910
+1.6,Forest - Subtropical/Tropical Moist Lowland,Unknown,,,58910
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,79101722
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,79101722
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,79101728
+14.3,Artificial/Terrestrial - Plantations,Suitable,,,58834
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,58834
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,79101737
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,No,79101750
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,79101750
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,79101750
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,58866
+14.3,Artificial/Terrestrial - Plantations,Suitable,,,58868
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,58868
+14.3,Artificial/Terrestrial - Plantations,Marginal,Resident,,61884
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,61884
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,79101755
+14.3,Artificial/Terrestrial - Plantations,Marginal,Resident,,58881
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,58881
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,61887
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,61887
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,61887
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,Yes,58890
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,58890
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,58890
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,58890
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,79101771
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,58905
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,58905
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,79101779
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,58919
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,61889
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,61889
+8.2,Desert - Temperate,Suitable,,Yes,195289
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,19449330
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Suitable,Resident,Yes,19448833
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,19448833
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,19448833
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,19448833
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,19449267
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,19449267
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,61349
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,No,61349
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,19449277
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,19449277
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,19449338
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,61281
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,Resident,Yes,61281
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,61281
+1.4,Forest - Temperate,Suitable,,,18582
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,,,18582
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,,,18582
+5.10,Wetlands (inland) - Tundra Wetlands (incl. pools and temporary waters from snowmelt),Suitable,,,18582
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,,18582
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,18597
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,18597
+8.2,Desert - Temperate,Suitable,Resident,Yes,62452865
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,18599
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,18600
+15.7,Artificial/Aquatic - Irrigated Land (includes irrigation channels),Marginal,,,18601
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,18601
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,61113
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,125341177
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,172860
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Marginal,Resident,,12798
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,12798
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,172508
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22720734
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,45470702
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,Yes,15038064
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,57200
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,136587
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,18658
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,No,22678869
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22678869
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,22698097
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,22698097
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Breeding Season,Yes,22698097
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Non-Breeding Season,Yes,22698097
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Breeding Season,Yes,22698097
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,22698097
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,22698097
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Breeding Season,No,22698097
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Non-Breeding Season,No,22698097
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Breeding Season,No,22698097
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Non-Breeding Season,No,22698097
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Breeding Season,No,22698097
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Non-Breeding Season,No,22698097
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Breeding Season,No,22698097
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Non-Breeding Season,No,22698097
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Breeding Season,No,22698097
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Non-Breeding Season,No,22698097
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Breeding Season,No,22698097
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Non-Breeding Season,No,22698097
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,22698049
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,22698049
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Breeding Season,Yes,22698049
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Non-Breeding Season,Yes,22698049
+1.4,Forest - Temperate,Suitable,Breeding Season,Yes,22698049
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,No,22698049
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,No,22698049
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Breeding Season,No,22698049
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Non-Breeding Season,No,22698049
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Breeding Season,No,22698049
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Non-Breeding Season,No,22698049
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Breeding Season,No,22698049
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Non-Breeding Season,No,22698049
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Breeding Season,No,22698049
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Non-Breeding Season,No,22698049
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Breeding Season,No,22698049
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Non-Breeding Season,No,22698049
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Breeding Season,No,22698049
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Non-Breeding Season,No,22698049
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,22698020
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,22698020
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Breeding Season,Yes,22698020
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Non-Breeding Season,Yes,22698020
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Breeding Season,Yes,22698020
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Breeding Season,Yes,22698020
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,22698020
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,22698020
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Breeding Season,No,22698020
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Non-Breeding Season,No,22698020
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Breeding Season,No,22698020
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Non-Breeding Season,No,22698020
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Breeding Season,No,22698020
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Non-Breeding Season,No,22698020
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Breeding Season,No,22698020
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Non-Breeding Season,No,22698020
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Breeding Season,No,22698020
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Non-Breeding Season,No,22698020
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Breeding Season,No,22698020
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Non-Breeding Season,No,22698020
+18,Unknown,Suitable,,,136504
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,,Yes,18728
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,Yes,18728
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,18728
+1.6,Forest - Subtropical/Tropical Moist Lowland,Marginal,Resident,,18732
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,18732
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Breeding Season,Yes,22732350
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Breeding Season,No,22732350
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22691568
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,22691470
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22691470
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,166166
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,18826
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,44510
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,18832
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,44513
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,44513
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,29409
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55465
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,55465
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,18841
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,18839
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,22698235
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,22698235
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Breeding Season,Yes,22698235
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Non-Breeding Season,Yes,22698235
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Breeding Season,Yes,22698235
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,22698235
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,22698235
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Breeding Season,No,22698235
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Non-Breeding Season,No,22698235
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Breeding Season,No,22698235
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Non-Breeding Season,No,22698235
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Breeding Season,No,22698235
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Non-Breeding Season,No,22698235
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Breeding Season,No,22698235
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Non-Breeding Season,No,22698235
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Breeding Season,No,22698235
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Non-Breeding Season,No,22698235
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Breeding Season,No,22698235
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Non-Breeding Season,No,22698235
+13.1,Marine Coastal/Supratidal - Sea Cliffs and Rocky Offshore Islands,Suitable,Breeding Season,Yes,45354718
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,45354718
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,22728432
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,22728432
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Breeding Season,Yes,22728432
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Non-Breeding Season,Yes,22728432
+13.1,Marine Coastal/Supratidal - Sea Cliffs and Rocky Offshore Islands,Suitable,Breeding Season,Yes,22728432
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,22728432
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,22728432
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Breeding Season,Yes,22728432
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Non-Breeding Season,Yes,22728432
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Breeding Season,Yes,22728432
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Non-Breeding Season,Yes,22728432
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Breeding Season,Yes,22728432
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Non-Breeding Season,Yes,22728432
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Breeding Season,Yes,22728432
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Non-Breeding Season,Yes,22728432
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Breeding Season,Yes,22728432
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Non-Breeding Season,Yes,22728432
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Breeding Season,Yes,22728432
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Non-Breeding Season,Yes,22728432
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,132468585
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,132468585
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Breeding Season,Yes,132468585
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Breeding Season,No,132468585
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,132468585
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,132468585
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Breeding Season,Yes,132467692
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Non-Breeding Season,Yes,132467692
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Breeding Season,Yes,132467692
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Breeding Season,No,132467692
+9.1,Marine Neritic - Pelagic,Suitable,Breeding Season,Yes,132467692
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,132467692
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157786893
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157786976
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Suitable,Resident,Yes,18875
+17,Other,Unknown,Resident,,18875
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,18875
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,18879
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,172345
+14.1,Artificial/Terrestrial - Arable Land,Marginal,Resident,,22712603
+14.3,Artificial/Terrestrial - Plantations,Marginal,Resident,,22712603
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,No,22712603
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,No,22712603
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Marginal,Resident,,22712603
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,No,22712603
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,22712603
+11.1,"Marine Deep Benthic - Continental Slope/Bathyl Zone (200-4,000m)",,,,178290276
+11.1.1,Hard Substrate,Marginal,Resident,,178290276
+11.1.2,Soft Substrate,Marginal,Resident,,178290276
+12.1,Marine Intertidal - Rocky Shoreline,Marginal,Resident,,178290276
+12.6,Marine Intertidal - Tidepools,Marginal,Resident,,178290276
+15.11,Artificial/Marine - Marine Anthropogenic Structures,Suitable,Resident,No,178290276
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Resident,Yes,178290276
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Resident,Yes,178290276
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,178290276
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,178290276
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,178290276
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Resident,Yes,178290276
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Resident,Yes,178290276
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,,,39827
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,39827
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,39827
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,39826
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,39826
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,,,39828
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,39828
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,39828
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,Yes,18949
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,62148098
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,62148098
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,55929685
+15.2,Artificial/Aquatic - Ponds (below 8ha),Unknown,,,155956
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,155956
+1.4,Forest - Temperate,Suitable,Resident,Yes,69673708
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,69673708
+5.12,Wetlands (inland) - Geothermal Wetlands,Suitable,,Yes,18960
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,18960
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,18966
+5.12,Wetlands (inland) - Geothermal Wetlands,Suitable,,Yes,18977
+5.12,Wetlands (inland) - Geothermal Wetlands,Suitable,,Yes,18988
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,18988
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,Yes,18990
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,18990
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,189681
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,189681
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157846127
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,195294984
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,Resident,,45422401
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,45422401
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,No,45422401
+1.5,Forest - Subtropical/Tropical Dry,Unknown,,,19035
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,,,19035
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,19036
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,55908
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55908
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,55908
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,125989524
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,155791
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,156032
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,39621
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,39621
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,58573
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,58573
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,58573
+3.4,Shrubland - Temperate,Suitable,,Yes,136089
+4.4,Grassland - Temperate,Suitable,,Yes,136089
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,136089
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,Yes,136089
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,,,58829
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,58829
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,186159
+14.3,Artificial/Terrestrial - Plantations,Marginal,,,58849
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,,,58849
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,58849
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,186163
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,186165
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,,,58914
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,58916
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,189814
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,58897
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,58902
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,186166
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,196105
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,19316
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,19416
+1.4,Forest - Temperate,Suitable,,Yes,19426
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,60767
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,60767
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22682517
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,No,22682517
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,,Yes,168122
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,44698104
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,122900966
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,59016
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,,,59016
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,202422
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,54461
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,Seasonal Occurrence Unknown,,54461
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Unknown,Seasonal Occurrence Unknown,,54461
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,54463
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,49830172
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,Resident,Yes,118044360
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,19455
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,49829794
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,172524
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,61366030
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,172568
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,75976755
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,200035703
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,200035703
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,44659
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,19479
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,41848
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Resident,Yes,41848
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,41848
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,41848
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,41848
+9.8,Marine Neritic - Coral Reef,Suitable,Resident,Yes,41848
+15.7,Artificial/Aquatic - Irrigated Land (includes irrigation channels),Suitable,,,54568
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,54568
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,54486
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,54486
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,54486
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,54881
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Resident,Yes,161320
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,161320
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,161320
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,161320
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,161478
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,161478
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,161478
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,161409
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,161409
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,161409
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,63167
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,63167
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,63167
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Resident,Yes,63167
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,161677
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,161677
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,161677
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,161677
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,63131
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,63131
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,63131
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,63131
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Resident,Yes,63131
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,104005557
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,104005557
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,104005557
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,104005557
+9.8,Marine Neritic - Coral Reef,Suitable,Resident,Yes,104005557
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,104007203
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,104007203
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,104007203
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,19495
+1.9,Forest - Subtropical/Tropical Moist Montane,Marginal,Resident,,19495
+1.4,Forest - Temperate,Suitable,Resident,Yes,19514
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,19514
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,44781
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Unknown,,,44781
+7.2,Caves and Subterranean Habitats (non-aquatic) - Other Subterranean Habitats,Unknown,,,44781
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,,197175
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,,197175
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,197175
+4.6,Grassland - Subtropical/Tropical Seasonally Wet/Flooded,Suitable,Resident,,197175
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,115604135
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,,197168
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,,197168
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,197168
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,,197168
+14.3,Artificial/Terrestrial - Plantations,Unknown,,,197171
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,,115604119
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,,115604119
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,,115604119
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,19594
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,No,19594
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,13508501
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22682464
+1.9,Forest - Subtropical/Tropical Moist Montane,Marginal,Resident,,22682464
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,161463
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,161463
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,161463
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,161463
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,22694103
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,201467
+5.3,Wetlands (inland) - Shrub Dominated Wetlands,Suitable,Resident,,107887429
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,,107887429
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,,,63579
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,19661
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,19670
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22680344
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,22680344
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,22680344
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,49581455
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,168210
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,41853
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Resident,Yes,41853
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,41853
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,41853
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,41853
+9.8,Marine Neritic - Coral Reef,Suitable,Resident,Yes,41853
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,60181
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,60181
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,60181
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,39394
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Resident,Yes,39394
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,39394
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,39394
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,39394
+9.8,Marine Neritic - Coral Reef,Suitable,Resident,Yes,39394
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,104019954
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,104019954
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,104019954
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,41854
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Resident,Yes,41854
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,41854
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,41854
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,41854
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,60180
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,60180
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,60180
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,60180
+9.8,Marine Neritic - Coral Reef,Suitable,Resident,Yes,60180
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,60182
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,60182
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,60182
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,60182
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,130391495
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,130391495
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,130391495
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Resident,Yes,130391495
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,50950556
+1.4,Forest - Temperate,Suitable,Resident,Yes,19730
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,19730
+1.6,Forest - Subtropical/Tropical Moist Lowland,Marginal,Resident,,80580925
+1.6,Forest - Subtropical/Tropical Moist Lowland,Marginal,Resident,,80580936
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,67527598
+1.4,Forest - Temperate,Suitable,Resident,Yes,149165101
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,149165101
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,139565471
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,139565471
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,59770
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,59770
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,51269353
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,19740
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Seasonal Occurrence Unknown,,120038159
+3.4,Shrubland - Temperate,Suitable,Resident,Yes,22723149
+4.3,Grassland - Subantarctic,Suitable,Resident,Yes,22723149
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,19797
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,19797
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,156002
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,40644
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,Yes,19823
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,19823
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,,Yes,19823
+4.4,Grassland - Temperate,Suitable,Resident,Yes,19832
+8.2,Desert - Temperate,Suitable,Resident,No,19832
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,61353
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,19856
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,135643
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,54923065
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,54923065
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,39463
+5.14,"Wetlands (inland) - Permanent Saline, Brackish or Alkaline Lakes",Suitable,,,39463
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,135413
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,135417
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,135422
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,19879
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,19884
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,19884
+1.6,Forest - Subtropical/Tropical Moist Lowland,Unknown,,,168194
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,168194
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,168195
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,198823
+1.9,Forest - Subtropical/Tropical Moist Montane,Unknown,,,198823
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,168196
+1.6,Forest - Subtropical/Tropical Moist Lowland,Unknown,,,168197
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,168197
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,66186262
+18,Unknown,,,,6664
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,4079
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,Yes,4074
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,4074
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Suitable,,Yes,4074
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,4074
+2.2,Savanna - Moist,Suitable,,No,4074
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,,Yes,4074
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,,127935094
+14.5,Artificial/Terrestrial - Urban Areas,Marginal,Resident,,22695254
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22695254
+2.1,Savanna - Dry,Suitable,Resident,No,22695254
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,No,22695254
+4.5,Grassland - Subtropical/Tropical Dry,Suitable,Resident,No,22695254
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55431
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,55431
+1.4,Forest - Temperate,Suitable,Resident,Yes,55442
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,55442
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55456
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,55456
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55459
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,55459
+1.4,Forest - Temperate,Suitable,Resident,Yes,55527
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,55527
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55583
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,55583
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55613
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,55613
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55639
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,55639
+1.4,Forest - Temperate,Suitable,,Yes,55658
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,55658
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,169851969
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,169851969
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,155556
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,44712322
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,19908
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,19909
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,19910
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,19910
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,19911
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Breeding Season,Yes,22692245
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Non-Breeding Season,Yes,22692245
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,160966327
+1.4,Forest - Temperate,Suitable,Resident,Yes,58064398
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,156192
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,155491
+15.3,Artificial/Aquatic - Aquaculture Ponds,Marginal,,,19942
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,19942
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,180779
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,19947
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,19948
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,61217
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,61217
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,,19951
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,,,64102
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,178207
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,181199
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,149847680
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,181224
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,168546
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,149847763
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,187986
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,187918
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Marginal,,,135149
+15.2,Artificial/Aquatic - Ponds (below 8ha),Unknown,,,135149
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,135149
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,135149
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,135149
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,168571
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,168564
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,168257
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,168257
+1.4,Forest - Temperate,Suitable,Resident,Yes,86849373
+3.4,Shrubland - Temperate,Suitable,Resident,No,86849373
+13.4,Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes,Suitable,,,154864
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,102656174
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,54732
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,,54732
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,,54732
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,182821
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,,182821
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,181683
+1.4,Forest - Temperate,Suitable,,,57614
+3.4,Shrubland - Temperate,Suitable,,,57614
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,,,57614
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,57614
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,201482
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,59048
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,184677
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,122309294
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,122309294
+14.3,Artificial/Terrestrial - Plantations,Marginal,Resident,,39844
+14.4,Artificial/Terrestrial - Rural Gardens,Marginal,Resident,,39844
+14.5,Artificial/Terrestrial - Urban Areas,Marginal,Resident,,39844
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,Resident,,39844
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,39844
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,39844
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,20112
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,20115
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,Yes,22687863
+14.5,Artificial/Terrestrial - Urban Areas,Suitable,Resident,No,22687863
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22687863
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,Yes,22687863
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,184601
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,183133
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,183133
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,107396571
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,89299396
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,196492
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,187929
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,188001
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,199531
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,196295
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,Resident,Yes,164451067
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,15712802
+4.4,Grassland - Temperate,Suitable,,Yes,20185
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,,,133121
+9.8,Marine Neritic - Coral Reef,,,,133121
+9.8.6,Inter-Reef Rubble Substrate,Suitable,,,133121
+15.8,Artificial/Aquatic - Seasonally Flooded Agricultural Land,Suitable,Resident,No,39599
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,39599
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,Resident,Yes,39599
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,39599
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,39599
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Marginal,Resident,,39599
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,165391
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,123732608
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,,,123732608
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,162160938
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Marginal,,,20227
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Unknown,,,20227
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Marginal,,,20227
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,20227
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,20229
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,,,20229
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,39846
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,,Yes,39846
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,39847
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,,Yes,39847
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Suitable,,,135152
+15.2,Artificial/Aquatic - Ponds (below 8ha),Suitable,,,135152
+15.3,Artificial/Aquatic - Aquaculture Ponds,Marginal,,,135152
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Marginal,,,135152
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,135152
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,135152
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,135152
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,135152
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,166114
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Unknown,,,166114
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,197693
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195591
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195597
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22689738
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,22689738
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,196769
+14.1,Artificial/Terrestrial - Arable Land,Unknown,,,127901942
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,,127901942
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,103881687
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,Resident,No,103881687
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,199544
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,20294
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,165392
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157846332
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,20333
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,,,20333
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20354
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20349
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20356
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20359
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20361
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20362
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20365
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20366
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20368
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,20369
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,14663
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,14663
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,,14663
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,20394
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,20395
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,,Yes,133710
+9.1,Marine Neritic - Pelagic,Suitable,,Yes,133710
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,No,20425
+9.1,Marine Neritic - Pelagic,Suitable,,Yes,20425
+9.10,Marine Neritic - Estuaries,Suitable,,Yes,20425
+14.2,Artificial/Terrestrial - Pastureland,Suitable,Resident,Yes,97250154
+4.4,Grassland - Temperate,Suitable,Resident,Yes,97250154
+13.2,Marine Coastal/supratidal - Coastal Caves/Karst,Suitable,,,20453
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,Resident,Yes,21168
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,20467
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,196231
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,Yes,97488857
+16,Introduced vegetation,Suitable,Breeding Season,Yes,97488857
+12.2,"Marine Intertidal - Sandy Shoreline and/or Beaches, Sand Bars, Spits, Etc",Suitable,,,178564
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,178564
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,75605372
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,75605414
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,75605435
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,75605435
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,75605475
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,75605559
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,75605882
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,75605887
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,75605940
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,178322
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65527235
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65527148
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65527213
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65526540
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65526902
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Marginal,,,20600
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,20600
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Unknown,,,20600
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,44591
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,44591
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,44591
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,44591
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,44591
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Resident,Yes,39385
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Resident,Yes,39385
+10.3,Marine Oceanic - Bathypelagic (1000-4000m),Suitable,Resident,Yes,39385
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,39385
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,39385
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,39385
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,39385
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,60201
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,60201
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,60201
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,60201
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,60201
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Resident,Yes,39386
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,Resident,Yes,39386
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,39386
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,39386
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,39386
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,39386
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,60202
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,60202
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,60202
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,60202
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,20639
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,20639
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,136443
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,49581681
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,49581681
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,13636
+1.6,Forest - Subtropical/Tropical Moist Lowland,,,,201470
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,80581091
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,80581249
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,80581293
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,80581293
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,47103121
+14.5,Artificial/Terrestrial - Urban Areas,Suitable,Resident,,47103145
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,,47103145
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,,47103145
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,47103175
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,47103187
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,47103206
+3.5,Shrubland - Subtropical/Tropical Dry,Unknown,Resident,,47103224
+18,Unknown,Suitable,,,47103236
+1.5,Forest - Subtropical/Tropical Dry,Unknown,Resident,,47103248
+16,Introduced vegetation,Suitable,Resident,,47103248
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,,47103248
+3.5,Shrubland - Subtropical/Tropical Dry,Unknown,Resident,,47103260
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,47103294
+12.1,Marine Intertidal - Rocky Shoreline,Suitable,Resident,,47103310
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,47103310
+18,Unknown,,,,47103328
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,47103344
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,19451241
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,135586
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,,,44168
+9.1,Marine Neritic - Pelagic,Marginal,,,44168
+9.10,Marine Neritic - Estuaries,Marginal,,,44168
+11.1,"Marine Deep Benthic - Continental Slope/Bathyl Zone (200-4,000m)",,,,61417
+11.1.2,Soft Substrate,Suitable,Resident,,61417
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,61417
+11.1,"Marine Deep Benthic - Continental Slope/Bathyl Zone (200-4,000m)",,,,39329
+11.1.2,Soft Substrate,Suitable,Resident,,39329
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,,39329
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,,44571
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,,44571
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,,44571
+11.1,"Marine Deep Benthic - Continental Slope/Bathyl Zone (200-4,000m)",,,,161558
+11.1.2,Soft Substrate,Suitable,Resident,Yes,161558
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,161558
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,161558
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,161558
+11.1,"Marine Deep Benthic - Continental Slope/Bathyl Zone (200-4,000m)",,,,161638
+11.1.2,Soft Substrate,Unknown,Resident,,161638
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Unknown,Resident,,161638
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Unknown,Resident,,161638
+9.4,Marine Neritic - Subtidal Sandy,Unknown,Resident,,161638
+9.5,Marine Neritic - Subtidal Sandy-Mud,Unknown,Resident,,161638
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,,39331
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,,39331
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,,39331
+11.1,"Marine Deep Benthic - Continental Slope/Bathyl Zone (200-4,000m)",,,,61418
+11.1.2,Soft Substrate,Suitable,,,61418
+9.4,Marine Neritic - Subtidal Sandy,Suitable,,,61418
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,,,61418
+9.6,Marine Neritic - Subtidal Muddy,Suitable,,,61418
+9.10,Marine Neritic - Estuaries,Suitable,Seasonal Occurrence Unknown,,39332
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,,39332
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Marginal,,,20707
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,Yes,20707
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,20707
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,20706
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,155720
+4.4,Grassland - Temperate,Suitable,Resident,Yes,16084586
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,178690
+1.4,Forest - Temperate,Suitable,Resident,Yes,124929540
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,,,20795
+1.6,Forest - Subtropical/Tropical Moist Lowland,Unknown,,,196224
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,20824
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,196395
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,196297
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,196402
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,168175
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,20864
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,20865
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,20866
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65686327
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65686344
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,56485
+1.6,Forest - Subtropical/Tropical Moist Lowland,Marginal,,,56649
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,56649
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,56785
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,56785
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,56785
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,134417
+1.4,Forest - Temperate,Suitable,Resident,Yes,22685245
+14.2,Artificial/Terrestrial - Pastureland,Suitable,Resident,No,22685245
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,No,22685245
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Unknown,Resident,,79680099
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,79680099
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,Resident,Yes,79680099
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,49583995
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,49583995
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,66601913
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,20972
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,177716
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725532
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725508
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725519
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725584
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725625
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725550
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725470
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725489
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725572
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109725602
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,139569928
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,139569928
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,,,21175
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,No,21175
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,21175
+4.6,Grassland - Subtropical/Tropical Seasonally Wet/Flooded,Marginal,,,21175
+4.7,Grassland - Subtropical/Tropical High Altitude,Marginal,,,21175
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22715107
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,22715107
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,Yes,21210
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,,Yes,21210
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157846409
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,159089
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,159089
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,,,159089
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22707294
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,No,22707294
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Resident,Yes,44642
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,44642
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,44642
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,44642
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,Resident,Yes,22702393
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,No,22702350
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22702350
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,No,22702350
+9.10,Marine Neritic - Estuaries,Suitable,,,41030
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,182098
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Marginal,,,182098
+5.6,Wetlands (inland) - Seasonal/Intermittent Freshwater Lakes (over 8ha),Suitable,,,182885
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Marginal,,,182885
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,182288
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Marginal,,,182288
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,182632
+5.6,Wetlands (inland) - Seasonal/Intermittent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,182757
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,182757
+14.2,Artificial/Terrestrial - Pastureland,Unknown,,,44581867
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,44581867
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Non-Breeding Season,No,22692024
+4.5,Grassland - Subtropical/Tropical Dry,Suitable,Breeding Season,Yes,22692024
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,18883
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,181025
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,149846458
+1.4,Forest - Temperate,Suitable,,Yes,157006
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Suitable,,Yes,18479
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Suitable,,Yes,18479
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,18479
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,Yes,18479
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,18479
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,22680021
+9.10,Marine Neritic - Estuaries,Suitable,Non-Breeding Season,Yes,22680021
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,177577
+9.4,Marine Neritic - Subtidal Sandy,,,,193605
+9.5,Marine Neritic - Subtidal Sandy-Mud,,,,193605
+9.6,Marine Neritic - Subtidal Muddy,,,,193605
+15.7,Artificial/Aquatic - Irrigated Land (includes irrigation channels),Suitable,Resident,,6624
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,6624
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,6624
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,171613
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,155570
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,203317
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,203317
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,203323
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,203332
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,,148944579
+8.2,Desert - Temperate,Suitable,Resident,Yes,148944579
+1.4,Forest - Temperate,Suitable,Resident,Yes,112217627
+1.4,Forest - Temperate,Suitable,Resident,Yes,112216642
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,112216642
+1.4,Forest - Temperate,Suitable,Resident,Yes,112215110
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,112215110
+16,Introduced vegetation,Suitable,Resident,No,112215110
+1.4,Forest - Temperate,Suitable,Resident,Yes,112214981
+1.4,Forest - Temperate,Suitable,Resident,Yes,112215914
+16,Introduced vegetation,Suitable,Resident,No,112214780
+1.4,Forest - Temperate,Suitable,Resident,Yes,112215339
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,112215339
+16,Introduced vegetation,Suitable,Resident,No,112215339
+1.4,Forest - Temperate,Suitable,Resident,Yes,112215669
+1.4,Forest - Temperate,Suitable,Resident,Yes,112216738
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,Yes,156011
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,156011
+14.3,Artificial/Terrestrial - Plantations,Marginal,,,179234
+14.4,Artificial/Terrestrial - Rural Gardens,Marginal,,,179234
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Marginal,,,179234
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,179234
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Suitable,,Yes,179234
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,,Yes,179234
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,21529
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,21529
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,21531
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,21531
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,21533
+17,Other,Suitable,,,21533
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,21533
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,,21533
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,21533
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,21534
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,21534
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,21534
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,,21534
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,134853
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,83130744
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,83130744
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,,83130744
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,83149869
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,,83149869
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,83150678
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,83150678
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,182650
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,,182650
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,182650
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Marginal,,,182650
+12.1,Marine Intertidal - Rocky Shoreline,Suitable,Resident,Yes,22720722
+12.6,Marine Intertidal - Tidepools,Suitable,Resident,Yes,22720722
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,22720722
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,Yes,22720722
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,,61312
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,,61312
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,61379
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,61351
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,21581
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,21581
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,57326
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57326
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,57330
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57330
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,57331
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,57331
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57335
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,57337
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57337
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,136130
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,136130
+15.2,Artificial/Aquatic - Ponds (below 8ha),Unknown,Resident,,57338
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,Resident,,57338
+5.12,Wetlands (inland) - Geothermal Wetlands,Suitable,Resident,Yes,57338
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,57338
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Unknown,Resident,,57338
+4.7,Grassland - Subtropical/Tropical High Altitude,Marginal,Resident,,57347
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57347
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,57347
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Suitable,Resident,Yes,45536685
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,45536685
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,57352
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,,Yes,57352
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,,Yes,57352
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,57352
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,21583
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Resident,,57354
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57354
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,135889
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,135889
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57360
+14.4,Artificial/Terrestrial - Rural Gardens,Marginal,Resident,,57361
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Marginal,Resident,,57361
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,57361
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57361
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Resident,,57362
+14.2,Artificial/Terrestrial - Pastureland,Suitable,Resident,,57362
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,,57362
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,,57362
+15.2,Artificial/Aquatic - Ponds (below 8ha),Suitable,Resident,,57362
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Suitable,Resident,,57362
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,,57362
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,,57362
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Resident,,57362
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,57362
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,,57362
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,61835
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,61835
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,61835
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,57366
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,,Yes,57366
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,,Yes,57366
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,57366
+4.7,Grassland - Subtropical/Tropical High Altitude,Marginal,Resident,,78586413
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,78586413
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,Resident,Yes,78586413
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,57367
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57367
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57368
+8.3,Desert - Cold,Suitable,Resident,Yes,57368
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,57369
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,57369
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,57369
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22701646
+4.4,Grassland - Temperate,Suitable,,Yes,6722
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,Yes,6722
+3.5,Shrubland - Subtropical/Tropical Dry,Unknown,,,21652
+8.1,Desert - Hot,Suitable,,,21652
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,107435206
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,66188047
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,21660
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,21660
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,203637
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,169396
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,169396
+11.1,"Marine Deep Benthic - Continental Slope/Bathyl Zone (200-4,000m)",,,,60135
+11.1.1,Hard Substrate,Suitable,Resident,Yes,60135
+11.1.2,Soft Substrate,Suitable,Resident,Yes,60135
+13.4,Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes,Suitable,Resident,Yes,60135
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Resident,Yes,60135
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Resident,Yes,60135
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,60135
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,60135
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,60135
+1.4,Forest - Temperate,Suitable,Resident,Yes,47713194
+3.4,Shrubland - Temperate,Suitable,Resident,Yes,47713194
+12.2,"Marine Intertidal - Sandy Shoreline and/or Beaches, Sand Bars, Spits, Etc",Suitable,Resident,Yes,22694585
+12.3,Marine Intertidal - Shingle and/or Pebble Shoreline and/or Beaches,Suitable,Resident,Yes,22694585
+12.4,Marine Intertidal - Mud Flats and Salt Flats,Suitable,Resident,Yes,22694585
+13.4,Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes,Suitable,Non-Breeding Season,Yes,22694585
+9.1,Marine Neritic - Pelagic,Suitable,Non-Breeding Season,Yes,22694585
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,22694585
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,97118594
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Non-Breeding Season,No,22697536
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22697536
+4.6,Grassland - Subtropical/Tropical Seasonally Wet/Flooded,Suitable,Resident,Yes,22697536
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,22697536
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,22697536
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195601
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195603
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,Yes,21722
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,199550
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,199528
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,199503
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,20593070
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,165347
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,165357
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,161321281
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,161321281
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,21749
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,21749
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,21757
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,21757
+1.4,Forest - Temperate,Suitable,Resident,Yes,20659726
+2.1,Savanna - Dry,Suitable,Resident,Yes,20659726
+18,Unknown,Suitable,,,20659735
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,47941812
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59407
+1.4,Forest - Temperate,Suitable,Resident,Yes,59408
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59408
+1.4,Forest - Temperate,Suitable,Resident,Yes,59410
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59410
+1.4,Forest - Temperate,Suitable,Resident,Yes,59411
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59412
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59413
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,119243838
+1.4,Forest - Temperate,Suitable,Resident,Yes,59414
+1.4,Forest - Temperate,Suitable,Resident,Yes,59416
+1.4,Forest - Temperate,Suitable,Resident,Yes,59417
+1.4,Forest - Temperate,Suitable,Resident,Yes,59419
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59419
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,59420
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59420
+1.4,Forest - Temperate,Suitable,Resident,Yes,59423
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59423
+1.4,Forest - Temperate,Suitable,Resident,Yes,59425
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,59425
+1.4,Forest - Temperate,Suitable,Resident,Yes,87633164
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,59427
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,59427
+1.4,Forest - Temperate,Suitable,Resident,Yes,59428
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22711458
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,22711458
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157857564
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,146280943
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Resident,Yes,123423510
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Resident,Yes,123423510
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,123423510
+9.7,Marine Neritic - Macroalgal/Kelp,Suitable,Resident,Yes,123423510
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,103900307
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,21888
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,21889
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,21890
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,21897
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,21891
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,,63354
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,21892
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,21893
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,21894
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,21895
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,21896
+1.4,Forest - Temperate,Suitable,Resident,Yes,97239786
+14.5,Artificial/Terrestrial - Urban Areas,Suitable,Resident,No,97239786
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,Yes,22683499
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,No,22683499
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22683499
+1.6,Forest - Subtropical/Tropical Moist Lowland,Marginal,Resident,No,22683499
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,22683487
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22683487
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,No,22683487
+1.4,Forest - Temperate,Suitable,,Yes,21972
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,63444
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,,63444
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,63446
+13.4,Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes,Suitable,,,63448
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,21989
+18,Unknown,Suitable,,,161613
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Suitable,Resident,Yes,56096394
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,56096394
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,22013
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22711105
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,No,22711105
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,Yes,22711105
+2.2,Savanna - Moist,Suitable,Resident,Yes,203215
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,44710
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,44712
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Resident,,120689817
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,,120689817
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,155967
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,136918
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Suitable,Resident,Yes,136918
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,Resident,Yes,136918
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,136918
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,22043
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,Yes,22043
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,,Yes,22043
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,Yes,39872
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,39871
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,39871
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22056
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,,22057
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,20659757
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,97120924
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,97122215
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,97122456
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,97122954
+1.4,Forest - Temperate,Suitable,Resident,Yes,97126539
+14.3,Artificial/Terrestrial - Plantations,Marginal,Resident,,97126539
+16,Introduced vegetation,Marginal,Resident,,97126539
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Unknown,,,63130
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Unknown,,,63130
+9.4,Marine Neritic - Subtidal Sandy,Suitable,,,63130
+9.8,Marine Neritic - Coral Reef,Suitable,,,63130
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,157771
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,Resident,,64792693
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,167814
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,155560
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,173715656
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,173715656
+14.2,Artificial/Terrestrial - Pastureland,Suitable,Resident,No,22695250
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,No,22695250
+2.1,Savanna - Dry,Suitable,Resident,No,22695250
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,No,22695250
+4.5,Grassland - Subtropical/Tropical Dry,Suitable,Resident,No,22695250
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,Yes,187886
+14.3,Artificial/Terrestrial - Plantations,Unknown,Resident,,194061
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,194061
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,203606
+5.17,"Wetlands (inland) - Seasonal/Intermittent Saline, Brackish or Alkaline Marshes/Pools",Suitable,,,117060520
+1.4,Forest - Temperate,Marginal,Resident,,67586360
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,67586360
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,128727508
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,128727508
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195611
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,195616
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195617
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195621
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22711503
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,No,22711503
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Resident,No,22711503
+1.4,Forest - Temperate,Suitable,Resident,No,72500996
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,72500996
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,68485565
+18,Unknown,Suitable,,,75606372
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,75606416
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,75606416
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,,75606581
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,,75606581
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,75606581
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,75606623
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,75606623
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,75606669
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,49845586
+4.5,Grassland - Subtropical/Tropical Dry,Suitable,Resident,,49845586
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,189205
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,85588054
+7.2,Caves and Subterranean Habitats (non-aquatic) - Other Subterranean Habitats,Suitable,Resident,Yes,85588054
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,,,63580
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22736414
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22736414
+4.5,Grassland - Subtropical/Tropical Dry,Suitable,,Yes,22734789
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,,Yes,194300
+10.2,Marine Oceanic - Mesopelagic (200-1000m),Suitable,,Yes,194300
+13.4,Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes,Suitable,,Yes,194300
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,194300
+9.1,Marine Neritic - Pelagic,Suitable,,Yes,194300
+9.10,Marine Neritic - Estuaries,Suitable,,Yes,194300
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,181208820
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109685895
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109686124
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,109686157
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109686281
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109686382
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109686462
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109689201
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,189599
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109690594
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109690770
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,109691903
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109723575
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109723745
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,109723794
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109723823
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Seasonal Occurrence Unknown,Yes,109723846
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,109723846
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22570
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22575
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,145401474
+15.8,Artificial/Aquatic - Seasonally Flooded Agricultural Land,Suitable,Breeding Season,Yes,145401474
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,145401474
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,145401474
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,78586743
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,78586743
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,78586743
+5.16,"Wetlands (inland) - Permanent Saline, Brackish or Alkaline Marshes/Pools",Suitable,,,136557
+5.14,"Wetlands (inland) - Permanent Saline, Brackish or Alkaline Lakes",Suitable,,,136714
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,Resident,Yes,57499221
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,,22596
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,173835993
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,,,75607002
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,75607002
+1.4,Forest - Temperate,Suitable,Resident,Yes,58048304
+13.3,Marine Coastal/Supratidal - Coastal Sand Dunes,Suitable,,Yes,9843
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,Yes,9843
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,Yes,156999
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,Yes,156999
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,184708
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,39408
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Unknown,,,39408
+9.4,Marine Neritic - Subtidal Sandy,Unknown,Resident,,60095
+9.5,Marine Neritic - Subtidal Sandy-Mud,Unknown,Resident,,60095
+9.6,Marine Neritic - Subtidal Muddy,Unknown,Resident,,60095
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,68486027
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,68486119
+1.6,Forest - Subtropical/Tropical Moist Lowland,Unknown,,,136773
+1.6,Forest - Subtropical/Tropical Moist Lowland,Unknown,,,136470
+18,Unknown,Suitable,,,136470
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,22803
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,22803
+1.6,Forest - Subtropical/Tropical Moist Lowland,Unknown,,,22805
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,120569706
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,127942949
+9.2,Marine Neritic - Subtidal Rock and Rocky Reefs,Suitable,Resident,Yes,44598
+9.3,Marine Neritic - Subtidal Loose Rock/pebble/gravel,Suitable,Resident,Yes,44598
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,44598
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,44598
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,44598
+12.2,"Marine Intertidal - Sandy Shoreline and/or Beaches, Sand Bars, Spits, Etc",Suitable,Resident,Yes,161541
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,161541
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,161541
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,161541
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,161541
+13.5,Marine Coastal/Supratidal - Coastal Freshwater Lakes,Suitable,,,22829
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,22829
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,,22829
+13.4,Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes,Marginal,,,22830
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,22830
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,22830
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,,22830
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65585480
+1.4,Forest - Temperate,Suitable,Resident,Yes,66221658
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,66221730
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,184726
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Resident,,3176
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,,3176
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Breeding Season,No,22694053
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Non-Breeding Season,No,22694053
+4.4,Grassland - Temperate,Suitable,Breeding Season,Yes,22694053
+4.5,Grassland - Subtropical/Tropical Dry,Suitable,Non-Breeding Season,Yes,22694053
+5.14,"Wetlands (inland) - Permanent Saline, Brackish or Alkaline Lakes",Suitable,Breeding Season,No,22694053
+8.2,Desert - Temperate,Suitable,Non-Breeding Season,Yes,22694053
+14.2,Artificial/Terrestrial - Pastureland,Unknown,Seasonal Occurrence Unknown,,22693962
+4.6,Grassland - Subtropical/Tropical Seasonally Wet/Flooded,Suitable,Resident,Yes,22693962
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Unknown,Seasonal Occurrence Unknown,,22693962
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,83778268
+5.13,Wetlands (inland) - Permanent Inland Deltas,Suitable,Resident,Yes,83778268
+5.3,Wetlands (inland) - Shrub Dominated Wetlands,Suitable,Resident,Yes,83778268
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,83778268
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,83778268
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22920
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22918
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22918
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,136895
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,136895
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,136934
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,136934
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22919
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22919
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,61232
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195623
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,195624
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157850651
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,22976
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,171010
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,171010
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Non-Breeding Season,No,22721607
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,Breeding Season,Yes,22721607
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Non-Breeding Season,No,22721607
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,22961
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,22962
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,22977
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,Yes,22684647
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22684647
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22684647
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,155478
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,156078
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,155917
+1.4,Forest - Temperate,Suitable,,,164768
+14.2,Artificial/Terrestrial - Pastureland,Marginal,,,23000
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,23000
+1.4,Forest - Temperate,Suitable,,,164756
+3.4,Shrubland - Temperate,Suitable,,,164756
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,164756
+4.4,Grassland - Temperate,Suitable,,,164756
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,171138
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,23031
+14.3,Artificial/Terrestrial - Plantations,Unknown,,,23036
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,23036
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Unknown,,,23036
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Unknown,,,23036
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,196513
+11.6,Marine Deep Benthic - Deep Sea Vents (Rifts/Seeps),Suitable,Resident,Yes,157850677
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,54893
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,54893
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,54893
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,61761
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,61761
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,,54894
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,54894
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,,54894
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,54894
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,,54894
+14.6,Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest,Suitable,Resident,,54896
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,,54896
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,54896
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,100682269
+4.4,Grassland - Temperate,Suitable,Resident,Yes,100682269
+4.4,Grassland - Temperate,Suitable,Resident,Yes,100682075
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,107396913
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,107396913
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,54897
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,54897
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,54899
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,54899
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,189700
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,,Yes,189700
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,60380
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Unknown,,,135154
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,135154
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,23123
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,No,13997902
+4.7,Grassland - Subtropical/Tropical High Altitude,Marginal,Resident,,13997902
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,13997902
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,13997902
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,Yes,58176
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,130988902
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,130988902
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Resident,Yes,130988902
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,130988955
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,130988955
+13.3,Marine Coastal/Supratidal - Coastal Sand Dunes,Suitable,,Yes,172958
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,172958
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,,Yes,172958
+3.4,Shrubland - Temperate,Suitable,,Yes,40096
+4.4,Grassland - Temperate,Suitable,,Yes,40096
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,Yes,40096
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,,,171621
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,23162
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,Yes,23162
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,23162
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,23167
+13.1,Marine Coastal/Supratidal - Sea Cliffs and Rocky Offshore Islands,Suitable,Resident,Yes,58053533
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,58053533
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Marginal,,,135150
+15.2,Artificial/Aquatic - Ponds (below 8ha),Marginal,,,135150
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Unknown,,,135150
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Marginal,,,135150
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Marginal,,,135150
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,135150
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,136322
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,136322
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,23179
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,23179
+5.18,Wetlands (inland) - Karst and Other Subterranean Hydrological Systems (inland),Suitable,,Yes,155515
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,,Yes,155515
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,155620
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,40694
+1.4,Forest - Temperate,Suitable,Resident,Yes,80349786
+3.4,Shrubland - Temperate,Suitable,Resident,Yes,80350630
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,Resident,Yes,80350630
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,23207
+18,Unknown,Suitable,,,23210
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,196507
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,171304
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,171211
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,171663
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,171766
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,65524313
+1.6,Forest - Subtropical/Tropical Moist Lowland,Marginal,Resident,,65524313
+1.6,Forest - Subtropical/Tropical Moist Lowland,Marginal,Resident,,65524428
+1.9,Forest - Subtropical/Tropical Moist Montane,Marginal,Resident,,65524428
+1.9,Forest - Subtropical/Tropical Moist Montane,Marginal,Resident,,65524554
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,65524554
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,65525146
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65525196
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65526057
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,65526462
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22714229
+14.3,Artificial/Terrestrial - Plantations,Suitable,Non-Breeding Season,Yes,22714005
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22714005
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22728605
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22714047
+4.4,Grassland - Temperate,Suitable,Resident,Yes,23320
+2.1,Savanna - Dry,Suitable,,,169245
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,169245
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,23327
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,23327
+2.1,Savanna - Dry,Suitable,,Yes,23324
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,,Yes,23324
+4.5,Grassland - Subtropical/Tropical Dry,Suitable,,Yes,23324
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,23324
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,4
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,5
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,203013
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,63675
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,63676
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,203015
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,63677
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,203016
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,63678
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,63681
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,63682
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,203017
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,20
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,203018
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,43
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,Resident,,43
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,,43
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,49254351
+15.2,Artificial/Aquatic - Ponds (below 8ha),Suitable,,,75
+4.6,Grassland - Subtropical/Tropical Seasonally Wet/Flooded,Suitable,,,75
+5.3,Wetlands (inland) - Shrub Dominated Wetlands,Suitable,,,75
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,,,75
+18,Unknown,Suitable,,,61452
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,,,61452
+13.3,Marine Coastal/Supratidal - Coastal Sand Dunes,Suitable,,,61455
+1.4,Forest - Temperate,Marginal,,,61455
+14.3,Artificial/Terrestrial - Plantations,Marginal,,,61455
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,61455
+14.2,Artificial/Terrestrial - Pastureland,Marginal,,,61462
+14.3,Artificial/Terrestrial - Plantations,Marginal,,,61462
+12.4,Marine Intertidal - Mud Flats and Salt Flats,Suitable,,,122055033
+9.10,Marine Neritic - Estuaries,Suitable,,,122055033
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,99928409
+1.9,Forest - Subtropical/Tropical Moist Montane,Unknown,,,19672351
+2.2,Savanna - Moist,Unknown,,,19672351
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,65880410
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,Yes,22695659
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22695659
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Suitable,Resident,No,22695659
+1.8,Forest - Subtropical/Tropical Swamp,Suitable,Resident,Yes,22695659
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22695659
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,123427946
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,138
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,139
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Suitable,,No,139
+1.9,Forest - Subtropical/Tropical Moist Montane,Marginal,,,139
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Suitable,,,114639398
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,114639398
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,114639398
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,114639398
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,213
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,135683
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,,Yes,184445
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,,,163601
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,,163601
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,163601
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,,163601
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,244
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,244
+9.10,Marine Neritic - Estuaries,Suitable,,Yes,244
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,257
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,,257
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,,13186336
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,13186336
+1.4,Forest - Temperate,Suitable,,,68981261
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,68981261
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Resident,No,22710909
+14.2,Artificial/Terrestrial - Pastureland,Suitable,Resident,No,22710909
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Resident,No,22710909
+2.1,Savanna - Dry,Suitable,Resident,No,22710909
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,No,22710909
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,No,22710909
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,Yes,22714802
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Suitable,Passage,No,22714757
+15.6,Artificial/Aquatic - Wastewater Treatment Areas,Suitable,Passage,No,22714757
+15.9,"Artificial/Aquatic - Canals and Drainage Channels, Ditches",Suitable,Breeding Season,No,22714757
+2.1,Savanna - Dry,Suitable,Non-Breeding Season,No,22714757
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Non-Breeding Season,Yes,22714757
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,No,22714757
+5.13,Wetlands (inland) - Permanent Inland Deltas,Suitable,Breeding Season,Yes,22714757
+5.16,"Wetlands (inland) - Permanent Saline, Brackish or Alkaline Marshes/Pools",Suitable,Breeding Season,No,22714757
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Breeding Season,Yes,22714757
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,No,22714757
+5.9,Wetlands (inland) - Freshwater Springs and Oases,Suitable,Passage,No,22714757
+14.1,Artificial/Terrestrial - Arable Land,Marginal,Passage,,22714704
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Breeding Season,Yes,22714704
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Non-Breeding Season,No,22714704
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,Resident,No,22714832
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22714832
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,No,22714832
+9.8,Marine Neritic - Coral Reef,,,,133206
+9.8.2,Back Slope,Suitable,,,133206
+9.8.3,Foreslope (Outer Reef Slope),Suitable,,,133206
+9.8,Marine Neritic - Coral Reef,,,,132913
+9.8.2,Back Slope,Suitable,,,132913
+9.8.3,Foreslope (Outer Reef Slope),Suitable,,,132913
+9.8.4,Lagoon,Marginal,,,132913
+9.8,Marine Neritic - Coral Reef,,,,133254
+9.8.3,Foreslope (Outer Reef Slope),Suitable,,,133254
+1.4,Forest - Temperate,Suitable,Resident,Yes,16896956
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,16896956
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,16896959
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,161555
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,161555
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,161555
+1.5,Forest - Subtropical/Tropical Dry,Unknown,,,19672398
+1.6,Forest - Subtropical/Tropical Moist Lowland,Unknown,,,19672398
+4.6,Grassland - Subtropical/Tropical Seasonally Wet/Flooded,Unknown,,,19672398
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22726874
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22726874
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22726883
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22726883
+4.4,Grassland - Temperate,Suitable,,Yes,502
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,Yes,502
+15.2,Artificial/Aquatic - Ponds (below 8ha),Suitable,Resident,No,22693532
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,No,22693532
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,No,22693532
+5.6,Wetlands (inland) - Seasonal/Intermittent Freshwater Lakes (over 8ha),Suitable,Resident,No,22693532
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,No,22693532
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,No,22693532
+14.3,Artificial/Terrestrial - Plantations,Suitable,,,56302
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,56302
+1.6,Forest - Subtropical/Tropical Moist Lowland,Marginal,,,56302
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,521
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,203337
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,56310
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,56310
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,80161781
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,80161781
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,No,22678559
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22678559
+14.2,Artificial/Terrestrial - Pastureland,Suitable,Resident,No,22728583
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,22728583
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Suitable,Resident,No,22728583
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Breeding Season,Yes,22728583
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,63761756
+1.5,Forest - Subtropical/Tropical Dry,Suitable,Breeding Season,Yes,184234
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Unknown,,,184234
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,No,22718068
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,No,22718068
+3.6,Shrubland - Subtropical/Tropical Moist,Suitable,Resident,No,22718068
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Resident,Yes,169243577
+12.2,"Marine Intertidal - Sandy Shoreline and/or Beaches, Sand Bars, Spits, Etc",Suitable,Resident,Yes,169243577
+12.3,Marine Intertidal - Shingle and/or Pebble Shoreline and/or Beaches,Suitable,Resident,Yes,169243577
+12.4,Marine Intertidal - Mud Flats and Salt Flats,Suitable,Resident,Yes,169243577
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,169243577
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,169243577
+9.8,Marine Neritic - Coral Reef,Suitable,Resident,Yes,169243577
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Resident,Yes,169243577
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,42564343
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,42564343
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,42564343
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,42564343
+9.8,Marine Neritic - Coral Reef,Suitable,Resident,Yes,42564343
+9.1,Marine Neritic - Pelagic,Suitable,Resident,Yes,60120
+9.10,Marine Neritic - Estuaries,Suitable,Resident,Yes,60120
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,60120
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,Yes,104023514
+9.5,Marine Neritic - Subtidal Sandy-Mud,Suitable,Resident,Yes,104023514
+9.6,Marine Neritic - Subtidal Muddy,Suitable,Resident,Yes,104023514
+10.1,Marine Oceanic - Epipelagic (0-200m),Suitable,Resident,,60121
+9.1,Marine Neritic - Pelagic,Suitable,Resident,,60121
+9.10,Marine Neritic - Estuaries,Suitable,Resident,,60121
+9.4,Marine Neritic - Subtidal Sandy,Suitable,Resident,,60121
+9.9,Marine Neritic - Seagrass (Submerged),Suitable,Resident,,60121
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,619
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,169202
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,169202
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Breeding Season,Yes,84379340
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,84379340
+14.1,Artificial/Terrestrial - Arable Land,Suitable,,No,595
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,Yes,595
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,,Yes,595
+14.3,Artificial/Terrestrial - Plantations,Suitable,,,56057
+1.5,Forest - Subtropical/Tropical Dry,Suitable,,,56057
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,,56057
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,,56057
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,,,56057
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,136149
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,136149
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,136149
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,136149
+14.1,Artificial/Terrestrial - Arable Land,Marginal,Resident,,56065
+15.1,Artificial/Aquatic - Water Storage Areas (over 8ha),Suitable,Breeding Season,,56065
+15.2,Artificial/Aquatic - Ponds (below 8ha),Suitable,Breeding Season,,56065
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,56065
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,Yes,56065
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,56065
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,56065
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,56066
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,56066
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,56066
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,Yes,63762011
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,19672414
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,,Yes,19672423
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,19672423
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,,Yes,19672427
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,165386
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,,,165386
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22476309
+1.4,Forest - Temperate,Suitable,Resident,Yes,97163447
+15.2,Artificial/Aquatic - Ponds (below 8ha),Suitable,Resident,Yes,97163447
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,97163447
+5.2,Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks,Suitable,Resident,Yes,97163447
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,97163447
+14.4,Artificial/Terrestrial - Rural Gardens,Suitable,,,55856
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,55856
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,55856
+5.8,Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha),Suitable,Breeding Season,Yes,55856
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Resident,Yes,148940295
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Resident,Yes,22724196
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,22724196
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Non-Breeding Season,No,22724209
+14.2,Artificial/Terrestrial - Pastureland,Suitable,Non-Breeding Season,No,22724209
+1.7,Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level,Suitable,Breeding Season,No,22724209
+3.5,Shrubland - Subtropical/Tropical Dry,Suitable,Breeding Season,No,22724209
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,22733891
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,22733891
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,84500429
+5.4,"Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",Suitable,Resident,Yes,63207
+5.7,Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha),Suitable,Resident,Yes,63207
+1.6,Forest - Subtropical/Tropical Moist Lowland,Suitable,Resident,,49254405
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,,49254405
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,188973351
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,Yes,188973351
+3.7,Shrubland - Subtropical/Tropical High Altitude,Unknown,Resident,,188973692
+4.7,Grassland - Subtropical/Tropical High Altitude,Unknown,Resident,,188973692
+3.7,Shrubland - Subtropical/Tropical High Altitude,Suitable,Resident,,188975299
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,,188975299
+3.7,Shrubland - Subtropical/Tropical High Altitude,Unknown,Resident,,188988037
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Unknown,Resident,,188988037
+1.4,Forest - Temperate,Suitable,Breeding Season,No,190513532
+14.1,Artificial/Terrestrial - Arable Land,Suitable,Breeding Season,No,190513532
+2.2,Savanna - Moist,Suitable,Breeding Season,No,190513532
+3.4,Shrubland - Temperate,Suitable,Breeding Season,No,190513532
+4.4,Grassland - Temperate,Suitable,Breeding Season,No,190513532
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,190513532
+7.1,Caves and Subterranean Habitats (non-aquatic) - Caves,Suitable,Resident,Yes,190513532
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,Resident,Yes,188988355
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,,134658891
+1.4,Forest - Temperate,Suitable,Resident,Yes,57979728
+4.7,Grassland - Subtropical/Tropical High Altitude,Suitable,,Yes,172654
+13.3,Marine Coastal/Supratidal - Coastal Sand Dunes,Suitable,Resident,,47943474
+1.4,Forest - Temperate,Suitable,Resident,,47943474
+14.3,Artificial/Terrestrial - Plantations,Suitable,Resident,,47943474
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,Resident,,47943474
+1.9,Forest - Subtropical/Tropical Moist Montane,Suitable,Resident,Yes,714
+3.7,Shrubland - Subtropical/Tropical High Altitude,Marginal,Seasonal Occurrence Unknown,,714
+9.8,Marine Neritic - Coral Reef,,,,176763
+9.8.4,Lagoon,Suitable,,,176763
+9.8.6,Inter-Reef Rubble Substrate,Suitable,,,176763
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,773
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,774
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,189371
+3.8,Shrubland - Mediterranean-type Shrubby Vegetation,Suitable,,,171101
+6,"Rocky areas (eg. inland cliffs, mountain peaks)",Suitable,,,171101
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,19018221
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,19018242
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Breeding Season,Yes,19018407
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Non-Breeding Season,Yes,19018407
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,135496
+9.10,Marine Neritic - Estuaries,Suitable,,,135496
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,Resident,Yes,61370
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,Resident,No,61370
+13.4,Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes,Suitable,,,135590
+13.5,Marine Coastal/Supratidal - Coastal Freshwater Lakes,Suitable,,,135590
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,135590
+9.10,Marine Neritic - Estuaries,Suitable,,,135590
+5.1,Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls),Suitable,,Yes,135594
+5.5,Wetlands (inland) - Permanent Freshwater Lakes (over 8ha),Suitable,,Yes,135641

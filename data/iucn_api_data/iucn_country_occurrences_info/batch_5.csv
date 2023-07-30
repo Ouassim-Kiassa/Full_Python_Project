@@ -1,0 +1,1918 @@
+code,country,presence,origin,distribution_code,taxonid_iucn
+ST,Sao Tome and Principe,Extant,Native,Native,4321
+PG,Papua New Guinea,Extant,Native,Native,169676
+PE,Peru,Extant,Native,Native,49830447
+PE,Peru,Extant,Native,Native,49830176
+CO,Colombia,Extant,Native,Native,49830371
+PE,Peru,Extant,Native,Native,49830335
+CO,Colombia,Extant,Native,Native,49830092
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,118038935
+PE,Peru,Extant,Native,Native,49830138
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,118038984
+DZ,Algeria,Extant,Native,Native,61479
+ES,Spain,Extinct Post-1500,Native,Regionally Extinct,61479
+MA,Morocco,Extant,Native,Native,61479
+DZ,Algeria,Extant,Native,Native,61484
+ES,Spain,Extant,Native,Native,61484
+MA,Morocco,Extant,Native,Native,61484
+ES,Spain,Extant,Native,Native,61488
+LK,Sri Lanka,Extant,Native,Native,197217
+NC,New Caledonia,Extant,Native,Native,4420
+MW,Malawi,Extant,Native,Native,60899
+MZ,Mozambique,Extant,Native,Native,60899
+TZ,"Tanzania, United Republic of",Extant,Native,Native,60899
+GT,Guatemala,Extant,Native,Native,29481
+MX,Mexico,Extant,Native,Native,4529
+MX,Mexico,Extant,Native,Native,55384
+MX,Mexico,Extant,Native,Native,55577
+MX,Mexico,Extant,Native,Native,149679965
+MX,Mexico,Extant,Native,Native,55681
+MG,Madagascar,Extant,Native,Native,103896872
+MG,Madagascar,Extant,Native,Native,103896913
+IT,Italy,Extant,Native,Native,171408
+IT,Italy,Extant,Native,Native,171033
+IT,Italy,Extant,Native,Native,171446
+IT,Italy,Extant,Native,Native,171649
+US,United States of America,Extant,Native,Native,22736423
+US,United States of America,Extant,Native,Native,4585
+US,United States of America,Extant,Native,Native,4586
+AS,American Samoa,Extant,Native,Native,4592
+AU,Australia,Extant,Native,Native,4592
+CC,Cocos (Keeling) Islands,Extant,Native,Native,4592
+CK,Cook Islands,Extant,Native,Native,4592
+CN,China,Extant,Native,Native,4592
+CX,Christmas Island,Extant,Native,Native,4592
+DJ,Djibouti,Extant,Native,Native,4592
+DT,Disputed Territory,Extant,Native,Native,4592
+EG,Egypt,Extant,Native,Native,4592
+ER,Eritrea,Extant,Native,Native,4592
+FJ,Fiji,Extant,Native,Native,4592
+FM,"Micronesia, Federated States of ",Extant,Native,Native,4592
+GU,Guam,Extant,Native,Native,4592
+HK,Hong Kong,Extant,Native,Native,4592
+ID,Indonesia,Extant,Native,Native,4592
+IL,Israel,Extant,Native,Native,4592
+IN,India,Extant,Native,Native,4592
+IO,British Indian Ocean Territory,Extant,Native,Native,4592
+JP,Japan,Extant,Native,Native,4592
+KE,Kenya,Extant,Native,Native,4592
+KH,Cambodia,Extant,Native,Native,4592
+KI,Kiribati,Extant,Native,Native,4592
+KM,Comoros,Extant,Native,Native,4592
+LK,Sri Lanka,Extant,Native,Native,4592
+MG,Madagascar,Extant,Native,Native,4592
+MH,Marshall Islands,Extant,Native,Native,4592
+MM,Myanmar,Extant,Native,Native,4592
+MP,Northern Mariana Islands,Extant,Native,Native,4592
+MV,Maldives,Extant,Native,Native,4592
+MY,Malaysia,Extant,Native,Native,4592
+MZ,Mozambique,Extant,Native,Native,4592
+NC,New Caledonia,Extant,Native,Native,4592
+NR,Nauru,Extant,Native,Native,4592
+NU,Niue,Extant,Native,Native,4592
+PF,French Polynesia,Extant,Native,Native,4592
+PG,Papua New Guinea,Extant,Native,Native,4592
+PH,Philippines,Extant,Native,Native,4592
+PN,Pitcairn,Extant,Native,Native,4592
+PW,Palau,Extant,Native,Native,4592
+SA,Saudi Arabia,Extant,Native,Native,4592
+SB,Solomon Islands,Extant,Native,Native,4592
+SC,Seychelles,Extant,Native,Native,4592
+SD,Sudan,Extant,Native,Native,4592
+SG,Singapore,Extant,Native,Native,4592
+SO,Somalia,Extant,Native,Native,4592
+TH,Thailand,Extant,Native,Native,4592
+TK,Tokelau,Extant,Native,Native,4592
+TL,Timor-Leste,Extant,Native,Native,4592
+TO,Tonga,Extant,Native,Native,4592
+TV,Tuvalu,Extant,Native,Native,4592
+TW,"Taiwan, Province of China",Extant,Native,Native,4592
+TZ,"Tanzania, United Republic of",Extant,Native,Native,4592
+UM,United States Minor Outlying Islands,Extant,Native,Native,4592
+VN,Viet Nam,Extant,Native,Native,4592
+VU,Vanuatu,Extant,Native,Native,4592
+WF,Wallis and Futuna,Extant,Native,Native,4592
+WS,Samoa,Extant,Native,Native,4592
+YE,Yemen,Extant,Native,Native,4592
+YT,Mayotte,Extant,Native,Native,4592
+CH,Switzerland,Extant,Native,Native,149164551
+DE,Germany,Extant,Native,Native,149164551
+FI,Finland,Extant,Native,Native,149164551
+FR,France,Extant,Native,Native,149164551
+IT,Italy,Extant,Native,Native,149164551
+ME,Montenegro,Extant,Native,Native,149164551
+NO,Norway,Extant,Native,Native,149164551
+PL,Poland,Extant,Native,Native,149164551
+RS,Serbia,Possibly Extinct,Native,Possibly Extinct,149164551
+AT,Austria,Extant,Native,Native,149164504
+CH,Switzerland,Extant,Native,Native,149164504
+FR,France,Extant,Native,Native,149164504
+IT,Italy,Extant,Native,Native,149164504
+ES,Spain,Extant,Native,Native,149164483
+CH,Switzerland,Extant,Native,Native,149164462
+FR,France,Extant,Native,Native,149164462
+IT,Italy,Extant,Native,Native,149164462
+IT,Italy,Extant,Native,Native,149164452
+ME,Montenegro,Extant,Native,Native,149164452
+RS,Serbia,Extant,Native,Native,149164452
+SI,Slovenia,Extant,Native,Native,149164452
+BA,Bosnia and Herzegovina,Extant,Native,Native,149164442
+ME,Montenegro,Extant,Native,Native,149164442
+AT,Austria,Extant,Native,Native,149164432
+DE,Germany,Extant,Native,Native,149164432
+BA,Bosnia and Herzegovina,Extant,Native,Native,149164349
+BE,Belgium,Extant,Native,Native,149164349
+CH,Switzerland,Extant,Native,Native,149164349
+CZ,Czechia,Extant,Native,Native,149164349
+DE,Germany,Extant,Native,Native,149164349
+FR,France,Extant,Native,Native,149164349
+RS,Serbia,Extant,Native,Native,149164349
+AT,Austria,Extant,Native,Native,149164339
+FR,France,Extant,Native,Native,149164339
+IT,Italy,Extant,Native,Native,149164339
+AT,Austria,Extant,Native,Native,149164329
+CH,Switzerland,Extant,Native,Native,149164329
+DE,Germany,Extant,Native,Native,149164329
+FR,France,Extant,Native,Native,149164329
+IT,Italy,Extant,Native,Native,149164329
+ME,Montenegro,Extant,Native,Native,149164329
+PL,Poland,Extant,Native,Native,149164329
+SI,Slovenia,Extant,Native,Native,149164329
+SK,Slovakia,Extant,Native,Native,149164329
+AT,Austria,Extant,Native,Native,149164286
+BA,Bosnia and Herzegovina,Extant,Native,Native,149164286
+BG,Bulgaria,Extant,Native,Native,149164286
+CH,Switzerland,Extant,Native,Native,149164286
+CZ,Czechia,Extant,Native,Native,149164286
+DE,Germany,Extant,Native,Native,149164286
+ES,Spain,Extant,Native,Native,149164286
+FR,France,Extant,Native,Native,149164286
+IT,Italy,Extant,Native,Native,149164286
+ME,Montenegro,Extant,Native,Native,149164286
+RO,Romania,Extant,Native,Native,149164286
+SI,Slovenia,Extant,Native,Native,149164286
+AT,Austria,Extant,Native,Native,149164255
+BA,Bosnia and Herzegovina,Extant,Native,Native,149164255
+BG,Bulgaria,Extant,Native,Native,149164255
+CH,Switzerland,Extant,Native,Native,149164255
+ES,Spain,Extant,Native,Native,149164255
+FR,France,Extant,Native,Native,149164255
+IT,Italy,Extant,Native,Native,149164255
+ME,Montenegro,Extant,Native,Native,149164255
+RO,Romania,Extant,Native,Native,149164255
+RS,Serbia,Extant,Native,Native,149164255
+SI,Slovenia,Extant,Native,Native,149164255
+SK,Slovakia,Extant,Native,Native,149164255
+BA,Bosnia and Herzegovina,Extant,Native,Native,149164245
+DE,Germany,Extant,Native,Native,149164245
+HU,Hungary,Extant,Native,Native,149164245
+RS,Serbia,Extant,Native,Native,149164245
+ME,Montenegro,Extant,Native,Native,149164225
+MK,North Macedonia,Extant,Native,Native,149164225
+RO,Romania,Extant,Native,Native,149164225
+RS,Serbia,Extant,Native,Native,149164225
+AT,Austria,Extant,Native,Native,149164215
+CH,Switzerland,Extant,Native,Native,149164215
+CZ,Czechia,Extant,Native,Native,149164215
+DE,Germany,Extant,Native,Native,149164215
+ES,Spain,Extant,Native,Native,149164215
+FR,France,Extant,Native,Native,149164215
+IT,Italy,Extant,Native,Native,149164215
+ME,Montenegro,Extant,Native,Native,149164215
+PL,Poland,Extant,Native,Native,149164215
+RO,Romania,Extant,Native,Native,149164215
+SK,Slovakia,Extant,Native,Native,149164215
+ES,Spain,Extant,Native,Native,149164184
+PT,Portugal,Extant,Native,Native,149164184
+AT,Austria,Extant,Native,Native,149164153
+BA,Bosnia and Herzegovina,Extant,Native,Native,149164153
+BG,Bulgaria,Extant,Native,Native,149164153
+CH,Switzerland,Extant,Native,Native,149164153
+CZ,Czechia,Extant,Native,Native,149164153
+DE,Germany,Extant,Native,Native,149164153
+ES,Spain,Extant,Native,Native,149164153
+FR,France,Extant,Native,Native,149164153
+HR,Croatia,Extant,Native,Native,149164153
+IT,Italy,Extant,Native,Native,149164153
+RO,Romania,Extant,Native,Native,149164153
+SI,Slovenia,Extant,Native,Native,149164153
+FI,Finland,Extant,Native,Native,149164143
+NO,Norway,Extant,Native,Native,149164143
+SE,Sweden,Extant,Native,Native,149164143
+AT,Austria,Extant,Native,Native,149164133
+BA,Bosnia and Herzegovina,Extant,Native,Native,149164133
+BG,Bulgaria,Extant,Native,Native,149164133
+CH,Switzerland,Extant,Native,Native,149164133
+CZ,Czechia,Extant,Native,Native,149164133
+DE,Germany,Extant,Native,Native,149164133
+ES,Spain,Extant,Native,Native,149164133
+FR,France,Extant,Native,Native,149164133
+HU,Hungary,Extant,Native,Native,149164133
+IT,Italy,Extant,Native,Native,149164133
+ME,Montenegro,Extant,Native,Native,149164133
+RO,Romania,Extant,Native,Native,149164133
+RS,Serbia,Extant,Native,Native,149164133
+SK,Slovakia,Extant,Native,Native,149164133
+ME,Montenegro,Extant,Native,Native,149164113
+RO,Romania,Extant,Native,Native,149164113
+RS,Serbia,Extant,Native,Native,149164113
+AT,Austria,Extant,Native,Native,149164093
+CH,Switzerland,Extant,Native,Native,149164093
+DE,Germany,Extant,Native,Native,149164093
+ES,Spain,Extant,Native,Native,149164093
+FR,France,Extant,Native,Native,149164093
+GR,Greece,Extant,Native,Native,149164093
+IT,Italy,Extant,Native,Native,149164093
+ME,Montenegro,Extant,Native,Native,149164093
+SI,Slovenia,Extant,Native,Native,149164093
+AT,Austria,Extant,Native,Native,149164083
+CH,Switzerland,Extant,Native,Native,149164083
+DE,Germany,Extant,Native,Native,149164083
+FR,France,Extant,Native,Native,149164083
+IT,Italy,Extant,Native,Native,149164083
+FR,France,Extant,Native,Native,149164053
+BA,Bosnia and Herzegovina,Extant,Native,Native,149164043
+GR,Greece,Extant,Native,Native,149164043
+HR,Croatia,Extant,Native,Native,149164043
+HU,Hungary,Extant,Native,Native,149164043
+ME,Montenegro,Extant,Native,Native,149164043
+RO,Romania,Extant,Native,Native,149164043
+RS,Serbia,Extant,Native,Native,149164043
+SI,Slovenia,Extant,Native,Native,149164043
+ES,Spain,Extant,Native,Native,149164033
+AT,Austria,Extant,Native,Native,149167337
+BA,Bosnia and Herzegovina,Extant,Native,Native,149167337
+BG,Bulgaria,Extant,Native,Native,149167337
+CH,Switzerland,Extant,Native,Native,149167337
+DE,Germany,Extant,Native,Native,149167337
+ES,Spain,Extant,Native,Native,149167337
+FR,France,Extant,Native,Native,149167337
+IT,Italy,Extant,Native,Native,149167337
+LI,Liechtenstein,Extant,Native,Native,149167337
+ME,Montenegro,Extant,Native,Native,149167337
+PL,Poland,Extant,Native,Native,149167337
+RO,Romania,Extant,Native,Native,149167337
+SI,Slovenia,Extant,Native,Native,149167337
+ES,Spain,Extant,Native,Native,149163995
+AT,Austria,Extant,Native,Native,149163975
+BG,Bulgaria,Extant,Native,Native,149163975
+CH,Switzerland,Extant,Native,Native,149163975
+DE,Germany,Extant,Native,Native,149163975
+ES,Spain,Extant,Native,Native,149163975
+FR,France,Extant,Native,Native,149163975
+IT,Italy,Extant,Native,Native,149163975
+PL,Poland,Extant,Native,Native,149163975
+RO,Romania,Extant,Native,Native,149163975
+CZ,Czechia,Extant,Native,Native,149167289
+DE,Germany,Extant,Native,Native,149167289
+FR,France,Extant,Native,Native,149167289
+GR,Greece,Extant,Native,Native,149167289
+IT,Italy,Extant,Native,Native,149167289
+ME,Montenegro,Extant,Native,Native,149167289
+PL,Poland,Extant,Native,Native,149167289
+SE,Sweden,Extant,Native,Native,149167289
+SK,Slovakia,Extant,Native,Native,149167289
+AT,Austria,Extant,Native,Native,149167246
+CH,Switzerland,Extant,Native,Native,149167246
+CZ,Czechia,Extant,Native,Native,149167246
+DE,Germany,Extant,Native,Native,149167246
+ES,Spain,Extant,Native,Native,149167246
+FR,France,Extant,Native,Native,149167246
+IT,Italy,Extant,Native,Native,149167246
+RO,Romania,Extant,Native,Native,149167246
+SI,Slovenia,Extant,Native,Native,149167246
+AT,Austria,Extant,Native,Native,149163882
+BG,Bulgaria,Extant,Native,Native,149163882
+CH,Switzerland,Extant,Native,Native,149163882
+DE,Germany,Extant,Native,Native,149163882
+ES,Spain,Extant,Native,Native,149163882
+FR,France,Extant,Native,Native,149163882
+IT,Italy,Extant,Native,Native,149163882
+RO,Romania,Extant,Native,Native,149163882
+SI,Slovenia,Extant,Native,Native,149163882
+CH,Switzerland,Extant,Native,Native,149167226
+IT,Italy,Extant,Native,Native,149167226
+AT,Austria,Extant,Native,Native,149167184
+CH,Switzerland,Extant,Native,Native,149167184
+DE,Germany,Extant,Native,Native,149167184
+FR,France,Extant,Native,Native,149167184
+IT,Italy,Extant,Native,Native,149167184
+AT,Austria,Extant,Native,Native,149163589
+BA,Bosnia and Herzegovina,Extant,Native,Native,149163589
+DE,Germany,Extant,Native,Native,149163589
+FR,France,Extant,Native,Native,149163589
+ME,Montenegro,Extant,Native,Native,149163589
+RO,Romania,Extant,Native,Native,149163589
+SK,Slovakia,Extant,Native,Native,149163589
+CY,Cyprus,Extant,Native,Native,149170510
+GR,Greece,Extant,Native,Native,149170510
+HR,Croatia,Extant,Native,Native,149170510
+AT,Austria,Extant,Native,Native,149163569
+CH,Switzerland,Extant,Native,Native,149163569
+IT,Italy,Extant,Native,Native,149163569
+AT,Austria,Extant,Native,Native,149163548
+BG,Bulgaria,Extant,Native,Native,149163548
+CH,Switzerland,Extant,Native,Native,149163548
+DE,Germany,Extant,Native,Native,149163548
+FR,France,Extant,Native,Native,149163548
+IT,Italy,Extant,Native,Native,149163548
+ME,Montenegro,Extant,Native,Native,149163548
+SI,Slovenia,Extant,Native,Native,149163548
+AT,Austria,Extant,Native,Native,149163510
+CH,Switzerland,Extant,Native,Native,149163510
+DE,Germany,Extant,Native,Native,149163510
+FR,France,Extant,Native,Native,149163510
+IT,Italy,Extant,Native,Native,149163510
+CH,Switzerland,Extant,Native,Native,149165649
+FR,France,Extant,Native,Native,149165649
+IT,Italy,Extant,Native,Native,149165649
+ME,Montenegro,Extant,Native,Native,149165649
+RS,Serbia,Extant,Native,Native,149165649
+PT,Portugal,Extant,Native,Native,58082591
+MG,Madagascar,Extant,Native,Native,163021607
+MG,Madagascar,Extant,Native,Native,163022131
+MG,Madagascar,Extant,Native,Native,163020756
+MG,Madagascar,Extant,Native,Native,163022885
+JP,Japan,Extant,Native,Native,54143047
+AE,United Arab Emirates,Extant,Native,Native,4615
+AG,Antigua and Barbuda,Extant,Native,Native,4615
+AI,Anguilla,Extant,Native,Native,4615
+AO,Angola,Extant,Native,Native,4615
+AS,American Samoa,Extant,Native,Native,4615
+AU,Australia,Extant,Native,Native,4615
+BB,Barbados,Extant,Native,Native,4615
+BD,Bangladesh,Extant,Native,Native,4615
+BH,Bahrain,Extant,Native,Native,4615
+BM,Bermuda,Extant,Reintroduced,Reintroduced,4615
+BQ,"Bonaire, Sint Eustatius and Saba",Extant,Native,Native,4615
+BR,Brazil,Extant,Native,Native,4615
+BZ,Belize,Extant,Native,Native,4615
+CC,Cocos (Keeling) Islands,Extant,Native,Native,4615
+CK,Cook Islands,Extant,Native,Native,4615
+CN,China,Extant,Native,Native,4615
+CO,Colombia,Extant,Native,Native,4615
+CR,Costa Rica,Extant,Native,Native,4615
+CU,Cuba,Extant,Native,Native,4615
+CW,Curaçao,Extant,Native,Native,4615
+CX,Christmas Island,Extant,Native,Native,4615
+CY,Cyprus,Extant,Native,Native,4615
+DM,Dominica,Extant,Native,Native,4615
+DO,Dominican Republic,Extant,Native,Native,4615
+EC,Ecuador,Extant,Native,Native,4615
+EG,Egypt,Extant,Native,Native,4615
+ER,Eritrea,Extant,Native,Native,4615
+FJ,Fiji,Extant,Native,Native,4615
+FM,"Micronesia, Federated States of ",Extant,Native,Native,4615
+GD,Grenada,Extant,Native,Native,4615
+GF,French Guiana,Extant,Native,Native,4615
+GN,Guinea,Extant,Native,Native,4615
+GQ,Equatorial Guinea,Extant,Native,Native,4615
+GU,Guam,Extant,Native,Native,4615
+GW,Guinea-Bissau,Extant,Native,Native,4615
+GY,Guyana,Extant,Native,Native,4615
+HT,Haiti,Extant,Native,Native,4615
+ID,Indonesia,Extant,Native,Native,4615
+IL,Israel,Possibly Extinct,Native,Possibly Extinct,4615
+IN,India,Extant,Native,Native,4615
+IO,British Indian Ocean Territory,Extant,Native,Native,4615
+IR,"Iran, Islamic Republic of",Extant,Native,Native,4615
+JM,Jamaica,Extant,Native,Native,4615
+JP,Japan,Extant,Native,Native,4615
+KE,Kenya,Extant,Native,Native,4615
+KI,Kiribati,Extant,Native,Native,4615
+KM,Comoros,Extant,Native,Native,4615
+KN,Saint Kitts and Nevis,Extant,Native,Native,4615
+KW,Kuwait,Extant,Native,Native,4615
+KY,Cayman Islands,Extinct Post-1500,Native,Regionally Extinct,4615
+LC,Saint Lucia,Extant,Native,Native,4615
+LK,Sri Lanka,Extant,Native,Native,4615
+MF,Saint Martin (French part),Extant,Native,Native,4615
+MG,Madagascar,Extant,Native,Native,4615
+MH,Marshall Islands,Extant,Native,Native,4615
+MM,Myanmar,Extant,Native,Native,4615
+MP,Northern Mariana Islands,Extant,Native,Native,4615
+MQ,Martinique,Extant,Native,Native,4615
+MR,Mauritania,Extant,Native,Native,4615
+MU,Mauritius,Extinct Post-1500,Native,Regionally Extinct,4615
+MV,Maldives,Extant,Native,Native,4615
+MX,Mexico,Extant,Native,Native,4615
+MY,Malaysia,Extant,Native,Native,4615
+MZ,Mozambique,Extant,Native,Native,4615
+NC,New Caledonia,Extant,Native,Native,4615
+NI,Nicaragua,Extant,Native,Native,4615
+NU,Niue,Extant,Native,Native,4615
+NZ,New Zealand,Extant,Native,Native,4615
+OM,Oman,Extant,Native,Native,4615
+PA,Panama,Extant,Native,Native,4615
+PE,Peru,Extant,Native,Native,4615
+PF,French Polynesia,Extant,Native,Native,4615
+PG,Papua New Guinea,Extant,Native,Native,4615
+PH,Philippines,Extant,Native,Native,4615
+PK,Pakistan,Extant,Native,Native,4615
+PR,Puerto Rico,Extant,Native,Native,4615
+PW,Palau,Extant,Native,Native,4615
+SA,Saudi Arabia,Extant,Native,Native,4615
+SB,Solomon Islands,Extant,Native,Native,4615
+SC,Seychelles,Extant,Native,Native,4615
+SH,"Saint Helena, Ascension and Tristan da Cunha",Extant,Native,Native,4615
+SL,Sierra Leone,Extant,Native,Native,4615
+SN,Senegal,Extant,Native,Native,4615
+SO,Somalia,Extant,Native,Native,4615
+SR,Suriname,Extant,Native,Native,4615
+ST,Sao Tome and Principe,Extant,Native,Native,4615
+SX,Sint Maarten (Dutch part),Extant,Native,Native,4615
+TC,Turks and Caicos Islands,Extant,Native,Native,4615
+TF,French Southern Territories,Extant,Native,Native,4615
+TH,Thailand,Extant,Native,Native,4615
+TK,Tokelau,Extant,Native,Native,4615
+TL,Timor-Leste,Extant,Native,Native,4615
+TO,Tonga,Extant,Native,Native,4615
+TR,Turkey,Extant,Native,Native,4615
+TT,Trinidad and Tobago,Extant,Native,Native,4615
+TV,Tuvalu,Extant,Native,Native,4615
+TZ,"Tanzania, United Republic of",Extant,Native,Native,4615
+UM,United States Minor Outlying Islands,Extant,Native,Native,4615
+US,United States of America,Extant,Native,Native,4615
+VC,Saint Vincent and the Grenadines,Extant,Native,Native,4615
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,4615
+VG,"Virgin Islands, British",Extant,Native,Native,4615
+VI,"Virgin Islands, U.S.",Extant,Native,Native,4615
+VN,Viet Nam,Extant,Native,Native,4615
+VU,Vanuatu,Extant,Native,Native,4615
+YE,Yemen,Extant,Native,Native,4615
+YT,Mayotte,Extant,Native,Native,4615
+ZA,South Africa,Extant,Native,Native,193734
+EC,Ecuador,Extant,Native,Native,9019
+EC,Ecuador,Extant,Native,Native,9025
+EC,Ecuador,Extant,Native,Native,9028
+ID,Indonesia,Extant,Native,Native,153610
+MG,Madagascar,Extant,Native,Native,169976802
+MG,Madagascar,Extant,Native,Native,169976836
+MG,Madagascar,Extant,Native,Native,169929797
+MG,Madagascar,Extant,Native,Native,169977385
+MG,Madagascar,Extant,Native,Native,169929854
+MG,Madagascar,Extant,Native,Native,169976923
+ZA,South Africa,Extant,Native,Native,170521
+ZA,South Africa,Extant,Native,Native,10241
+MX,Mexico,Extant,Native,Native,63742
+SZ,Eswatini,Extant,Native,Native,4626
+ZA,South Africa,Extant,Native,Native,4626
+ZM,Zambia,Extant,Native,Native,182208
+BR,Brazil,Extant,Native,Native,57753
+PR,Puerto Rico,Extant,Native,Native,7829
+VG,"Virgin Islands, British",Extant,Native,Native,7829
+VI,"Virgin Islands, U.S.",Extant,Native,Native,7829
+BS,Bahamas,Extant,Native,Native,162923732
+PG,Papua New Guinea,Extant,Native,Native,4628
+ID,Indonesia,Extant,Native,Native,4629
+PG,Papua New Guinea,Extant,Native,Native,161080305
+BI,Burundi,Extant,Native,Native,60799
+TZ,"Tanzania, United Republic of",Extant,Native,Native,60799
+GN,Guinea,Extant,Native,Native,151804190
+GN,Guinea,Extant,Native,Native,151804100
+GN,Guinea,Extant,Native,Native,151803898
+GN,Guinea,Extant,Native,Native,151804244
+GN,Guinea,Extant,Native,Native,151804330
+GQ,Equatorial Guinea,Extant,Native,Native,162471391
+CM,Cameroon,Extant,Native,Native,182767
+CI,Côte d'Ivoire,Extant,Native,Native,181658
+LR,Liberia,Extant,Native,Native,181658
+GN,Guinea,Extant,Native,Native,151804407
+GN,Guinea,Extant,Native,Native,151804366
+SL,Sierra Leone,Extant,Native,Native,182864
+GN,Guinea,Extant,Native,Native,151804452
+LR,Liberia,Extant,Native,Native,151804452
+BD,Bangladesh,Extant,Native,Native,161557
+BN,Brunei Darussalam,Extant,Native,Native,161557
+ID,Indonesia,Extant,Native,Native,161557
+IN,India,Extant,Native,Native,161557
+MM,Myanmar,Extant,Native,Native,161557
+MY,Malaysia,Extant,Native,Native,161557
+SG,Singapore,Extant,Native,Native,161557
+TH,Thailand,Extant,Native,Native,161557
+VN,Viet Nam,Extant,Native,Native,161557
+MY,Malaysia,Extant,Native,Native,4648
+PE,Peru,Extant,Native,Native,190552041
+CL,Chile,Extant,Native,Native,4651
+PE,Peru,Extinct Post-1500,Native,Regionally Extinct,4651
+CL,Chile,Extant,Native,Native,4652
+CV,Cabo Verde,Extant,Native,Native,178352
+ID,Indonesia,Extant,Native,Native,89187170
+GP,Guadeloupe,Extant,Native,Native,4665
+MS,Montserrat,Extant,Native,Native,4665
+BR,Brazil,Extant,Native,Native,39956
+MX,Mexico,Extant,Native,Native,59223
+MX,Mexico,Extant,Native,Native,59227
+MX,Mexico,Extant,Native,Native,182502587
+MX,Mexico,Extant,Native,Native,78458778
+MX,Mexico,Extant,Native,Native,87738776
+MX,Mexico,Extant,Native,Native,169391
+MX,Mexico,Extant,Native,Native,191151
+MX,Mexico,Extant,Native,Native,191163
+MX,Mexico,Extant,Native,Native,191178
+MX,Mexico,Extant,Native,Native,169387
+MX,Mexico,Extant,Native,Native,191188
+BD,Bangladesh,Extant,Native,Native,4696
+IN,India,Extant,Native,Native,4696
+MM,Myanmar,Extant,Native,Native,4696
+PK,Pakistan,Extant,Native,Native,4696
+ZA,South Africa,Extant,Native,Native,40088
+NZ,New Zealand,Extant,Native,Native,22694750
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,22712873
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,59850
+JP,Japan,Extant,Native,Native,4728
+VN,Viet Nam,Extant,Native,Native,139344457
+JP,Japan,Extant,Native,Native,4727
+ZA,South Africa,Extant,Native,Native,4731
+CM,Cameroon,Extant,Native,Native,22707678
+NG,Nigeria,Extant,Native,Native,22707678
+ID,Indonesia,Extant,Native,Native,103775551
+ID,Indonesia,Extant,Native,Native,22732267
+BN,Brunei Darussalam,Extant,Native,Native,22704950
+ID,Indonesia,Extant,Native,Native,22704950
+MM,Myanmar,Extant,Native,Native,22704950
+MY,Malaysia,Extant,Native,Native,22704950
+SG,Singapore,Extant,Native,Native,22704950
+TH,Thailand,Extant,Native,Native,22704950
+PG,Papua New Guinea,Extant,Native,Native,57664
+CI,Côte d'Ivoire,Extant,Native,Native,10032
+GN,Guinea,Extant,Native,Native,10032
+LR,Liberia,Extant,Native,Native,10032
+NG,Nigeria,Extinct Post-1500,Native,Regionally Extinct,10032
+SL,Sierra Leone,Extant,Native,Native,10032
+TR,Turkey,Extant,Native,Native,61366
+TR,Turkey,Extant,Native,Native,61360
+SY,Syrian Arab Republic,Extinct Post-1500,Native,Regionally Extinct,60753
+TR,Turkey,Extant,Native,Native,60753
+BA,Bosnia and Herzegovina,Extant,Native,Native,4790
+HR,Croatia,Extant,Native,Native,4790
+CH,Switzerland,Extant,Native,Native,4794
+IT,Italy,Extant,Native,Native,4794
+SI,Slovenia,Extinct Post-1500,Native,Regionally Extinct,4794
+GR,Greece,Extant,Native,Native,69637992
+ES,Spain,Extant,Native,Native,16084567
+TR,Turkey,Extant,Native,Native,16757660
+IT,Italy,Extant,Native,Native,15039196
+CI,Côte d'Ivoire,Extant,Native,Native,182854
+CM,Cameroon,Extant,Native,Native,181634
+TZ,"Tanzania, United Republic of",Extant,Native,Native,19673919
+US,United States of America,Extant,Native,Native,17064
+US,United States of America,Extant,Native,Native,202069
+CN,China,Possibly Extinct,Native,Possibly Extinct,4806
+LA,Lao People's Democratic Republic,Extant,Native,Native,4806
+VN,Viet Nam,Extant,Native,Native,4806
+CM,Cameroon,Extant,Native,Native,182824
+NG,Nigeria,Extant,Native,Native,182824
+GN,Guinea,Extant,Native,Native,181600
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,56093
+ZA,South Africa,Extant,Native,Native,170256
+PH,Philippines,Extant,Native,Native,22726579
+PH,Philippines,Extant,Native,Native,22726572
+BE,Belgium,Extant,Native,Native,149165436
+CH,Switzerland,Extant,Native,Native,149165436
+CZ,Czechia,Extant,Native,Native,149165436
+DE,Germany,Extant,Native,Native,149165436
+FR,France,Extant,Native,Native,149165436
+NL,Netherlands,Extant,Native,Native,149165436
+MU,Mauritius,Extant,Native,Native,103636217
+ZA,South Africa,Extant,Native,Native,17840
+ZA,South Africa,Extant,Native,Native,17844
+ZA,South Africa,Extant,Native,Native,4828
+CO,Colombia,Extant,Native,Native,64791096
+BR,Brazil,Extant,Native,Native,103880486
+US,United States of America,Extant,Native,Native,4846
+US,United States of America,Extant,Native,Native,4855
+BD,Bangladesh,Extant,Vagrant,Vagrant,22697695
+CN,China,Extant,Native,Native,22697695
+HK,Hong Kong,Extant,Native,Native,22697695
+IN,India,Extant,Vagrant,Vagrant,22697695
+JP,Japan,Extant,Native,Native,22697695
+KP,"Korea, Democratic People's Republic of",Extant,Native,Native,22697695
+KR,"Korea, Republic of",Extant,Native,Native,22697695
+MM,Myanmar,Extant,Vagrant,Vagrant,22697695
+MN,Mongolia,Extant,Vagrant,Vagrant,22697695
+PH,Philippines,Extant,Vagrant,Vagrant,22697695
+RU,Russian Federation,Extant,Native,Native,22697695
+TW,"Taiwan, Province of China",Extant,Native,Native,22697695
+BN,Brunei Darussalam,Extant,Native,Native,22697685
+ID,Indonesia,Extant,Native,Native,22697685
+MM,Myanmar,Extant,Native,Native,22697685
+MY,Malaysia,Extant,Native,Native,22697685
+TH,Thailand,Extant,Native,Native,22697685
+TZ,"Tanzania, United Republic of",Extant,Native,Native,22717931
+CN,China,Extant,Native,Native,168211
+KM,Comoros,Extant,Native,Native,22695368
+MG,Madagascar,Extant,Native,Native,22695368
+YT,Mayotte,Possibly Extinct,Native,Possibly Extinct,22695368
+RE,Réunion,Extant,Native,Native,22728310
+BW,Botswana,Extant,Vagrant,Vagrant,22695379
+LS,Lesotho,Extant,Native,Native,22695379
+NA,Namibia,Extant,Native,Native,22695379
+SZ,Eswatini,Extant,Vagrant,Vagrant,22695379
+ZA,South Africa,Extant,Native,Native,22695379
+NZ,New Zealand,Extant,Native,Native,163337
+CO,Colombia,Extant,Native,Native,22711366
+PT,Portugal,Extant,Native,Native,97217487
+PT,Portugal,Extant,Native,Native,97217787
+PT,Portugal,Extant,Native,Native,97217920
+AL,Albania,Extant,Native,Native,133142
+CY,Cyprus,Extant,Native,Native,133142
+ES,Spain,Extant,Native,Native,133142
+FR,France,Extant,Native,Native,133142
+GI,Gibraltar,Extant,Native,Native,133142
+GR,Greece,Extant,Native,Native,133142
+HR,Croatia,Extant,Native,Native,133142
+IL,Israel,Extant,Native,Native,133142
+IT,Italy,Extant,Native,Native,133142
+LB,Lebanon,Extant,Native,Native,133142
+LY,Libya,Extant,Native,Native,133142
+MA,Morocco,Extant,Native,Native,133142
+MC,Monaco,Extant,Native,Native,133142
+ME,Montenegro,Extant,Native,Native,133142
+SI,Slovenia,Extant,Native,Native,133142
+SY,Syrian Arab Republic,Extant,Native,Native,133142
+TN,Tunisia,Extant,Native,Native,133142
+TR,Turkey,Extant,Native,Native,133142
+TZ,"Tanzania, United Republic of",Extant,Native,Native,60770
+ID,Indonesia,Extant,Native,Native,91226506
+BD,Bangladesh,Extant,Native,Native,168255
+IN,India,Extant,Native,Native,168255
+NP,Nepal,Extant,Native,Native,168255
+ID,Indonesia,Extant,Native,Native,91226527
+ID,Indonesia,Extant,Native,Native,91226655
+ES,Spain,Extant,Native,Native,149165606
+FR,France,Extant,Native,Native,149165606
+GR,Greece,Extant,Native,Native,149165606
+HR,Croatia,Extant,Native,Native,149165606
+IT,Italy,Extant,Native,Native,149165606
+CA,Canada,Extant,Native,Native,4968
+US,United States of America,Extant,Native,Native,4968
+KE,Kenya,Extant,Native,Native,184644
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,184562
+ZM,Zambia,Extant,Native,Native,184562
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,184643
+SO,Somalia,Extant,Native,Native,184504
+MP,Northern Mariana Islands,Extant,Native,Native,22714282
+ZA,South Africa,Extant,Native,Native,178999
+ZA,South Africa,Extant,Native,Native,4982
+SC,Seychelles,Extant,Native,Native,196138
+SC,Seychelles,Extant,Native,Native,196139
+AZ,Azerbaijan,Extant,Native,Native,98471289
+IR,"Iran, Islamic Republic of",Extant,Native,Native,98471289
+TM,Turkmenistan,Extant,Native,Native,98471289
+AZ,Azerbaijan,Extant,Native,Native,98471433
+IR,"Iran, Islamic Republic of",Extant,Native,Native,98471433
+TM,Turkmenistan,Extant,Native,Native,98471433
+TR,Turkey,Extant,Native,Native,98471539
+CO,Colombia,Extant,Native,Native,22701358
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,22701358
+SB,Solomon Islands,Extant,Native,Native,22734762
+CM,Cameroon,Extant,Native,Native,104681745
+LK,Sri Lanka,Extant,Native,Native,197241
+IN,India,Extant,Native,Native,127937731
+IN,India,Extant,Native,Native,172636
+LK,Sri Lanka,Extant,Native,Native,197237
+LK,Sri Lanka,Extant,Native,Native,178710
+LK,Sri Lanka,Extant,Native,Native,157679001
+LK,Sri Lanka,Extant,Native,Native,197236
+LK,Sri Lanka,Extant,Native,Native,197233
+KH,Cambodia,Extant,Native,Native,104683709
+TH,Thailand,Extant,Native,Native,104683759
+CI,Côte d'Ivoire,Extant,Native,Native,203834
+GN,Guinea,Extant,Native,Native,203834
+LR,Liberia,Extant,Native,Native,203834
+SL,Sierra Leone,Extant,Native,Native,203834
+VN,Viet Nam,Extant,Native,Native,97210381
+LK,Sri Lanka,Extant,Native,Native,197230
+LK,Sri Lanka,Extant,Native,Native,197229
+IN,India,Extant,Native,Native,172648
+IN,India,Extant,Native,Native,172679
+PE,Peru,Extant,Native,Native,22722611
+GR,Greece,Extant,Native,Native,61290
+TR,Turkey,Extant,Native,Native,19084839
+TR,Turkey,Extant,Native,Native,61358
+ES,Spain,Extant,Native,Native,5027
+PT,Portugal,Extant,Native,Native,5027
+TR,Turkey,Extant,Native,Native,19085009
+GR,Greece,Extant,Native,Native,5032
+LB,Lebanon,Extant,Native,Native,61390
+SY,Syrian Arab Republic,Extant,Native,Native,61390
+TR,Turkey,Extant,Native,Native,61390
+JP,Japan,Extant,Native,Native,122055145
+TR,Turkey,Extant,Native,Native,19085501
+GR,Greece,Extant,Native,Native,61179
+TR,Turkey,Extant,Native,Native,61179
+JP,Japan,Extant,Native,Native,122055172
+GR,Greece,Extant,Native,Native,5038
+TR,Turkey,Extant,Native,Native,60831
+ES,Spain,Extant,Native,Native,60347
+MY,Malaysia,Extant,Native,Native,134235
+DO,Dominican Republic,Extant,Native,Native,22684360
+HT,Haiti,Possibly Extinct,Native,Possibly Extinct,22684360
+CO,Colombia,Extant,Native,Native,54970
+GR,Greece,Extant,Native,Native,5056
+UG,Uganda,Extant,Native,Native,44249
+AO,Angola,Extant,Native,Native,184729
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,184729
+PH,Philippines,Extant,Native,Native,169292
+VN,Viet Nam,Extant,Native,Native,177896346
+JP,Japan,Extant,Native,Native,5060
+VN,Viet Nam,Extant,Native,Native,173719682
+BN,Brunei Darussalam,Extant,Native,Native,163657
+MY,Malaysia,Extant,Native,Native,163657
+MY,Malaysia,Extant,Native,Native,122883783
+JP,Japan,Extant,Native,Native,5061
+JP,Japan,Extant,Native,Native,5062
+PH,Philippines,Extant,Native,Native,139556008
+CO,Colombia,Extant,Native,Native,61173094
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,61173094
+CO,Colombia,Extant,Native,Native,22687828
+SL,Sierra Leone,Extant,Native,Native,182524
+MU,Mauritius,Extant,Native,Native,59701
+MU,Mauritius,Extant,Native,Native,158514
+GR,Greece,Extant,Native,Native,165504
+BR,Brazil,Extant,Native,Native,46205559
+CN,China,Extant,Native,Native,98894402
+HK,Hong Kong,Extant,Native,Native,98894402
+KP,"Korea, Democratic People's Republic of",Extant,Native,Native,98894402
+KR,"Korea, Republic of",Extant,Native,Native,98894402
+MO,Macao,Extant,Native,Native,98894402
+VN,Viet Nam,Extant,Native,Native,98894402
+CN,China,Extant,Native,Native,98895427
+HK,Hong Kong,Extant,Native,Native,98895427
+JP,Japan,Extant,Native,Native,98895427
+KP,"Korea, Democratic People's Republic of",Extant,Native,Native,98895427
+KR,"Korea, Republic of",Extant,Native,Native,98895427
+MO,Macao,Extant,Native,Native,98895427
+CU,Cuba,Extant,Native,Native,22681293
+BR,Brazil,Extant,Native,Native,174111
+ES,Spain,Extant,Native,Native,13307133
+CH,Switzerland,Extant,Native,Native,13307696
+ES,Spain,Extant,Native,Native,13307696
+FR,France,Extant,Native,Native,13307696
+IT,Italy,Extant,Native,Native,13309203
+BR,Brazil,Extant,Native,Native,178724
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,5149
+SS,South Sudan,Extant,Native,Native,136880
+UG,Uganda,Extant,Native,Native,136880
+KE,Kenya,Extant,Native,Native,40007
+CI,Côte d'Ivoire,Extant,Native,Native,5144
+GN,Guinea,Extant,Native,Native,5144
+GW,Guinea-Bissau,Extant,Native,Native,5144
+LR,Liberia,Extant,Native,Native,5144
+SL,Sierra Leone,Extant,Native,Native,5144
+SN,Senegal,Possibly Extinct,Native,Possibly Extinct,5144
+ZA,South Africa,Extant,Native,Native,5159
+ZA,South Africa,Extant,Native,Native,5160
+ZA,South Africa,Extant,Native,Native,5158
+ZA,South Africa,Extant,Native,Native,5156
+ZA,South Africa,Extant,Native,Native,5157
+MG,Madagascar,Extant,Native,Native,80377468
+MG,Madagascar,Extant,Native,Native,80378884
+CO,Colombia,Extant,Native,Native,55042
+CO,Colombia,Extant,Native,Native,55094
+CO,Colombia,Extant,Native,Native,135855
+MX,Mexico,Extant,Native,Native,183457
+ST,Sao Tome and Principe,Extant,Native,Native,22690138
+SC,Seychelles,Extant,Native,Native,196524
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,44885488
+LS,Lesotho,Extant,Native,Native,20633270
+PT,Portugal,Extant,Native,Native,68279966
+AL,Albania,Extant,Native,Native,68280851
+GR,Greece,Extant,Native,Native,68280851
+ZA,South Africa,Extant,Native,Native,62452586
+BR,Brazil,Extant,Native,Native,187028
+BR,Brazil,Extant,Native,Native,22722136
+CM,Cameroon,Extant,Native,Native,5263
+GQ,Equatorial Guinea,Extant,Native,Native,5263
+CV,Cabo Verde,Extant,Native,Native,192744
+SN,Senegal,Extant,Native,Native,192556
+SN,Senegal,Extant,Native,Native,192522
+SN,Senegal,Extant,Native,Native,192687
+CV,Cabo Verde,Extant,Native,Native,192544
+CV,Cabo Verde,Extant,Native,Native,192403
+SN,Senegal,Extant,Native,Native,192487
+CV,Cabo Verde,Extant,Native,Native,192823
+SN,Senegal,Extant,Native,Native,192709
+SN,Senegal,Extant,Native,Native,192497
+SN,Senegal,Extant,Native,Native,192748
+MG,Madagascar,Extant,Native,Native,184535207
+MG,Madagascar,Extant,Native,Native,184535327
+MG,Madagascar,Extant,Native,Native,184535268
+MG,Madagascar,Extant,Native,Native,184535227
+AU,Australia,Extant,Native,Native,41039
+AU,Australia,Extant,Native,Native,57780
+AU,Australia,Extant,Native,Native,41040
+PG,Papua New Guinea,Extant,Native,Native,57787
+LK,Sri Lanka,Extant,Native,Native,197244
+MG,Madagascar,Extant,Native,Native,57954
+MG,Madagascar,Extant,Native,Native,61849
+MG,Madagascar,Extant,Native,Native,57958
+MG,Madagascar,Extant,Native,Native,57959
+MG,Madagascar,Extant,Native,Native,79788960
+MG,Madagascar,Extant,Native,Native,49570575
+MG,Madagascar,Extant,Native,Native,49570767
+MG,Madagascar,Extant,Native,Native,57962
+MG,Madagascar,Extant,Native,Native,57963
+SC,Seychelles,Extant,Native,Native,22709978
+CM,Cameroon,Extant,Native,Native,21898
+GN,Guinea,Extant,Native,Native,182480
+CI,Côte d'Ivoire,Extant,Native,Native,181693
+LR,Liberia,Extant,Native,Native,181693
+EC,Ecuador,Extant,Native,Native,44580012
+BR,Brazil,Extant,Native,Native,39904
+MG,Madagascar,Extant,Native,Native,91293514
+ID,Indonesia,Extant,Native,Native,13509199
+GR,Greece,Extant,Native,Native,59706
+GR,Greece,Extant,Native,Native,63226
+GR,Greece,Extant,Native,Native,165533
+US,United States of America,Extant,Native,Native,50969065
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,118039054
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,110159609
+GB,United Kingdom of Great Britain and Northern Ireland,Extant,Native,Native,135704
+IE,Ireland,Extant,Native,Native,135704
+GB,United Kingdom of Great Britain and Northern Ireland,Extant,Native,Native,135701
+GB,United Kingdom of Great Britain and Northern Ireland,Extant,Native,Native,135640
+SB,Solomon Islands,Extant,Native,Native,74044453
+PG,Papua New Guinea,Extant,Native,Native,58475
+AT,Austria,Extant,Native,Native,87328451
+CH,Switzerland,Extant,Native,Native,87328451
+CZ,Czechia,Extant,Native,Native,87328451
+DE,Germany,Extant,Native,Native,87328451
+ES,Spain,Extant,Native,Native,87328451
+FR,France,Extant,Native,Native,87328451
+HU,Hungary,Extant,Native,Native,87328451
+IT,Italy,Extant,Native,Native,87328451
+PL,Poland,Extant,Native,Native,87328451
+RO,Romania,Extant,Native,Native,87328451
+SK,Slovakia,Extant,Native,Native,87328451
+ES,Spain,Extant,Native,Native,86863349
+FR,France,Extant,Native,Native,86863349
+CZ,Czechia,Extant,Native,Native,87329230
+DE,Germany,Extant,Native,Native,87329230
+HU,Hungary,Extant,Native,Native,87329230
+PL,Poland,Possibly Extinct,Native,Possibly Extinct,87329230
+SK,Slovakia,Extant,Native,Native,87329230
+BR,Brazil,Extant,Native,Native,173824987
+ID,Indonesia,Extant,Native,Native,22705956
+EG,Egypt,Extant,Native,Native,117043864
+US,United States of America,Extant,Native,Native,5470
+BR,Brazil,Extant,Native,Native,22702461
+GR,Greece,Extant,Native,Native,50016125
+PG,Papua New Guinea,Extant,Native,Native,5494
+TL,Timor-Leste,Extant,Native,Native,170810729
+PH,Philippines,Extant,Native,Native,5502
+PH,Philippines,Extant,Native,Native,5500
+GT,Guatemala,Extant,Native,Native,56426
+PA,Panama,Extant,Native,Native,56445
+PA,Panama,Extant,Native,Native,154032280
+GT,Guatemala,Extant,Native,Native,56468
+HN,Honduras,Extant,Native,Native,135965
+GT,Guatemala,Extant,Native,Native,56550
+HN,Honduras,Extant,Native,Native,56579
+MX,Mexico,Extant,Native,Native,201414
+MX,Mexico,Extant,Native,Native,56622
+GT,Guatemala,Extant,Native,Native,56631
+MX,Mexico,Extant,Native,Native,56631
+MX,Mexico,Extant,Native,Native,56639
+HN,Honduras,Extant,Native,Native,143844130
+HN,Honduras,Extant,Native,Native,56697
+NI,Nicaragua,Extant,Native,Native,56697
+GT,Guatemala,Extant,Native,Native,56748
+MX,Mexico,Extant,Native,Native,56748
+MX,Mexico,Extant,Native,Native,56753
+PA,Panama,Extant,Native,Native,56775
+MX,Mexico,Extant,Native,Native,56948
+HN,Honduras,Extant,Native,Native,56838
+CR,Costa Rica,Extant,Native,Native,56902
+PA,Panama,Extant,Native,Native,154032877
+MX,Mexico,Extant,Native,Native,82466746
+BZ,Belize,Extant,Native,Native,56946
+GT,Guatemala,Extant,Native,Native,56946
+MX,Mexico,Extant,Native,Native,56973
+CR,Costa Rica,Extant,Native,Native,56995
+PA,Panama,Extant,Native,Native,56995
+MX,Mexico,Extant,Native,Native,57050
+BR,Brazil,Extant,Native,Native,22678544
+BO,"Bolivia, Plurinational State of",Extant,Native,Native,22678537
+BR,Brazil,Extant,Native,Native,22678537
+CO,Colombia,Extant,Native,Native,22678537
+EC,Ecuador,Extinct Post-1500,Native,Regionally Extinct,22678537
+PE,Peru,Extant,Native,Native,22678537
+CO,Colombia,Extant,Native,Native,64689977
+BR,Brazil,Extant,Native,Native,190552112
+IN,India,Extant,Native,Native,175097
+IN,India,Extant,Native,Native,175099
+US,United States of America,Extant,Native,Native,5515
+CR,Costa Rica,Extant,Native,Native,150125270
+PA,Panama,Extant,Native,Native,150125270
+CR,Costa Rica,Extant,Native,Native,169380
+PA,Panama,Extant,Native,Native,169380
+VN,Viet Nam,Extant,Native,Native,171827
+AU,Australia,Extant,Native,Native,5546
+AU,Australia,Extant,Native,Native,5547
+AU,Australia,Extant,Native,Native,5548
+AU,Australia,Extant,Native,Native,5554
+ET,Ethiopia,Extant,Native,Native,22720127
+ZM,Zambia,Extant,Native,Native,5558
+ET,Ethiopia,Extant,Native,Native,5622
+ES,Spain,Extant,Native,Native,5560
+LK,Sri Lanka,Extant,Native,Native,136596
+TZ,"Tanzania, United Republic of",Extant,Native,Native,112503346
+LK,Sri Lanka,Extant,Native,Native,5608
+PH,Philippines,Extant,Native,Native,5609
+JP,Japan,Extant,Native,Native,5590
+ET,Ethiopia,Extant,Native,Native,5580
+CM,Cameroon,Extant,Native,Native,5636
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,5582
+UG,Uganda,Extant,Native,Native,5582
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,41360
+RW,Rwanda,Extant,Native,Native,41360
+UG,Uganda,Extant,Native,Native,41360
+ST,Sao Tome and Principe,Extant,Native,Native,5594
+GR,Greece,Extant,Native,Native,5588
+IN,India,Extant,Native,Native,172348
+MX,Mexico,Extant,Native,Native,64329
+MX,Mexico,Extant,Native,Native,64005
+PT,Portugal,Extant,Native,Native,157511
+ES,Spain,Extant,Native,Native,5712
+ES,Spain,Extant,Native,Native,5709
+FR,France,Extant,Native,Native,5709
+CO,Colombia,Extant,Native,Native,78459104
+CO,Colombia,Extant,Native,Native,78459148
+CO,Colombia,Extant,Native,Native,138161
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,137100
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,138528
+ZA,South Africa,Extant,Native,Native,5749
+BI,Burundi,Extant,Native,Native,22719374
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,22719374
+RW,Rwanda,Extant,Native,Native,22719374
+UG,Uganda,Extant,Native,Native,22719374
+MG,Madagascar,Extant,Native,Native,103897432
+MG,Madagascar,Extant,Native,Native,103897503
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,45954361
+PA,Panama,Extant,Native,Native,5763
+MX,Mexico,Extant,Native,Native,48269619
+CO,Colombia,Extant,Native,Native,136299
+PA,Panama,Extant,Native,Native,136299
+MX,Mexico,Extant,Native,Native,59234
+GT,Guatemala,Possibly Extinct,Native,Possibly Extinct,61545710
+HN,Honduras,Extant,Native,Native,61545710
+IO,British Indian Ocean Territory,Extant,Native,Native,133701
+MU,Mauritius,Extant,Native,Native,133701
+RE,Réunion,Extant,Native,Native,133701
+PT,Portugal,Extant,Native,Native,68286180
+AR,Argentina,Extant,Native,Native,5796
+AR,Argentina,Extant,Native,Native,5797
+AR,Argentina,Extant,Native,Native,136687
+AR,Argentina,Extant,Native,Native,5799
+BR,Brazil,Extant,Native,Native,136464
+AR,Argentina,Extant,Native,Native,5809
+AR,Argentina,Extant,Native,Native,5817
+PY,Paraguay,Extant,Native,Native,136289
+AR,Argentina,Extant,Native,Native,136370
+AR,Argentina,Extant,Native,Native,136635
+UY,Uruguay,Extant,Native,Native,136635
+MU,Mauritius,Extant,Native,Native,5835
+RE,Réunion,Extant,Native,Native,5837
+PE,Peru,Extant,Native,Native,136036
+PE,Peru,Extant,Native,Native,57204
+NG,Nigeria,Extant,Native,Native,182909
+HN,Honduras,Extant,Native,Native,44189
+HN,Honduras,Extant,Native,Native,44191
+GT,Guatemala,Extant,Native,Native,44192
+AU,Australia,Extant,Native,Native,109463625
+AU,Australia,Extant,Native,Native,109464681
+JM,Jamaica,Extant,Native,Native,125922809
+KY,Cayman Islands,Extant,Native,Native,75607252
+IT,Italy,Extant,Native,Native,47261798
+US,United States of America,Extant,Native,Native,5952
+AF,Afghanistan,Extinct Post-1500,Native,Regionally Extinct,5953
+BD,Bangladesh,Extant,Native,Native,5953
+BT,Bhutan,Extant,Native,Native,5953
+CN,China,Extant,Native,Native,5953
+ID,Indonesia,Extant,Native,Native,5953
+IN,India,Extant,Native,Native,5953
+KG,Kyrgyzstan,Extinct Post-1500,Native,Regionally Extinct,5953
+KH,Cambodia,Extant,Native,Native,5953
+KR,"Korea, Republic of",Extinct Post-1500,Native,Regionally Extinct,5953
+KZ,Kazakhstan,Extinct Post-1500,Native,Regionally Extinct,5953
+LA,Lao People's Democratic Republic,Extant,Native,Native,5953
+MM,Myanmar,Extant,Native,Native,5953
+MN,Mongolia,Extinct Post-1500,Native,Regionally Extinct,5953
+MY,Malaysia,Extant,Native,Native,5953
+NP,Nepal,Extant,Native,Native,5953
+RU,Russian Federation,Extinct Post-1500,Native,Regionally Extinct,5953
+SG,Singapore,Extinct Post-1500,Native,Regionally Extinct,5953
+TH,Thailand,Extant,Native,Native,5953
+TJ,Tajikistan,Extinct Post-1500,Native,Regionally Extinct,5953
+UZ,Uzbekistan,Extinct Post-1500,Native,Regionally Extinct,5953
+VN,Viet Nam,Possibly Extinct,Native,Possibly Extinct,5953
+BD,Bangladesh,Extant,Native,Native,5958
+BN,Brunei Darussalam,Extant,Native,Native,5958
+ID,Indonesia,Extant,Native,Native,5958
+IN,India,Extant,Native,Native,5958
+LA,Lao People's Democratic Republic,Extant,Native,Native,5958
+MM,Myanmar,Extant,Native,Native,5958
+MY,Malaysia,Extant,Native,Native,5958
+PH,Philippines,Extant,Native,Native,5958
+SG,Singapore,Extant,Native,Native,5958
+TH,Thailand,Extant,Native,Native,5958
+VN,Viet Nam,Extant,Native,Native,5958
+CN,China,Extant,Native,Native,5960
+JP,Japan,Extant,Native,Native,5960
+TW,"Taiwan, Province of China",Extant,Native,Native,5960
+BD,Bangladesh,Extant,Native,Native,163414
+BT,Bhutan,Extant,Native,Native,163414
+CN,China,Extant,Native,Native,163414
+IN,India,Extant,Native,Native,163414
+LA,Lao People's Democratic Republic,Extant,Native,Native,163414
+MM,Myanmar,Extant,Native,Native,163414
+VN,Viet Nam,Extant,Native,Native,163414
+AU,Australia,Extant,Native,Native,5965
+KM,Comoros,Extant,Native,Native,103703653
+SC,Seychelles,Extant,Native,Native,168096
+KH,Cambodia,Extant,Native,Native,170504
+TH,Thailand,Extant,Native,Native,170504
+LA,Lao People's Democratic Republic,Extant,Native,Native,163415
+MM,Myanmar,Extant,Native,Native,163415
+TH,Thailand,Extant,Native,Native,163415
+VN,Viet Nam,Extant,Native,Native,163415
+KH,Cambodia,Extant,Native,Native,170508
+VN,Viet Nam,Extant,Native,Native,170508
+PH,Philippines,Extant,Native,Native,90999908
+MW,Malawi,Extant,Native,Native,6009
+MZ,Mozambique,Extant,Native,Native,6009
+TZ,"Tanzania, United Republic of",Extant,Native,Native,6009
+ZM,Zambia,Extant,Native,Native,6009
+ZW,Zimbabwe,Extant,Native,Native,6009
+AU,Australia,Extant,Native,Native,109465196
+VN,Viet Nam,Extant,Native,Native,89295807
+VN,Viet Nam,Extant,Native,Native,89295783
+AU,Australia,Extant,Native,Native,22727593
+BS,Bahamas,Extant,Origin Uncertain,Present - Origin Uncertain,6026
+TC,Turks and Caicos Islands,Extant,Native,Native,6026
+DO,Dominican Republic,Extant,Native,Native,6042
+HT,Haiti,Extant,Native,Native,6042
+BS,Bahamas,Extant,Native,Native,6039
+KY,Cayman Islands,Extant,Native,Native,44275
+DO,Dominican Republic,Extant,Native,Native,6032
+HT,Haiti,Extant,Native,Native,6032
+BS,Bahamas,Extant,Native,Native,6033
+BS,Bahamas,Extant,Native,Native,6047
+SC,Seychelles,Extant,Native,Native,196243
+GN,Guinea,Extant,Native,Native,203817
+GW,Guinea-Bissau,Extant,Native,Native,203817
+CM,Cameroon,Extant,Native,Native,176238
+PA,Panama,Extant,Native,Native,53875516
+CR,Costa Rica,Extant,Native,Native,53875783
+CR,Costa Rica,Extant,Native,Native,53875841
+PA,Panama,Extant,Native,Native,53875988
+CR,Costa Rica,Extant,Native,Native,53876023
+PA,Panama,Extant,Native,Native,53876023
+CR,Costa Rica,Extant,Native,Native,53876095
+CR,Costa Rica,Extant,Native,Native,53876177
+PA,Panama,Extant,Native,Native,169368
+BN,Brunei Darussalam,Extant,Native,Native,6082
+ID,Indonesia,Extant,Native,Native,6082
+MY,Malaysia,Extant,Native,Native,6082
+MX,Mexico,Extant,Native,Native,6089
+US,United States of America,Extant,Native,Native,6090
+CN,China,Extant,Native,Native,59443
+BS,Bahamas,Extant,Native,Native,46104933
+CA,Canada,Extant,Native,Native,46104933
+US,United States of America,Extant,Native,Native,46104933
+ID,Indonesia,Extant,Native,Native,22709482
+BR,Brazil,Extant,Native,Native,173830864
+BR,Brazil,Extant,Native,Native,190552225
+US,United States of America,Extant,Native,Native,6134
+US,United States of America,Extant,Native,Native,202083
+MX,Mexico,Extant,Native,Native,6141
+MX,Mexico,Extant,Native,Native,6145
+MX,Mexico,Extant,Native,Native,6147
+DO,Dominican Republic,Extant,Native,Native,82958421
+HT,Haiti,Extant,Native,Native,82958421
+US,United States of America,Extant,Native,Native,6150
+MX,Mexico,Extant,Native,Native,191303
+US,United States of America,Extant,Native,Native,191303
+MX,Mexico,Extant,Native,Native,6153
+BS,Bahamas,Extant,Native,Native,82958911
+MX,Mexico,Extant,Native,Native,6159
+US,United States of America,Extant,Native,Native,6164
+US,United States of America,Extant,Native,Native,62211
+US,United States of America,Extant,Native,Native,6169
+CN,China,Extant,Native,Native,166210
+MM,Myanmar,Extant,Native,Native,180896
+IN,India,Extant,Native,Native,174112
+MM,Myanmar,Extant,Native,Native,178367
+VN,Viet Nam,Extant,Native,Native,104686599
+LK,Sri Lanka,Extant,Native,Native,197222
+LK,Sri Lanka,Extant,Native,Native,197221
+IN,India,Extant,Native,Native,194100
+TH,Thailand,Extant,Native,Native,104692853
+VN,Viet Nam,Extant,Native,Native,104696055
+TH,Thailand,Extant,Native,Native,104698021
+VN,Viet Nam,Extant,Native,Native,104698481
+ID,Indonesia,Extant,Native,Native,126555212
+MY,Malaysia,Extant,Native,Native,101949746
+IN,India,Extant,Native,Native,127941170
+CX,Christmas Island,Extant,Native,Native,102731769
+IN,India,Extant,Native,Native,127941306
+LK,Sri Lanka,Extant,Native,Native,197218
+MY,Malaysia,Extant,Native,Native,178719
+ID,Indonesia,Extant,Native,Native,134629458
+MY,Malaysia,Extant,Native,Native,101949823
+MM,Myanmar,Extant,Native,Native,178228
+ID,Indonesia,Extant,Native,Native,104716767
+PG,Papua New Guinea,Extant,Native,Native,6224
+CD,"Congo, The Democratic Republic of the",Extant,Native,Native,120684774
+BF,Burkina Faso,Extant,Native,Native,6238
+BJ,Benin,Extant,Native,Native,6238
+CM,Cameroon,Extant,Native,Native,6238
+GH,Ghana,Extant,Native,Native,6238
+GM,Gambia,Extinct Post-1500,Native,Regionally Extinct,6238
+ML,Mali,Extinct Post-1500,Native,Regionally Extinct,6238
+MR,Mauritania,Extinct Post-1500,Native,Regionally Extinct,6238
+NE,Niger,Extant,Native,Native,6238
+NG,Nigeria,Possibly Extinct,Native,Possibly Extinct,6238
+SN,Senegal,Extinct Post-1500,Native,Regionally Extinct,6238
+TD,Chad,Possibly Extinct,Native,Possibly Extinct,6238
+TG,Togo,Possibly Extinct,Native,Possibly Extinct,6238
+KE,Kenya,Extant,Native,Native,6243
+IL,Israel,Extant,Reintroduced,Reintroduced,6232
+IQ,Iraq,Extinct Post-1500,Native,Regionally Extinct,6232
+IR,"Iran, Islamic Republic of",Extant,Native,Native,6232
+JO,Jordan,Extinct Post-1500,Native,Regionally Extinct,6232
+LB,Lebanon,Extinct Post-1500,Native,Regionally Extinct,6232
+PS,"Palestine, State of",Extinct Post-1500,Native,Regionally Extinct,6232
+SY,Syrian Arab Republic,Extinct Post-1500,Native,Regionally Extinct,6232
+TR,Turkey,Extinct Post-1500,Native,Regionally Extinct,6232
+AU,Australia,Extant,Native,Native,6244
+ET,Ethiopia,Extant,Native,Native,181792
+MU,Mauritius,Extant,Native,Native,6251
+MM,Myanmar,Extant,Native,Native,181072
+GR,Greece,Extant,Native,Native,155918
+TR,Turkey,Extant,Native,Native,164616
+GE,Georgia,Extant,Native,Native,11117
+TR,Turkey,Extant,Native,Native,11117
+IR,"Iran, Islamic Republic of",Extant,Native,Native,107655762
+TM,Turkmenistan,Extant,Native,Native,107655762
+AM,Armenia,Extant,Native,Native,164563
+AZ,Azerbaijan,Extant,Native,Native,164563
+TR,Turkey,Extant,Native,Native,164776
+IN,India,Extant,Native,Native,172629
+AR,Argentina,Extant,Native,Native,60154
+BR,Brazil,Extant,Native,Native,60154
+UY,Uruguay,Extant,Native,Native,60154
+PH,Philippines,Extant,Native,Native,22716210
+UG,Uganda,Extant,Native,Native,6270
+AU,Australia,Extant,Native,Native,22704507
+AU,Australia,Extant,Native,Native,22704502
+AL,Albania,Extant,Native,Native,13322492
+GR,Greece,Extant,Native,Native,13322492
+MK,North Macedonia,Extant,Native,Native,13322492
+HN,Honduras,Extant,Native,Native,6287
+AU,Australia,Extant,Native,Native,6295
+AU,Australia,Extant,Native,Native,6296
+MG,Madagascar,Extant,Native,Native,6302
+IN,India,Extant,Native,Native,172500
+IN,India,Extant,Native,Native,172488
+LK,Sri Lanka,Extant,Native,Native,41247
+IN,India,Extant,Native,Native,172449
+NZ,New Zealand,Extant,Native,Native,103185686
+NZ,New Zealand,Extant,Native,Native,103185764
+AU,Australia,Extant,Native,Native,6315
+AU,Australia,Extant,Native,Native,102831167
+DZ,Algeria,Extant,Native,Native,189865869
+ES,Spain,Extant,Native,Native,189865869
+GR,Greece,Extant,Native,Native,189865869
+IL,Israel,Extant,Native,Native,189865869
+IT,Italy,Extant,Native,Native,189865869
+LY,Libya,Extant,Native,Native,189865869
+MT,Malta,Extant,Native,Native,189865869
+TN,Tunisia,Extant,Native,Native,189865869
+TR,Turkey,Extant,Native,Native,189865869
+AL,Albania,Extant,Native,Native,41762
+BA,Bosnia and Herzegovina,Extant,Native,Native,41762
+CY,Cyprus,Extant,Native,Native,41762
+DZ,Algeria,Extant,Native,Native,41762
+EG,Egypt,Extant,Native,Native,41762
+ES,Spain,Extant,Native,Native,41762
+FR,France,Extant,Native,Native,41762
+GI,Gibraltar,Extant,Native,Native,41762
+GR,Greece,Extant,Native,Native,41762
+HR,Croatia,Extant,Native,Native,41762
+IL,Israel,Extant,Native,Native,41762
+IT,Italy,Extant,Native,Native,41762
+LB,Lebanon,Extant,Native,Native,41762
+LY,Libya,Extant,Native,Native,41762
+MA,Morocco,Extant,Native,Native,41762
+MC,Monaco,Extant,Native,Native,41762
+ME,Montenegro,Extant,Native,Native,41762
+MT,Malta,Extant,Native,Native,41762
+SI,Slovenia,Extant,Native,Native,41762
+SY,Syrian Arab Republic,Extant,Native,Native,41762
+TN,Tunisia,Extant,Native,Native,41762
+TR,Turkey,Extant,Native,Native,41762
+US,United States of America,Extant,Native,Native,6338
+LK,Sri Lanka,Extant,Native,Native,116824832
+ID,Indonesia,Extant,Native,Native,6429
+PG,Papua New Guinea,Extant,Native,Native,6429
+PG,Papua New Guinea,Extant,Native,Native,6433
+ID,Indonesia,Extant,Native,Native,6437
+PG,Papua New Guinea,Extant,Native,Native,136732
+BR,Brazil,Extant,Native,Native,54807
+EC,Ecuador,Extant,Native,Native,55496
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,55555
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,55700
+ES,Spain,Extant,Native,Native,16084510
+AG,Antigua and Barbuda,Extant,Native,Native,46967827
+AI,Anguilla,Extant,Native,Native,46967827
+AL,Albania,Extant,Native,Native,46967827
+AW,Aruba,Extant,Native,Native,46967827
+BA,Bosnia and Herzegovina,Extant,Native,Native,46967827
+BB,Barbados,Extant,Native,Native,46967827
+BJ,Benin,Extant,Native,Native,46967827
+BM,Bermuda,Extant,Native,Native,46967827
+BQ,"Bonaire, Sint Eustatius and Saba",Extant,Native,Native,46967827
+BR,Brazil,Extant,Native,Native,46967827
+BS,Bahamas,Extant,Native,Native,46967827
+BZ,Belize,Extant,Native,Native,46967827
+CA,Canada,Extant,Native,Native,46967827
+CI,Côte d'Ivoire,Extant,Native,Native,46967827
+CO,Colombia,Extant,Native,Native,46967827
+CR,Costa Rica,Extant,Native,Native,46967827
+CU,Cuba,Extant,Native,Native,46967827
+CW,Curaçao,Extant,Native,Native,46967827
+CY,Cyprus,Extant,Native,Native,46967827
+DM,Dominica,Extant,Native,Native,46967827
+DO,Dominican Republic,Extant,Native,Native,46967827
+EG,Egypt,Extant,Native,Native,46967827
+ES,Spain,Extant,Native,Native,46967827
+FR,France,Extant,Native,Native,46967827
+GB,United Kingdom of Great Britain and Northern Ireland,Extant,Native,Native,46967827
+GD,Grenada,Extant,Native,Native,46967827
+GF,French Guiana,Extant,Native,Native,46967827
+GH,Ghana,Extant,Native,Native,46967827
+GM,Gambia,Extant,Native,Native,46967827
+GN,Guinea,Extant,Native,Native,46967827
+GP,Guadeloupe,Extant,Native,Native,46967827
+GR,Greece,Extant,Native,Native,46967827
+GT,Guatemala,Extant,Native,Native,46967827
+GW,Guinea-Bissau,Extant,Native,Native,46967827
+HN,Honduras,Extant,Native,Native,46967827
+HR,Croatia,Extant,Native,Native,46967827
+HT,Haiti,Extant,Native,Native,46967827
+IE,Ireland,Extant,Native,Native,46967827
+IL,Israel,Extant,Native,Native,46967827
+IT,Italy,Extant,Native,Native,46967827
+JM,Jamaica,Extant,Native,Native,46967827
+KN,Saint Kitts and Nevis,Extant,Native,Native,46967827
+LB,Lebanon,Extant,Native,Native,46967827
+LC,Saint Lucia,Extant,Native,Native,46967827
+LR,Liberia,Extant,Native,Native,46967827
+LY,Libya,Extant,Native,Native,46967827
+MA,Morocco,Extant,Native,Native,46967827
+ME,Montenegro,Extant,Native,Native,46967827
+MF,Saint Martin (French part),Extant,Native,Native,46967827
+MQ,Martinique,Extant,Native,Native,46967827
+MR,Mauritania,Extant,Native,Native,46967827
+MS,Montserrat,Extant,Native,Native,46967827
+MX,Mexico,Extant,Native,Native,46967827
+NG,Nigeria,Extant,Native,Native,46967827
+NI,Nicaragua,Extant,Native,Native,46967827
+PA,Panama,Extant,Native,Native,46967827
+PR,Puerto Rico,Extant,Native,Native,46967827
+PT,Portugal,Extant,Native,Native,46967827
+SI,Slovenia,Extant,Native,Native,46967827
+SL,Sierra Leone,Extant,Native,Native,46967827
+SN,Senegal,Extant,Native,Native,46967827
+SR,Suriname,Extant,Native,Native,46967827
+SX,Sint Maarten (Dutch part),Extant,Native,Native,46967827
+SY,Syrian Arab Republic,Extant,Native,Native,46967827
+TC,Turks and Caicos Islands,Extant,Native,Native,46967827
+TG,Togo,Extant,Native,Native,46967827
+TN,Tunisia,Extant,Native,Native,46967827
+TR,Turkey,Extant,Native,Native,46967827
+TT,Trinidad and Tobago,Extant,Native,Native,46967827
+US,United States of America,Extant,Native,Native,46967827
+VC,Saint Vincent and the Grenadines,Extant,Native,Native,46967827
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,46967827
+VG,"Virgin Islands, British",Extant,Native,Native,46967827
+VI,"Virgin Islands, U.S.",Extant,Native,Native,46967827
+ES,Spain,Extant,Native,Native,6500
+JP,Japan,Extant,Native,Native,157715467
+JP,Japan,Extant,Native,Native,157715572
+MU,Mauritius,Extant,Native,Native,145380484
+PH,Philippines,Extant,Native,Native,84457227
+BY,Belarus,Extinct Post-1500,Native,Regionally Extinct,6506
+KZ,Kazakhstan,Extant,Native,Native,6506
+RU,Russian Federation,Extant,Native,Native,6506
+UA,Ukraine,Extant,Native,Native,6506
+NG,Nigeria,Extant,Native,Native,198118
+MM,Myanmar,Extant,Native,Native,180822
+IN,India,Extant,Introduced,Introduced,166482
+LK,Sri Lanka,Extant,Native,Native,149844352
+IN,India,Extant,Native,Native,172435
+LK,Sri Lanka,Extant,Native,Native,6252
+BR,Brazil,Extant,Native,Native,134709228
+HK,Hong Kong,Extant,Native,Native,104679625
+IN,India,Extant,Native,Native,202866
+MY,Malaysia,Extant,Native,Native,99942532
+BR,Brazil,Extant,Native,Native,138354
+BR,Brazil,Extant,Native,Native,137111
+MY,Malaysia,Extant,Native,Native,91348023
+KM,Comoros,Extant,Native,Native,22706947
+PH,Philippines,Extant,Native,Native,22736062
+NC,New Caledonia,Extant,Native,Native,176200
+NC,New Caledonia,Extant,Native,Native,176158
+NC,New Caledonia,Extant,Native,Native,176196
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,22723648
+ZA,South Africa,Extant,Native,Native,160889
+ZA,South Africa,Extant,Native,Native,161328590
+MA,Morocco,Extant,Native,Native,91472392
+TF,French Southern Territories,Extant,Native,Native,22698310
+AQ,Antarctica,Extant,Origin Uncertain,Present - Origin Uncertain,22728318
+AU,Australia,Extant,Native,Native,22728318
+CL,Chile,Extant,Native,Native,22728318
+NF,Norfolk Island,Extant,Native,Native,22728318
+NZ,New Zealand,Extant,Native,Native,22728318
+PF,French Polynesia,Extant,Origin Uncertain,Present - Origin Uncertain,22728318
+AQ,Antarctica,Extant,Origin Uncertain,Present - Origin Uncertain,22728323
+AR,Argentina,Extant,Native,Native,22728323
+AU,Australia,Extant,Native,Native,22728323
+BR,Brazil,Extant,Native,Native,22728323
+BV,Bouvet Island,Extant,Origin Uncertain,Present - Origin Uncertain,22728323
+CL,Chile,Extant,Native,Native,22728323
+FK,Falkland Islands (Malvinas),Extant,Native,Native,22728323
+GS,South Georgia and the South Sandwich Islands,Extant,Native,Native,22728323
+HM,Heard Island and McDonald Islands,Extant,Native,Native,22728323
+NZ,New Zealand,Extant,Native,Native,22728323
+SH,"Saint Helena, Ascension and Tristan da Cunha",Extant,Native,Native,22728323
+TF,French Southern Territories,Extant,Native,Native,22728323
+UY,Uruguay,Extant,Native,Native,22728323
+ZA,South Africa,Extant,Native,Native,22728323
+MX,Mexico,Extant,Native,Native,191262
+US,United States of America,Extant,Native,Native,191262
+MX,Mexico,Extant,Native,Native,6623
+US,United States of America,Extant,Native,Native,6623
+AU,Australia,Extant,Native,Native,195991864
+PH,Philippines,Extant,Native,Native,139548915
+PH,Philippines,Extant,Native,Native,139548970
+PH,Philippines,Extant,Native,Native,139549052
+TW,"Taiwan, Province of China",Extant,Native,Native,29429
+BR,Brazil,Extant,Native,Native,6631
+BR,Brazil,Extant,Native,Native,6633
+PW,Palau,Extant,Native,Native,6654
+PW,Palau,Extant,Native,Native,6657
+JP,Japan,Extant,Native,Native,6671
+US,United States of America,Extant,Native,Native,6678
+SC,Seychelles,Extant,Native,Native,196475
+SC,Seychelles,Extant,Native,Native,196476
+NZ,New Zealand,Extant,Native,Native,103188016
+NZ,New Zealand,Extant,Native,Native,103188043
+EC,Ecuador,Extant,Native,Native,44581456
+AU,Australia,Extant,Native,Native,14134315
+CL,Chile,Extant,Native,Native,144159779
+AU,Australia,Extant,Native,Native,64442
+AR,Argentina,Extant,Native,Native,63116
+CL,Chile,Extant,Native,Native,63116
+FK,Falkland Islands (Malvinas),Extant,Native,Native,63116
+UY,Uruguay,Extant,Native,Native,63116
+MY,Malaysia,Extant,Native,Native,6710
+US,United States of America,Extant,Native,Native,6718
+PT,Portugal,Extant,Native,Native,156531
+PT,Portugal,Extant,Native,Native,6729
+GQ,Equatorial Guinea,Extant,Native,Native,177754310
+MG,Madagascar,Extant,Native,Native,169526659
+IT,Italy,Extant,Native,Native,16084624
+TH,Thailand,Extant,Native,Native,134544
+TH,Thailand,Extant,Native,Native,134661
+NF,Norfolk Island,Extant,Native,Native,6782
+CO,Colombia,Extant,Native,Native,176109711
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,176109711
+SH,"Saint Helena, Ascension and Tristan da Cunha",Extant,Native,Native,65892925
+GR,Greece,Extant,Native,Native,171117
+ZA,South Africa,Extant,Native,Native,59664
+ZA,South Africa,Extant,Native,Native,59671
+ZA,South Africa,Extant,Native,Native,103874014
+ZA,South Africa,Extant,Native,Native,59673
+ZA,South Africa,Extant,Native,Native,59674
+ZA,South Africa,Extant,Native,Native,59675
+CY,Cyprus,Extant,Native,Native,157693
+JP,Japan,Extant,Native,Native,117371018
+CO,Colombia,Extant,Native,Native,49254561
+PH,Philippines,Extant,Native,Native,139565907
+PH,Philippines,Extant,Native,Native,139566045
+PH,Philippines,Extant,Native,Native,139566056
+PH,Philippines,Extant,Native,Native,169301
+PH,Philippines,Extant,Native,Native,139566082
+VN,Viet Nam,Extant,Native,Native,145789151
+PH,Philippines,Extant,Native,Native,139566230
+PH,Philippines,Extant,Native,Native,139567662
+PH,Philippines,Extant,Native,Native,139567776
+PH,Philippines,Extant,Native,Native,139567932
+PH,Philippines,Extant,Native,Native,139568026
+MY,Malaysia,Extant,Native,Native,123523486
+PH,Philippines,Extant,Native,Native,139568078
+PH,Philippines,Extant,Native,Native,139568128
+PH,Philippines,Extant,Native,Native,139568480
+PH,Philippines,Extant,Native,Native,139568681
+PH,Philippines,Extant,Native,Native,139568750
+PH,Philippines,Extant,Native,Native,139569066
+PH,Philippines,Extant,Native,Native,139569154
+PH,Philippines,Extant,Native,Native,139569536
+US,United States of America,Extant,Native,Native,6829
+IN,India,Extant,Native,Native,123433722
+PT,Portugal,Extant,Native,Native,97161019
+PT,Portugal,Extant,Native,Native,97161490
+PT,Portugal,Extant,Native,Native,97161588
+ES,Spain,Extant,Native,Native,16247
+ES,Spain,Extant,Native,Native,86804998
+PT,Portugal,Extant,Native,Native,86804998
+FR,France,Extant,Native,Native,86805020
+IT,Italy,Extant,Native,Native,86805020
+KR,"Korea, Republic of",Extant,Native,Native,55670
+CO,Colombia,Extant,Native,Native,103843258
+PF,French Polynesia,Extant,Native,Native,22691668
+PF,French Polynesia,Extant,Native,Native,22691674
+PH,Philippines,Extant,Native,Native,22691622
+MX,Mexico,Extant,Native,Native,55307
+CR,Costa Rica,Extant,Native,Native,55309
+PA,Panama,Extant,Native,Native,55309
+HN,Honduras,Extant,Native,Native,55311
+GT,Guatemala,Extant,Native,Native,55313
+HN,Honduras,Extant,Native,Native,55313
+MA,Morocco,Extant,Native,Native,198167
+MU,Mauritius,Extant,Native,Native,6915
+SA,Saudi Arabia,Extant,Native,Native,107430801
+IN,India,Extant,Native,Native,54584
+LK,Sri Lanka,Extant,Native,Native,54683
+PH,Philippines,Extant,Native,Native,84457541
+MG,Madagascar,Extant,Native,Native,29416
+AE,United Arab Emirates,Extant,Native,Native,41801
+AL,Albania,Extant,Native,Native,41801
+AO,Angola,Extant,Native,Native,41801
+AR,Argentina,Extant,Native,Native,41801
+AU,Australia,Extant,Native,Native,41801
+BA,Bosnia and Herzegovina,Extant,Native,Native,41801
+BE,Belgium,Extant,Native,Native,41801
+BR,Brazil,Extant,Native,Native,41801
+CI,Côte d'Ivoire,Extant,Native,Native,41801
+CO,Colombia,Extant,Native,Native,41801
+CY,Cyprus,Extant,Native,Native,41801
+DE,Germany,Extant,Native,Native,41801
+DK,Denmark,Extant,Native,Native,41801
+DZ,Algeria,Extant,Native,Native,41801
+EG,Egypt,Extant,Native,Native,41801
+EH,Western Sahara,Extant,Native,Native,41801
+ES,Spain,Extant,Native,Native,41801
+FR,France,Extant,Native,Native,41801
+GB,United Kingdom of Great Britain and Northern Ireland,Extant,Native,Native,41801
+GI,Gibraltar,Extant,Native,Native,41801
+GM,Gambia,Extant,Native,Native,41801
+GR,Greece,Extant,Native,Native,41801
+HR,Croatia,Extant,Native,Native,41801
+IE,Ireland,Extant,Native,Native,41801
+IL,Israel,Extant,Native,Native,41801
+IM,Isle of Man,Extant,Native,Native,41801
+IN,India,Extant,Native,Native,41801
+IR,"Iran, Islamic Republic of",Extant,Native,Native,41801
+IT,Italy,Extant,Native,Native,41801
+JP,Japan,Extant,Native,Native,41801
+KI,Kiribati,Extant,Native,Native,41801
+LB,Lebanon,Extant,Native,Native,41801
+LY,Libya,Extant,Native,Native,41801
+MA,Morocco,Extant,Native,Native,41801
+MC,Monaco,Extant,Native,Native,41801
+ME,Montenegro,Extant,Native,Native,41801
+MR,Mauritania,Extant,Native,Native,41801
+MT,Malta,Extant,Native,Native,41801
+MV,Maldives,Extant,Native,Native,41801
+MX,Mexico,Extant,Native,Native,41801
+MZ,Mozambique,Extant,Native,Native,41801
+NA,Namibia,Extant,Native,Native,41801
+NL,Netherlands,Extant,Native,Native,41801
+NO,Norway,Extant,Native,Native,41801
+NZ,New Zealand,Extant,Native,Native,41801
+OM,Oman,Extant,Native,Native,41801
+PK,Pakistan,Extant,Native,Native,41801
+PS,"Palestine, State of",Extant,Native,Native,41801
+PT,Portugal,Extant,Native,Native,41801
+SI,Slovenia,Extant,Native,Native,41801
+SN,Senegal,Extant,Native,Native,41801
+SO,Somalia,Extant,Native,Native,41801
+SY,Syrian Arab Republic,Extant,Native,Native,41801
+TH,Thailand,Extant,Native,Native,41801
+TN,Tunisia,Extant,Native,Native,41801
+TR,Turkey,Extant,Native,Native,41801
+US,United States of America,Extant,Native,Native,41801
+VE,"Venezuela, Bolivarian Republic of",Extant,Native,Native,41801
+YE,Yemen,Extant,Native,Native,41801
+ZA,South Africa,Extant,Native,Native,41801
+EC,Ecuador,Extant,Native,Native,203053
+GY,Guyana,Extant,Native,Native,203057
+ID,Indonesia,Extant,Native,Native,7014
+PG,Papua New Guinea,Extant,Native,Native,7017
+ID,Indonesia,Extant,Native,Native,155072216
+GT,Guatemala,Extant,Native,Native,55640
+HN,Honduras,Extant,Native,Native,55640
+GR,Greece,Extant,Native,Native,7021
+SC,Seychelles,Extant,Native,Native,199510
+SC,Seychelles,Extant,Native,Native,199522
+SC,Seychelles,Extant,Native,Native,199539
+EC,Ecuador,Extant,Native,Native,190980
+PA,Panama,Extant,Native,Native,50924731
+SC,Seychelles,Extant,Native,Native,168142
+FM,"Micronesia, Federated States of ",Extant,Native,Native,103702644
+FM,"Micronesia, Federated States of ",Extant,Native,Native,103702640
+AU,Australia,Extant,Native,Native,7036
+IN,India,Extant,Native,Native,172426
+BS,Bahamas,Extant,Native,Native,185977
+KY,Cayman Islands,Extant,Native,Native,68309086
+KY,Cayman Islands,Extant,Native,Native,68309149
+MX,Mexico,Extant,Native,Native,185979
+PW,Palau,Extant,Native,Native,196670
+LK,Sri Lanka,Extant,Native,Native,59726
+BR,Brazil,Extant,Native,Native,22703535
+BD,Bangladesh,Extant,Native,Native,7140
+BT,Bhutan,Extant,Native,Native,7140
+CN,China,Extant,Native,Native,7140
+ID,Indonesia,Extant,Native,Native,7140
+IN,India,Extant,Native,Native,7140
+KH,Cambodia,Extant,Native,Native,7140
+LA,Lao People's Democratic Republic,Extant,Native,Native,7140
+LK,Sri Lanka,Extant,Native,Native,7140
+MM,Myanmar,Extant,Native,Native,7140
+MY,Malaysia,Extant,Native,Native,7140
+NP,Nepal,Extant,Native,Native,7140
+PK,Pakistan,Extinct Post-1500,Native,Regionally Extinct,7140
+TH,Thailand,Extant,Native,Native,7140
+VN,Viet Nam,Extant,Native,Native,7140
+CU,Cuba,Extant,Native,Native,56391
+CU,Cuba,Extant,Native,Native,56397
+DO,Dominican Republic,Extant,Native,Native,56404
+HT,Haiti,Extant,Native,Native,56404
+DM,Dominica,Extant,Native,Native,56411
+JM,Jamaica,Extant,Native,Native,56416
+DO,Dominican Republic,Extant,Native,Native,56432
+HT,Haiti,Extant,Native,Native,56432
+DO,Dominican Republic,Extant,Native,Native,56440
+GP,Guadeloupe,Extant,Native,Native,56451
+CU,Cuba,Extant,Native,Native,29471
+PR,Puerto Rico,Extant,Native,Native,7149
+HT,Haiti,Extant,Native,Native,56527
+HT,Haiti,Extant,Native,Native,195008
+CU,Cuba,Extant,Native,Native,56578
+MX,Mexico,Extant,Native,Native,151283808
+CU,Cuba,Extant,Native,Native,56590
+JM,Jamaica,Extant,Native,Native,7144
+CU,Cuba,Extant,Native,Native,56616
+HT,Haiti,Extant,Native,Native,56620
+JM,Jamaica,Extant,Native,Native,56621
+JM,Jamaica,Extant,Native,Native,56625
+HT,Haiti,Extant,Native,Native,56627
+MX,Mexico,Extant,Native,Native,56629
+CU,Cuba,Extant,Native,Native,56632
+JM,Jamaica,Extant,Native,Native,56633
+MX,Mexico,Extant,Native,Native,78496612
+CU,Cuba,Extant,Native,Native,56636
+CU,Cuba,Extant,Native,Native,56642
+DO,Dominican Republic,Extant,Native,Native,56645
+PR,Puerto Rico,Extant,Native,Native,56648
+DO,Dominican Republic,Extant,Native,Native,56651
+HT,Haiti,Extant,Native,Native,56651
+DO,Dominican Republic,Extant,Native,Native,56659
+HT,Haiti,Extant,Native,Native,56659
+CU,Cuba,Extant,Native,Native,56674
+CU,Cuba,Extant,Native,Native,56677
+MX,Mexico,Extant,Native,Native,151283886
+CU,Cuba,Extant,Native,Native,56693
+CU,Cuba,Extant,Native,Native,56708
+VG,"Virgin Islands, British",Extant,Origin Uncertain,Present - Origin Uncertain,56711
+VI,"Virgin Islands, U.S.",Extant,Native,Native,56711
+PR,Puerto Rico,Extant,Native,Native,56725
+JM,Jamaica,Extant,Native,Native,56733
+CU,Cuba,Extant,Native,Native,56754
+CU,Cuba,Extant,Native,Native,135753
+DO,Dominican Republic,Extant,Native,Native,56767
+DO,Dominican Republic,Extant,Native,Native,56776
+MX,Mexico,Extant,Native,Native,151283966
+DO,Dominican Republic,Extant,Native,Native,195011
+HT,Haiti,Extant,Native,Native,195011
+JM,Jamaica,Extant,Native,Native,56797
+DO,Dominican Republic,Extant,Native,Native,56834
+JM,Jamaica,Extant,Native,Native,56842
+CU,Cuba,Extant,Native,Native,56859
+GP,Guadeloupe,Extant,Native,Native,56860
+DO,Dominican Republic,Extant,Native,Native,56863
+PR,Puerto Rico,Extant,Native,Native,56875
+CU,Cuba,Extant,Native,Native,7455
+DO,Dominican Republic,Extant,Native,Native,56877
+PR,Puerto Rico,Extant,Native,Native,56914
+DO,Dominican Republic,Extant,Native,Native,56938
+HT,Haiti,Extant,Native,Native,56938
+VG,"Virgin Islands, British",Extant,Native,Native,56954
+VI,"Virgin Islands, U.S.",Extinct Post-1500,Native,Regionally Extinct,56954
+CU,Cuba,Extant,Native,Native,56968
+DO,Dominican Republic,Extant,Native,Native,195014
+HT,Haiti,Extant,Native,Native,195014
+CU,Cuba,Extant,Native,Native,57003
+CU,Cuba,Extant,Native,Native,57009
+PR,Puerto Rico,Extant,Native,Native,57056
+MX,Mexico,Extant,Native,Native,78497362
+CU,Cuba,Extant,Native,Native,57065
+CU,Cuba,Extant,Native,Native,57069
+US,United States of America,Extant,Native,Native,7602
+MG,Madagascar,Extant,Native,Native,7624
+MG,Madagascar,Extant,Native,Native,136316
+US,United States of America,Extant,Native,Native,7640
+US,United States of America,Extant,Native,Native,7633
+TH,Thailand,Extant,Native,Native,180894
+AU,Australia,Extant,Native,Native,7664
+AS,American Samoa,Possibly Extinct,Native,Possibly Extinct,7669
+FJ,Fiji,Extant,Native,Native,7669
+FM,"Micronesia, Federated States of ",Extant,Native,Native,7669
+GU,Guam,Extinct Post-1500,Native,Regionally Extinct,7669
+MP,Northern Mariana Islands,Extant,Native,Native,7669
+PW,Palau,Extant,Native,Native,7669
+TO,Tonga,Possibly Extinct,Native,Possibly Extinct,7669
+VU,Vanuatu,Extinct Post-1500,Native,Regionally Extinct,7669
+WS,Samoa,Possibly Extinct,Native,Possibly Extinct,7669
+CN,China,Extant,Native,Native,22720905
+KP,"Korea, Democratic People's Republic of",Extant,Native,Native,22720905
+RU,Russian Federation,Extant,Native,Native,22720905
+AS,American Samoa,Extant,Native,Native,178217
+CK,Cook Islands,Extant,Native,Native,178217
+TK,Tokelau,Extant,Native,Native,178217
+TV,Tuvalu,Possibly Extinct,Native,Possibly Extinct,178217
+WF,Wallis and Futuna,Extant,Native,Native,178217
+WS,Samoa,Extant,Native,Native,178217
+VU,Vanuatu,Extant,Native,Native,178635
+FM,"Micronesia, Federated States of ",Extant,Native,Native,178469
+MH,Marshall Islands,Extant,Native,Native,178469
+FJ,Fiji,Extant,Native,Native,196600
+AS,American Samoa,Extant,Native,Native,178528
+NU,Niue,Extant,Native,Native,178528
+FJ,Fiji,Extant,Native,Native,196610
+FM,"Micronesia, Federated States of ",Extant,Native,Native,196614
+AS,American Samoa,Extant,Native,Native,196618
+WS,Samoa,Extant,Native,Native,196618
+FJ,Fiji,Extant,Native,Native,196624
+WF,Wallis and Futuna,Extant,Native,Native,196624
+CA,Canada,Extant,Native,Native,7709
+US,United States of America,Extant,Native,Native,7709
+MG,Madagascar,Extant,Native,Native,169600596
+MG,Madagascar,Extant,Native,Native,169600850
+MG,Madagascar,Extant,Native,Native,169600962
+MG,Madagascar,Extant,Native,Native,169601392
+MG,Madagascar,Extant,Native,Native,169874210
+MG,Madagascar,Extant,Native,Native,169929725
+PT,Portugal,Extant,Native,Native,124926701
+ID,Indonesia,Extant,Native,Native,91227352
+MY,Malaysia,Extant,Native,Native,91227352
+MY,Malaysia,Extant,Native,Native,7725
+MY,Malaysia,Extant,Native,Native,7727
+ZA,South Africa,Extant,Native,Native,137818
+AU,Australia,Extant,Native,Native,7744
+AU,Australia,Extant,Native,Native,7737
+AU,Australia,Extant,Native,Native,7739
+AU,Australia,Extant,Native,Native,153670
+AU,Australia,Extant,Native,Native,153671
+CA,Canada,Extant,Native,Native,7750
+JP,Japan,Extant,Native,Native,7750
+MX,Mexico,Extant,Native,Native,7750
+RU,Russian Federation,Extant,Native,Native,7750
+US,United States of America,Extant,Native,Native,7750
+AU,Australia,Extant,Native,Native,154700
+SC,Seychelles,Extant,Native,Native,199548
+KE,Kenya,Extant,Native,Native,162471417
+GN,Guinea,Extant,Native,Native,182466
+CM,Cameroon,Extant,Native,Native,182608
+GN,Guinea,Extant,Native,Native,151806574
+LR,Liberia,Extant,Native,Native,182865
+SL,Sierra Leone,Extant,Native,Native,182865
+CG,Congo,Extant,Native,Native,182762
+BI,Burundi,Extant,Native,Native,60420
+TZ,"Tanzania, United Republic of",Extant,Native,Native,60420
+GN,Guinea,Extant,Native,Native,151806662
+CG,Congo,Extant,Native,Native,182939
+GH,Ghana,Extant,Native,Native,182403
+CM,Cameroon,Extant,Native,Native,182702
+GQ,Equatorial Guinea,Extant,Native,Native,182702
+MG,Madagascar,Extant,Native,Native,169501853
+EG,Egypt,Extant,Native,Native,48342221
+CA,Canada,Extant,Native,Native,11208
+HN,Honduras,Extant,Native,Native,203508
+EC,Ecuador,Extant,Native,Native,89929498
+ID,Indonesia,Extant,Native,Native,22684502
+ES,Spain,Extant,Native,Native,68318023
+PT,Portugal,Extant,Native,Native,80257367
+IT,Italy,Extant,Native,Native,69667660
+IT,Italy,Extant,Native,Native,47691854
+IT,Italy,Extant,Native,Native,47692210
+NC,New Caledonia,Extant,Native,Native,176133
+CO,Colombia,Extant,Native,Native,59640
+CR,Costa Rica,Extant,Native,Native,165007
+CR,Costa Rica,Extant,Native,Native,7832
+GT,Guatemala,Extant,Native,Native,7833
+MX,Mexico,Extant,Native,Native,7833
+CR,Costa Rica,Extant,Native,Native,60251
+MX,Mexico,Extant,Native,Native,60252
+MX,Mexico,Extant,Native,Native,60254
+CR,Costa Rica,Extant,Native,Native,60255
+BZ,Belize,Extant,Native,Native,60256
+MX,Mexico,Extant,Native,Native,7835
+CR,Costa Rica,Extant,Native,Native,7836
+MX,Mexico,Extant,Native,Native,60257
+CR,Costa Rica,Extant,Native,Native,29600
+NI,Nicaragua,Extant,Native,Native,60258
+CN,China,Extant,Native,Native,43974
+HK,Hong Kong,Extant,Native,Native,43974
+JP,Japan,Extant,Native,Native,43974
+KR,"Korea, Republic of",Extant,Native,Native,43974
+MO,Macao,Extant,Native,Native,43974
+TW,"Taiwan, Province of China",Extant,Native,Native,43974
+VN,Viet Nam,Extant,Native,Native,43974
+US,United States of America,Extant,Native,Native,7866
+US,United States of America,Extant,Native,Native,7893
+CA,Canada,Extant,Native,Native,7889
+US,United States of America,Extant,Native,Native,7889
+NG,Nigeria,Extant,Native,Native,181727
+GH,Ghana,Extant,Native,Native,183126
+CI,Côte d'Ivoire,Extant,Native,Native,183000
+LR,Liberia,Extant,Native,Native,183139
+LR,Liberia,Extant,Native,Native,183110
+SL,Sierra Leone,Extant,Native,Native,183110
+SL,Sierra Leone,Extant,Native,Native,182818
+NG,Nigeria,Extant,Native,Native,182080
+LR,Liberia,Extant,Native,Native,183083
+CI,Côte d'Ivoire,Extant,Native,Native,183063
+LR,Liberia,Extant,Native,Native,183105
+LR,Liberia,Extant,Native,Native,182616
+LR,Liberia,Extant,Native,Native,181853
+GR,Greece,Extant,Native,Native,149172040
+RS,Serbia,Extant,Native,Native,149172040
+GP,Guadeloupe,Extant,Native,Native,7929
+CN,China,Extant,Native,Native,41763
+KZ,Kazakhstan,Extinct Post-1500,Native,Regionally Extinct,41763
+MN,Mongolia,Extant,Reintroduced,Reintroduced,41763
+RU,Russian Federation,Extinct Post-1500,Native,Regionally Extinct,41763
+UA,Ukraine,Extinct Post-1500,Native,Regionally Extinct,41763
+CN,China,Extant,Native,Native,7961
+KZ,Kazakhstan,Extinct Post-1500,Native,Regionally Extinct,7961
+MN,Mongolia,Extant,Reintroduced,Reintroduced,7961
+RU,Russian Federation,Extinct Post-1500,Native,Regionally Extinct,7961
+UA,Ukraine,Extinct Post-1500,Native,Regionally Extinct,7961
+ET,Ethiopia,Extant,Native,Native,7950
+KE,Kenya,Extant,Native,Native,7950
+SD,Sudan,Extinct Post-1500,Native,Regionally Extinct,7950
+SO,Somalia,Extinct Post-1500,Native,Regionally Extinct,7950
+KZ,Kazakhstan,Extant,Reintroduced,Reintroduced,7964
+TM,Turkmenistan,Extant,Native,Native,7964
+UZ,Uzbekistan,Extant,Reintroduced,Reintroduced,7964
+IR,"Iran, Islamic Republic of",Extant,Native,Native,7966
+IT,Italy,Extant,Native,Native,40099
+ID,Indonesia,Extant,Native,Native,104759151
+MU,Mauritius,Extant,Native,Native,8002
+CR,Costa Rica,Extant,Native,Native,149114729
+PA,Panama,Extant,Native,Native,149114729
+MG,Madagascar,Extant,Native,Native,190101542
+MG,Madagascar,Extant,Native,Native,190101622
+MG,Madagascar,Extant,Native,Native,190102194
+MG,Madagascar,Extant,Native,Native,190103495
+MG,Madagascar,Extant,Native,Native,190103518
+MG,Madagascar,Extant,Native,Native,190103544
+MG,Madagascar,Extant,Native,Native,190103577
+MG,Madagascar,Extant,Native,Native,80272879
+MG,Madagascar,Extant,Native,Native,190103831
+US,United States of America,Extant,Native,Native,8015
+CO,Colombia,Extant,Native,Native,22687939
+EC,Ecuador,Extant,Native,Native,22687909
+BR,Brazil,Extant,Native,Native,118245272
+CR,Costa Rica,Extant,Native,Native,125268272
+CW,Curaçao,Extant,Native,Native,50956309
+ID,Indonesia,Extant,Native,Native,103656367
+ID,Indonesia,Extant,Native,Native,103656371
+CA,Canada,Extant,Native,Native,8099
+CN,China,Extant,Native,Native,8099
+JP,Japan,Extant,Native,Native,8099
+KP,"Korea, Democratic People's Republic of",Possibly Extinct,Native,Possibly Extinct,8099
+KR,"Korea, Republic of",Possibly Extinct,Native,Possibly Extinct,8099
+MX,Mexico,Extant,Native,Native,8099
+RU,Russian Federation,Extant,Native,Native,8099
+US,United States of America,Extant,Native,Native,8099
+US,United States of America,Extant,Native,Native,202443
+MX,Mexico,Extant,Native,Native,8109
+US,United States of America,Extant,Native,Native,8110
+US,United States of America,Extant,Native,Native,202462
+US,United States of America,Extant,Native,Native,8113
+US,United States of America,Extant,Native,Native,8114
+US,United States of America,Extant,Native,Native,8120
+US,United States of America,Extant,Native,Native,8122
+US,United States of America,Extant,Native,Native,202515
+US,United States of America,Extant,Native,Native,8127
+US,United States of America,Extant,Native,Native,202530
+US,United States of America,Extant,Native,Native,202538
+US,United States of America,Extant,Native,Native,202542
+IN,India,Extant,Native,Native,169618
+AU,Australia,Extant,Native,Native,153672
+AU,Australia,Extant,Native,Native,153720
+AU,Australia,Extant,Native,Native,153615
+AU,Australia,Extant,Native,Native,153666
+AU,Australia,Extant,Native,Native,153718
+AU,Australia,Extant,Native,Native,8148
+AU,Australia,Extant,Native,Native,8149
+AU,Australia,Extant,Native,Native,8140
+AU,Australia,Extant,Native,Native,153609
+AU,Australia,Extant,Native,Native,153733
+AU,Australia,Extant,Native,Native,8141
+AU,Australia,Extant,Native,Native,165919
+AU,Australia,Extant,Native,Native,8150
+AU,Australia,Extant,Native,Native,153736
+AU,Australia,Extant,Native,Native,153725
+AU,Australia,Extant,Native,Native,153706
+AU,Australia,Extant,Native,Native,153673
+AU,Australia,Extant,Native,Native,8147
+AS,American Samoa,Extant,Native,Native,8135
+CA,Canada,Extant,Native,Native,41711
+JP,Japan,Extant,Native,Native,41711
+KR,"Korea, Republic of",Extant,Native,Native,41711
+MX,Mexico,Extant,Native,Native,41711
+RU,Russian Federation,Extant,Native,Native,41711
+TW,"Taiwan, Province of China",Extant,Native,Native,41711
+US,United States of America,Extant,Native,Native,41711
+SC,Seychelles,Extant,Origin Uncertain,Present - Origin Uncertain,201475
+SC,Seychelles,Extant,Native,Native,201473
+BO,"Bolivia, Plurinational State of",Extant,Native,Native,22701656
+PE,Peru,Extant,Native,Native,22701656
+AT,Austria,Extant,Native,Native,156608
+CH,Switzerland,Extant,Native,Native,156608
+DE,Germany,Extant,Native,Native,156608
+IT,Italy,Extant,Native,Native,156608
+SI,Slovenia,Extant,Native,Native,156608
+PT,Portugal,Extant,Native,Native,97185409
+PT,Portugal,Extant,Native,Native,97239685
+ER,Eritrea,Extant,Native,Native,8991
+ET,Ethiopia,Extant,Native,Native,8991
+SD,Sudan,Extant,Native,Native,8991
+FK,Falkland Islands (Malvinas),Extant,Vagrant,Vagrant,22734408
+NZ,New Zealand,Extant,Vagrant,Vagrant,22734408
+SH,"Saint Helena, Ascension and Tristan da Cunha",Extant,Native,Native,22734408
+TF,French Southern Territories,Extant,Native,Native,22734408
+ZA,South Africa,Extant,Vagrant,Vagrant,22734408
+AQ,Antarctica,Extant,Vagrant,Vagrant,22697789
+AR,Argentina,Extant,Vagrant,Vagrant,22697789
+AU,Australia,Extant,Vagrant,Vagrant,22697789
+FK,Falkland Islands (Malvinas),Extant,Vagrant,Vagrant,22697789
+NZ,New Zealand,Extant,Native,Native,22697789
+AU,Australia,Extant,Native,Native,8187
+AU,Australia,Extant,Native,Native,8189
+MG,Madagascar,Extant,Native,Native,8206
+MG,Madagascar,Extant,Native,Native,8199
+MG,Madagascar,Extant,Native,Native,8212
+MG,Madagascar,Extant,Native,Native,8210
+ES,Spain,Extant,Native,Native,149163297
+GR,Greece,Extant,Native,Native,149163287
+MK,North Macedonia,Extant,Native,Native,149163287
+ES,Spain,Extant,Native,Native,149165508
+ES,Spain,Extant,Native,Native,149163227
+PT,Portugal,Extant,Native,Native,149163227
+GR,Greece,Extant,Native,Native,149170436
+DE,Germany,Extant,Native,Native,149169828
+HU,Hungary,Extant,Native,Native,149169828
+SK,Slovakia,Extant,Native,Native,149169828
+UA,Ukraine,Extant,Native,Native,149169828
+GR,Greece,Extant,Native,Native,149170224
+ME,Montenegro,Extant,Native,Native,149170224
+FR,France,Extant,Native,Native,149170245
+GR,Greece,Extant,Native,Native,149169625
+ME,Montenegro,Extant,Native,Native,149169625
+ES,Spain,Extant,Native,Native,149169580
+GR,Greece,Extant,Native,Native,149167049
+ES,Spain,Extant,Native,Native,149169489
+CY,Cyprus,Extant,Native,Native,149169360
+GR,Greece,Extant,Native,Native,149169360
+FR,France,Extant,Native,Native,149166942
+IT,Italy,Extant,Native,Native,149166942
+CN,China,Extant,Vagrant,Vagrant,17367725
+JP,Japan,Extant,Native,Native,17367725
+KP,"Korea, Democratic People's Republic of",Extant,Vagrant,Vagrant,17367725
+KR,"Korea, Republic of",Extant,Vagrant,Vagrant,17367725
+RU,Russian Federation,Extant,Native,Native,17367725
+US,United States of America,Extant,Native,Native,17367725
+KE,Kenya,Extant,Native,Native,8264
+GQ,Equatorial Guinea,Extant,Native,Native,40002
+FR,France,Extant,Native,Native,149171568
+MG,Madagascar,Extant,Native,Native,91293534
+IN,India,Extant,Native,Native,8269
+PK,Pakistan,Extant,Native,Native,8269
+KH,Cambodia,Extant,Native,Native,173705199
+VN,Viet Nam,Extant,Native,Native,173705199
+TH,Thailand,Extant,Native,Native,190785
+MX,Mexico,Extant,Native,Native,22687635
+GR,Greece,Extant,Native,Native,45463340
+GR,Greece,Extant,Native,Native,45463281
+MG,Madagascar,Extant,Native,Native,39547
+ID,Indonesia,Extant,Native,Native,8328
+ID,Indonesia,Extant,Native,Native,8330
